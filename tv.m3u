@@ -181,7 +181,8 @@ https://cntv.sbs/live?auth=2307280808&id=zgtq
 https://cntv.sbs/lhws?auth=2307280808
 #EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="港澳台",凤凰香港
 https://cntv.sbs/fs?id=fhhk&auth=2307280808
-
+#EXTINF:-1 group-title="旅游",世界地理
+http://111.20.40.170/PLTV/88888893/224/3221226947/index.m3u8
 #EXTINF:-1 group-title="承德",承德新闻综合
 https://jwliveqxzb.hebyun.com.cn/cdsxwzhtv/cdsxwzhtv.m3u8
 #EXTINF:-1 group-title="承德",承德新闻综合
