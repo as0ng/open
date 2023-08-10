@@ -181,217 +181,40 @@ https://cntv.sbs/live?auth=2307280808&id=zgtq
 https://cntv.sbs/lhws?auth=2307280808
 #EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="港澳台",凤凰香港
 https://cntv.sbs/fs?id=fhhk&auth=2307280808
-#EXTINF:-1 group-title="测试频道",J2台
-http://sc2022.stream-link.org/tv2306.php?id=h03
-#EXTINF:-1 group-title="测试频道",无线新闻台
-http://sc2022.stream-link.org/tv2306.php?id=h04
-#EXTINF:-1 group-title="测试频道",无线财经体育资讯
-http://sc2022.stream-link.org/tv2306.php?id=h05
-#EXTINF:-1 group-title="测试频道",Now新闻台
-http://sc2022.stream-link.org/tv2306.php?id=h08
-#EXTINF:-1 group-title="测试频道",RTHK31
-http://sc2022.stream-link.org/tv2306.php?id=h09
-#EXTINF:-1 group-title="测试频道",RTHK32
-http://sc2022.stream-link.org/tv2306.php?id=h10
-#EXTINF:-1 group-title="测试频道",香港国际财经台
-http://sc2022.stream-link.org/tv2306.php?id=h13
-#EXTINF:-1 group-title="测试频道",香港国际财经台
-http://sc2022.stream-link.org/tv2306.php?id=h14
-#EXTINF:-1 group-title="测试频道",日·NHK
-https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
-#EXTINF:-1 group-title="测试频道",日·QVC
-http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
-#EXTINF:-1 group-title="测试频道",韩·BBS佛教
-http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1403706733.m3u8
-#EXTINF:-1 group-title="测试频道",韩·EBS-1
-http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/groundwavetablet500k.m3u8
-#EXTINF:-1 group-title="测试频道",韩·EBS-1
-http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/playlist.m3u8
-#EXTINF:-1 group-title="测试频道",韩·EBS-1
-http://ebsonairios.ebs.co.kr/plus1tablet500k/tablet500k/plus1tablet500k.index.m3u8
-#EXTINF:-1 group-title="测试频道",韩·EBS-2
-http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index.m3u8
-#EXTINF:-1 group-title="测试频道",韩·EBS-2
-http://ebsonairios.ebs.co.kr/plus2tablet500k/tablet500k/plus2tablet500k.index.m3u8
-#EXTINF:-1 group-title="测试频道",韩·EBS少儿
-http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w1965791004.m3u8
-#EXTINF:-1 group-title="测试频道",韩·KBC
-http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
-#EXTINF:-1 group-title="测试频道",韩·MTN
-http://183.110.27.87/mtnlive/_definst_/720/chunklist.m3u8
-#EXTINF:-1 group-title="测试频道",韩·SBS
-http://1.245.74.5:1935/live/tv/.m3u8
-#EXTINF:-1 group-title="测试频道",韩·阿里郎
-http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:-1 group-title="测试频道",韩·阿里郎WORLD
-http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch/master.m3u8
-#EXTINF:-1 group-title="测试频道",韩·职业
-http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8
-#EXTINF:-1 group-title="测试频道",CGTN
-http://live.cgtn.com/1000/prog_index.m3u8
-#EXTINF:-1 group-title="测试频道",CGTN阿语
-http://livear.cgtn.com/1000a/prog_index.m3u8
-#EXTINF:-1 group-title="测试频道",CGTN西语
-http://livees.cgtn.com/1000e/prog_index.m3u8
-#EXTINF:-1 group-title="测试频道",CGTN俄语
-http://liveru.cgtn.com/1000r/prog_index.m3u8
-#EXTINF:-1 group-title="测试频道",CGTN纪实
-https://livedoc.cgtn.com/500d/prog_index.m3u8
-#EXTINF:-1 group-title="测试频道",Channel News Asia
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1 group-title="测试频道",Channel News Asia『蓝光』
-http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1 group-title="测试频道",CNA(1080p)[480*270]
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
-#EXTINF:-1 group-title="测试频道",NDTV 24X7[640*480]
-https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
-#EXTINF:-1 group-title="测试频道",THAIPBS-3
-http://thaipbs-live.cdn.byteark.com/live/playlist_480p/index.m3u8
-#EXTINF:-1 group-title="测试频道",VB
-http://live.tv2bornholm.dk/stream/live/chunklist.m3u8
-#EXTINF:-1 group-title="测试频道",ZEEALWAN50
-http://ghaasiflu.online/Dijlah/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="测试频道",半·新闻
-http://live-hls-web-aja.getaj.net/AJA/02.m3u8
-#EXTINF:-1 group-title="测试频道",俄·IGITV蓝光
-http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
-#EXTINF:-1 group-title="测试频道",俄·RBC(Opt-1)[996*560]
-http://92.50.128.180/utv/1358/index.m3u8
-#EXTINF:-1 group-title="测试频道",俄·音乐TROSoyuz
-http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
-#EXTINF:-1 group-title="测试频道",法·24台
-http://tv.balkanweb.com/news24/livestream/playlist.m3u8
-#EXTINF:-1 group-title="测试频道",法·24台
-http://tv.balkanweb.com:8081/news24/livestream/chunks.m3u8
-#EXTINF:-1 group-title="测试频道",法·时尚
-http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
-#EXTINF:-1 group-title="测试频道",法·时尚
-http://lb.streaming.sk/fashiontv/stream/chunklist_w1906011378.m3u8
-#EXTINF:-1 group-title="测试频道",美·NASA Public Channel
-https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
-#EXTINF:-1 group-title="测试频道",美·NASA Public Channel
-https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master_2000.m3u8
-#EXTINF:-1 group-title="测试频道",美·红牛运动
-http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
-#EXTINF:-1 group-title="测试频道",美·红牛运动
-http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
-#EXTINF:-1 group-title="测试频道",泰·THAIPBS
-http://thaipbs-live.cdn.byteark.com/live-en/playlist_720p/index.m3u8
-#EXTINF:-1 group-title="测试频道",泰·公共三台
-http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
-#EXTINF:-1 group-title="测试频道",乌·100ws
-http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
-#EXTINF:-1 group-title="测试频道",乌·M2音乐
-http://live.m2.tv/hls3/stream.m3u8
-#EXTINF:-1 group-title="测试频道",西·加利西亚欧洲体育电视台
-http://europa-crtvg.flumotion.com/playlist.m3u8
-#EXTINF:-1 group-title="测试频道",希·FoxTV
-http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8
-#EXTINF:-1 group-title="测试频道",新加坡·CNA
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
-#EXTINF:-1 group-title="测试频道",越·HBTV
-http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/playlist.m3u8
-#EXTINF:-1 group-title="测试频道",TVB J2
-https://j3.lhlh.app/mv.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="测试频道",澳亚卫视
-https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
-#EXTINF:-1 group-title="测试频道",TVBS新闻
-http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
-#EXTINF:-1 group-title="测试频道",TVBS新闻
-http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
-#EXTINF:-1 group-title="测试频道",民视新闻HD
-http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
-#EXTINF:-1 group-title="测试频道",番薯
-http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
-#EXTINF:-1 group-title="测试频道",耀才财经
-http://202.69.67.66:443/webcast/bshdlive-mobile/playlist.m3u8
-#EXTINF:-1 group-title="测试频道",耀才财经
-http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
-#EXTINF:-1 group-title="测试频道",ABC新闻
-http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/chunklist_b1300000.m3u8
-#EXTINF:-1 group-title="测试频道",NewsmaxTV
-http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
-#EXTINF:-1 group-title="测试频道",PBSAmerica
-https://pbs-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="测试频道",moviesphere
-https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="测试频道",AlarabyTV
-https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/playlist.m3u8
-#EXTINF:-1 group-title="测试频道",ComedyChannel
-https://uksono1-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="测试频道",EdgeSport
-https://edgesport-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="测试频道",CanadaOne
-http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
-#EXTINF:-1 group-title="测试频道",CA
-https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
-#EXTINF:-1 group-title="测试频道",InsightTV
-https://insighttv-samsung-canada.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="测试频道",Inwonder
-https://inwonder-samsung-canada.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="测试频道",Astrakhan24(Opt-2)
-http://streaming.astrakhan.ru/astrakhan24/index.m3u8
-#EXTINF:-1 group-title="测试频道",UgraTV
-http://live.ugratv.cdnvideo.ru/ugratv/smil:ugrastream1.smil/playlist.m3u8
-#EXTINF:-1 group-title="测试频道",Самара
-http://live.guberniatv.cdnvideo.ru/guberniatv/guberniatv.sdp/playlist.m3u8
-#EXTINF:-1 group-title="测试频道",UniverTV
-http://cdn.universmotri.ru/live/hq.sdp/chunklist_w1792531.m3u8
-#EXTINF:-1 group-title="测试频道",Comedy
-http://51.210.199.27/hls/stream.m3u8
-#EXTINF:-1 group-title="测试频道",Documentary
-http://51.210.199.23/hls/stream.m3u8
-#EXTINF:-1 group-title="测试频道",Family
-http://51.210.199.19/hls/stream.m3u8
-#EXTINF:-1 group-title="测试频道",Iranian
-http://51.210.199.22/hls/stream.m3u8
-#EXTINF:-1 group-title="测试频道",Music
-http://51.210.199.24/hls/stream.m3u8
-#EXTINF:-1 group-title="测试频道",Nostalgia
-http://51.210.199.20/hls/stream.m3u8
-#EXTINF:-1 group-title="测试频道",韩国-Arirang
-http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:-1 group-title="测试频道",韩国-EBS1
-http://ebsonairios.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
-#EXTINF:-1 group-title="测试频道",韩国-EBS2
-http://ebsonairios.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 group-title="测试频道",韩国-EBSe
-http://ebsonairios.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 group-title="测试频道",韩国-KCTV
-http://119.77.96.184:1935/chn05/chn05/chunklist_w1306745753.m3u8
-#EXTINF:-1 group-title="测试频道",韩国-MBC综合频道
-http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
-#EXTINF:-1 group-title="测试频道",韩国-NBS Korea Agricultural Broadc
-https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
-#EXTINF:-1 group-title="测试频道",日本购物1
-http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
-#EXTINF:-1 group-title="测试频道",越南-VBSTV
-http://uni6rtmp.tulix.tv:1935/vbstv/vbsabr.smil/playlist.m3u8
-#EXTINF:-1 group-title="测试频道",印尼-TVRISports
-http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
-#EXTINF:-1 group-title="测试频道",印尼-TVRIKanal3
-http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/Stream(03)/index.m3u8
-#EXTINF:-1 group-title="测试频道",印尼-METROTV
-http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
-#EXTINF:-1 group-title="测试频道",伊朗-PBCTapeshTV
-http://iptv.tapesh.tv/tapesh/playlist.m3u8
-#EXTINF:-1 group-title="测试频道",伊拉克-SharqiyaNews
-http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8
-#EXTINF:-1 group-title="测试频道",日本Shop Channel
-https://stream3.shopch.jp/HLS/master.m3u8
-#EXTINF:-1 group-title="测试频道",日本UN WeTV
-https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8
-#EXTINF:-1 group-title="测试频道",香港卫视
-http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-#EXTINF:-1 group-title="测试频道",香港佛陀
-http://js1.amtb.cn/liveedge/_definst_/livetv/chunklist.m3u8
-#EXTINF:-1 group-title="测试频道",香港佛陀
-https://js1.amtb.cn/liveedge/_definst_/livetv/playlist.m3u8
-#EXTINF:-1 group-title="测试频道",长城精品
-http://38.64.72.148:80/hls/modn/list/4008/chunklist0.m3u8
-#EXTINF:-1 group-title="测试频道",长城精品
-http://38.64.72.148:80/hls/modn/list/4008/chunklist1.m3u8
-#EXTINF:-1 group-title="测试频道",金砖中文
-http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="测试频道",儒释道经
-https://live.ciguang.tv/live/hdtv.m3u8?auth_key=5216465889-0-0-701a98b03302233fc07fa2ee9e85d39b
+
+#EXTINF:-1 group-title="承德",承德新闻综合
+https://jwliveqxzb.hebyun.com.cn/cdsxwzhtv/cdsxwzhtv.m3u8
+#EXTINF:-1 group-title="承德",承德新闻综合
+https://jwcdnqx.hebyun.com.cn/live/cdsxwzhtv/1500k/tzwj_video.m3u8
+#EXTINF:-1 group-title="承德",承德公共生活
+https://jwliveqxzb.hebyun.com.cn/cdsggshtv/cdsggshtv.m3u8
+#EXTINF:-1 group-title="承德",承德公共生活
+https://jwcdnqx.hebyun.com.cn/live/cdsggshtv/1500k/tzwj_video.m3u8
+#EXTINF:-1 group-title="承德",丰宁综合
+https://jwliveqxzb.hebyun.com.cn/fengningzonghe/fengningzonghe.m3u8
+#EXTINF:-1 group-title="承德",丰宁综合
+https://jwcdnqx.hebyun.com.cn/live/fengningzonghe/1500k/tzwj_video.m3u8
+#EXTINF:-1 group-title="承德",丰宁娱乐
+https://jwcdnqx.hebyun.com.cn/live/fengningyulepindao/1500k/tzwj_video.m3u8
+#EXTINF:-1 group-title="承德",隆化综合
+http://hblh.chinashadt.com:2036/live/stream:lh1.stream/playlist.m3u8
+#EXTINF:-1 group-title="承德",隆化影视
+http://hblh.chinashadt.com:2036/live/stream:lh2.stream/playlist.m3u8
+#EXTINF:-1 group-title="承德",滦平新闻
+https://live.lpxrmtzx.com/live/wh.m3u8
+#EXTINF:-1 group-title="承德",平泉综合
+https://jwliveqxzb.hebyun.com.cn/pqzh/pqzh.m3u8
+#EXTINF:-1 group-title="承德",平泉综合
+https://jwcdnqx.hebyun.com.cn/live/pqzh/1500k/tzwj_video.m3u8
+#EXTINF:-1 group-title="承德",平泉影视
+https://jwliveqxzb.hebyun.com.cn/pqys/pqys.m3u8
+#EXTINF:-1 group-title="承德",平泉影视
+https://jwcdnqx.hebyun.com.cn/live/pqys/1500k/tzwj_video.m3u8
+#EXTINF:-1 group-title="承德",双滦新闻
+https://jwcdnqx.hebyun.com.cn/live/slxw/1500k/tzwj_video.m3u8
+#EXTINF:-1 group-title="承德",双滦影视
+https://jwcdnqx.hebyun.com.cn/live/slys/1500k/tzwj_video.m3u8
+#EXTINF:-1 group-title="承德",兴隆综合
+https://jwcdnqx.hebyun.com.cn/live/xlzh/1500k/tzwj_video.m3u8
+#EXTINF:-1 group-title="承德",兴隆影视
+https://jwcdnqx.hebyun.com.cn/live/xlys/1500k/tzwj_video.m3u8
