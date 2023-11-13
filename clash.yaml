@@ -1,63 +1,75 @@
-﻿port: 7890
+port: 7890
 socks-port: 7891
 allow-lan: true
 mode: Rule
 log-level: info
 external-controller: :9090
 proxies:
-  - {name: v.3 HK 3.1, server: cn.v.3.hk-1.relay-gd-1.tomatooo.xyz, port: 9550, type: vmess, uuid: 457364f1-d0b7-3334-bf34-47b6f9d53bba, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-path: /tomato, ws-headers: {Host: hk.v.3.az-5.tomatooo.xyz}, udp: true}
-  - {name: v.2 日本 1.0, server: cn.relay-v2.1.reltm.in, port: 50292, type: vmess, uuid: 457364f1-d0b7-3334-bf34-47b6f9d53bba, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-path: /tomato, ws-headers: {Host: jp.v2-1.reltm.in}, udp: true}
+  - {name: vmess-amd, server: amd.720208.xyz, port: 8080, type: vmess, uuid: 3fdf9d48-578a-42dc-9fdd-0dfcefa3d0c5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-path: "/?ed=2048", ws-headers: {Host: amd.720208.xyz}, udp: true}
+  - {name: vmess-amd-cdn, server: yx.cloudflarest.link, port: 8080, type: vmess, uuid: 3fdf9d48-578a-42dc-9fdd-0dfcefa3d0c5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-path: "/?ed=2048", ws-headers: {Host: amd.720208.xyz}, udp: true}
+  - {name: vmess-amd-cdn-iplocation, server: iplocation.io, port: 8080, type: vmess, uuid: 3fdf9d48-578a-42dc-9fdd-0dfcefa3d0c5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-path: "/?ed=2048", ws-headers: {Host: amd.720208.xyz}, udp: true}
+  - {name: vmess-amd-cdn-russia, server: russia.com, port: 8080, type: vmess, uuid: 3fdf9d48-578a-42dc-9fdd-0dfcefa3d0c5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-path: "/?ed=2048", ws-headers: {Host: amd.720208.xyz}, udp: true}
+  - {name: vmess-amd-cdn-japan, server: japan.com, port: 8080, type: vmess, uuid: 3fdf9d48-578a-42dc-9fdd-0dfcefa3d0c5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-path: "/?ed=2048", ws-headers: {Host: amd.720208.xyz}, udp: true}
+  - {name: vmess-rack, server: racknerd.720208.xyz, port: 8080, type: vmess, uuid: 8d1da7dc-35e0-4565-b9e4-cb593030827e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-path: /, ws-headers: {Host: racknerd.720208.xyz}, udp: true}
+  - {name: vmess-rack-cdn, server: yx.cloudflarest.link, port: 8080, type: vmess, uuid: 8d1da7dc-35e0-4565-b9e4-cb593030827e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-path: /, ws-headers: {Host: racknerd.720208.xyz}, udp: true}
+  - {name: vmess-rack-cdn-iplocation, server: iplocation.io, port: 8080, type: vmess, uuid: 8d1da7dc-35e0-4565-b9e4-cb593030827e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-path: /, ws-headers: {Host: racknerd.720208.xyz}, udp: true}
+  - {name: vmess-rack-cdn-russia, server: russia.com, port: 8080, type: vmess, uuid: 8d1da7dc-35e0-4565-b9e4-cb593030827e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-path: /, ws-headers: {Host: racknerd.720208.xyz}, udp: true}
+  - {name: vmess-rack-cdn-japan, server: japan.com, port: 8080, type: vmess, uuid: 8d1da7dc-35e0-4565-b9e4-cb593030827e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-path: /, ws-headers: {Host: racknerd.720208.xyz}, udp: true}
   - {name: v.3 HK 3.0, server: cn.v.3.hk-1.relay-gd-1.tomatooo.xyz, port: 32343, type: vmess, uuid: 457364f1-d0b7-3334-bf34-47b6f9d53bba, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-path: /tomato, ws-headers: {Host: hk.dia-0.dmit.tomatooo.xyz}, udp: true}
-  - {name: v.2 香港 1.0, server: cn.relay-v2.1.reltm.in, port: 50211, type: vmess, uuid: 457364f1-d0b7-3334-bf34-47b6f9d53bba, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-path: /tomato, ws-headers: {Host: hk.v.2-1.reltm.in}, udp: true}
-  - {name: vmess-rack, server: racknerd.720208.xyz, port: 8880, type: vmess, uuid: 8d1da7dc-35e0-4565-b9e4-cb593030827e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-path: /, ws-headers: {Host: racknerd.720208.xyz}, udp: true}
-  - {name: v.2 香港 2.1, server: cn.relay-v2.1.reltm.in, port: 50213, type: vmess, uuid: 457364f1-d0b7-3334-bf34-47b6f9d53bba, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-path: /tomato2.1, ws-headers: {Host: hk.v.2-3.reltm.in}, udp: true}
-  - {name: vmess-amd-cdn-kr1, server: 64.110.72.246, port: 8080, type: vmess, uuid: 3fdf9d48-578a-42dc-9fdd-0dfcefa3d0c5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-path: "/?ed=2048", ws-headers: {Host: amd.720208.xyz}, udp: true}
-  - {name: vmess-amd-cdn-kr2, server: 130.162.154.209, port: 8080, type: vmess, uuid: 3fdf9d48-578a-42dc-9fdd-0dfcefa3d0c5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-path: "/?ed=2048", ws-headers: {Host: amd.720208.xyz}, udp: true}
-  - {name: vmess-amd-cdn-kr3, server: 129.154.194.61, port: 8080, type: vmess, uuid: 3fdf9d48-578a-42dc-9fdd-0dfcefa3d0c5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-path: "/?ed=2048", ws-headers: {Host: amd.720208.xyz}, udp: true}
+  - {name: v.2 日本 1.0, server: cn.relay-v2.1.reltm.in, port: 50292, type: vmess, uuid: 457364f1-d0b7-3334-bf34-47b6f9d53bba, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-path: /tomato, ws-headers: {Host: jp.v2-1.reltm.in}, udp: true}
 proxy-groups:
   - name: 🔰 节点选择
     type: select
     proxies:
       - ♻️ 自动选择
       - 🎯 全球直连
-      - v.3 HK 3.1
-      - v.2 日本 1.0
-      - v.3 HK 3.0
-      - v.2 香港 1.0
+      - vmess-amd
+      - vmess-amd-cdn
+      - vmess-amd-cdn-iplocation
+      - vmess-amd-cdn-russia
+      - vmess-amd-cdn-japan
       - vmess-rack
-      - v.2 香港 2.1
-      - vmess-amd-cdn-kr1
-      - vmess-amd-cdn-kr2
-      - vmess-amd-cdn-kr3
+      - vmess-rack-cdn
+      - vmess-rack-cdn-iplocation
+      - vmess-rack-cdn-russia
+      - vmess-rack-cdn-japan
+      - v.3 HK 3.0
+      - v.2 日本 1.0
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     proxies:
-      - v.3 HK 3.1
-      - v.2 日本 1.0
-      - v.3 HK 3.0
-      - v.2 香港 1.0
+      - vmess-amd
+      - vmess-amd-cdn
+      - vmess-amd-cdn-iplocation
+      - vmess-amd-cdn-russia
+      - vmess-amd-cdn-japan
       - vmess-rack
-      - v.2 香港 2.1
-      - vmess-amd-cdn-kr1
-      - vmess-amd-cdn-kr2
-      - vmess-amd-cdn-kr3
+      - vmess-rack-cdn
+      - vmess-rack-cdn-iplocation
+      - vmess-rack-cdn-russia
+      - vmess-rack-cdn-japan
+      - v.3 HK 3.0
+      - v.2 日本 1.0
   - name: 🎥 NETFLIX
     type: select
     proxies:
       - 🔰 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - v.3 HK 3.1
-      - v.2 日本 1.0
-      - v.3 HK 3.0
-      - v.2 香港 1.0
+      - vmess-amd
+      - vmess-amd-cdn
+      - vmess-amd-cdn-iplocation
+      - vmess-amd-cdn-russia
+      - vmess-amd-cdn-japan
       - vmess-rack
-      - v.2 香港 2.1
-      - vmess-amd-cdn-kr1
-      - vmess-amd-cdn-kr2
-      - vmess-amd-cdn-kr3
+      - vmess-rack-cdn
+      - vmess-rack-cdn-iplocation
+      - vmess-rack-cdn-russia
+      - vmess-rack-cdn-japan
+      - v.3 HK 3.0
+      - v.2 日本 1.0
   - name: ⛔️ 广告拦截
     type: select
     proxies:
@@ -76,65 +88,75 @@ proxy-groups:
       - 🔰 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - v.3 HK 3.1
-      - v.2 日本 1.0
-      - v.3 HK 3.0
-      - v.2 香港 1.0
+      - vmess-amd
+      - vmess-amd-cdn
+      - vmess-amd-cdn-iplocation
+      - vmess-amd-cdn-russia
+      - vmess-amd-cdn-japan
       - vmess-rack
-      - v.2 香港 2.1
-      - vmess-amd-cdn-kr1
-      - vmess-amd-cdn-kr2
-      - vmess-amd-cdn-kr3
+      - vmess-rack-cdn
+      - vmess-rack-cdn-iplocation
+      - vmess-rack-cdn-russia
+      - vmess-rack-cdn-japan
+      - v.3 HK 3.0
+      - v.2 日本 1.0
   - name: 🌏 国内媒体
     type: select
     proxies:
       - 🎯 全球直连
-      - v.2 香港 1.0
-      - v.2 香港 2.1
       - 🔰 节点选择
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
       - 🎯 全球直连
       - 🔰 节点选择
-      - v.3 HK 3.1
-      - v.2 日本 1.0
-      - v.3 HK 3.0
-      - v.2 香港 1.0
+      - vmess-amd
+      - vmess-amd-cdn
+      - vmess-amd-cdn-iplocation
+      - vmess-amd-cdn-russia
+      - vmess-amd-cdn-japan
       - vmess-rack
-      - v.2 香港 2.1
-      - vmess-amd-cdn-kr1
-      - vmess-amd-cdn-kr2
-      - vmess-amd-cdn-kr3
+      - vmess-rack-cdn
+      - vmess-rack-cdn-iplocation
+      - vmess-rack-cdn-russia
+      - vmess-rack-cdn-japan
+      - v.3 HK 3.0
+      - v.2 日本 1.0
   - name: 📲 电报信息
     type: select
     proxies:
       - 🔰 节点选择
       - 🎯 全球直连
-      - v.3 HK 3.1
-      - v.2 日本 1.0
-      - v.3 HK 3.0
-      - v.2 香港 1.0
+      - vmess-amd
+      - vmess-amd-cdn
+      - vmess-amd-cdn-iplocation
+      - vmess-amd-cdn-russia
+      - vmess-amd-cdn-japan
       - vmess-rack
-      - v.2 香港 2.1
-      - vmess-amd-cdn-kr1
-      - vmess-amd-cdn-kr2
-      - vmess-amd-cdn-kr3
+      - vmess-rack-cdn
+      - vmess-rack-cdn-iplocation
+      - vmess-rack-cdn-russia
+      - vmess-rack-cdn-japan
+      - v.3 HK 3.0
+      - v.2 日本 1.0
   - name: 🍎 苹果服务
     type: select
     proxies:
       - 🔰 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - v.3 HK 3.1
-      - v.2 日本 1.0
-      - v.3 HK 3.0
-      - v.2 香港 1.0
+      - vmess-amd
+      - vmess-amd-cdn
+      - vmess-amd-cdn-iplocation
+      - vmess-amd-cdn-russia
+      - vmess-amd-cdn-japan
       - vmess-rack
-      - v.2 香港 2.1
-      - vmess-amd-cdn-kr1
-      - vmess-amd-cdn-kr2
-      - vmess-amd-cdn-kr3
+      - vmess-rack-cdn
+      - vmess-rack-cdn-iplocation
+      - vmess-rack-cdn-russia
+      - vmess-rack-cdn-japan
+      - v.3 HK 3.0
+      - v.2 日本 1.0
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -150,15 +172,18 @@ proxy-groups:
       - 🔰 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - v.3 HK 3.1
-      - v.2 日本 1.0
-      - v.3 HK 3.0
-      - v.2 香港 1.0
+      - vmess-amd
+      - vmess-amd-cdn
+      - vmess-amd-cdn-iplocation
+      - vmess-amd-cdn-russia
+      - vmess-amd-cdn-japan
       - vmess-rack
-      - v.2 香港 2.1
-      - vmess-amd-cdn-kr1
-      - vmess-amd-cdn-kr2
-      - vmess-amd-cdn-kr3
+      - vmess-rack-cdn
+      - vmess-rack-cdn-iplocation
+      - vmess-rack-cdn-russia
+      - vmess-rack-cdn-japan
+      - v.3 HK 3.0
+      - v.2 日本 1.0
 rules:
  - DOMAIN-SUFFIX,local,🎯 全球直连
  - IP-CIDR,192.168.0.0/16,🎯 全球直连,no-resolve
