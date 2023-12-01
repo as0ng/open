@@ -5,16 +5,19 @@ mode: Rule
 log-level: info
 external-controller: :9090
 proxies:
+  - {name: trojan-amd, server: amd.720208.xyz, port: 33333, type: trojan, password: ExJksGsD26, sni: amd.720208.xyz, skip-cert-verify: true, udp: true}
   - {name: vmess-amd, server: amd.720208.xyz, port: 8080, type: vmess, uuid: 3fdf9d48-578a-42dc-9fdd-0dfcefa3d0c5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-path: "/?ed=2048", ws-headers: {Host: amd.720208.xyz}, udp: true}
   - {name: vmess-amd-cdn, server: yx.cloudflarest.link, port: 8080, type: vmess, uuid: 3fdf9d48-578a-42dc-9fdd-0dfcefa3d0c5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-path: "/?ed=2048", ws-headers: {Host: amd.720208.xyz}, udp: true}
+  - {name: vmess-amd-cdn-cflip.gay, server: cfip.gay, port: 8080, type: vmess, uuid: 3fdf9d48-578a-42dc-9fdd-0dfcefa3d0c5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-path: "/?ed=2048", ws-headers: {Host: amd.720208.xyz}, udp: true}
   - {name: vmess-amd-cdn-iplocation, server: iplocation.io, port: 8080, type: vmess, uuid: 3fdf9d48-578a-42dc-9fdd-0dfcefa3d0c5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-path: "/?ed=2048", ws-headers: {Host: amd.720208.xyz}, udp: true}
-  - {name: vmess-amd-cdn-russia, server: russia.com, port: 8080, type: vmess, uuid: 3fdf9d48-578a-42dc-9fdd-0dfcefa3d0c5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-path: "/?ed=2048", ws-headers: {Host: amd.720208.xyz}, udp: true}
   - {name: vmess-amd-cdn-japan, server: japan.com, port: 8080, type: vmess, uuid: 3fdf9d48-578a-42dc-9fdd-0dfcefa3d0c5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-path: "/?ed=2048", ws-headers: {Host: amd.720208.xyz}, udp: true}
+  - {name: vmess-amd-cdn-russia, server: russia.com, port: 8080, type: vmess, uuid: 3fdf9d48-578a-42dc-9fdd-0dfcefa3d0c5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-path: "/?ed=2048", ws-headers: {Host: amd.720208.xyz}, udp: true}
   - {name: vmess-rack, server: racknerd.720208.xyz, port: 8080, type: vmess, uuid: 8d1da7dc-35e0-4565-b9e4-cb593030827e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-path: /, ws-headers: {Host: racknerd.720208.xyz}, udp: true}
   - {name: vmess-rack-cdn, server: yx.cloudflarest.link, port: 8080, type: vmess, uuid: 8d1da7dc-35e0-4565-b9e4-cb593030827e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-path: /, ws-headers: {Host: racknerd.720208.xyz}, udp: true}
+  - {name: vmess-rack-cdn-cflip.gay, server: cfip.gay, port: 8080, type: vmess, uuid: 8d1da7dc-35e0-4565-b9e4-cb593030827e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-path: /, ws-headers: {Host: racknerd.720208.xyz}, udp: true}
   - {name: vmess-rack-cdn-iplocation, server: iplocation.io, port: 8080, type: vmess, uuid: 8d1da7dc-35e0-4565-b9e4-cb593030827e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-path: /, ws-headers: {Host: racknerd.720208.xyz}, udp: true}
-  - {name: vmess-rack-cdn-russia, server: russia.com, port: 8080, type: vmess, uuid: 8d1da7dc-35e0-4565-b9e4-cb593030827e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-path: /, ws-headers: {Host: racknerd.720208.xyz}, udp: true}
   - {name: vmess-rack-cdn-japan, server: japan.com, port: 8080, type: vmess, uuid: 8d1da7dc-35e0-4565-b9e4-cb593030827e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-path: /, ws-headers: {Host: racknerd.720208.xyz}, udp: true}
+  - {name: vmess-rack-cdn-russia, server: russia.com, port: 8080, type: vmess, uuid: 8d1da7dc-35e0-4565-b9e4-cb593030827e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-path: /, ws-headers: {Host: racknerd.720208.xyz}, udp: true}
   - {name: v.3 HK 3.0, server: cn.v.3.hk-1.relay-gd-1.tomatooo.xyz, port: 32343, type: vmess, uuid: 457364f1-d0b7-3334-bf34-47b6f9d53bba, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-path: /tomato, ws-headers: {Host: hk.dia-0.dmit.tomatooo.xyz}, udp: true}
   - {name: v.2 日本 1.0, server: cn.relay-v2.1.reltm.in, port: 50292, type: vmess, uuid: 457364f1-d0b7-3334-bf34-47b6f9d53bba, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-path: /tomato, ws-headers: {Host: jp.v2-1.reltm.in}, udp: true}
 proxy-groups:
@@ -23,16 +26,19 @@ proxy-groups:
     proxies:
       - ♻️ 自动选择
       - 🎯 全球直连
+      - trojan-amd
       - vmess-amd
       - vmess-amd-cdn
+      - vmess-amd-cdn-cflip.gay
       - vmess-amd-cdn-iplocation
-      - vmess-amd-cdn-russia
       - vmess-amd-cdn-japan
+      - vmess-amd-cdn-russia
       - vmess-rack
       - vmess-rack-cdn
+      - vmess-rack-cdn-cflip.gay
       - vmess-rack-cdn-iplocation
-      - vmess-rack-cdn-russia
       - vmess-rack-cdn-japan
+      - vmess-rack-cdn-russia
       - v.3 HK 3.0
       - v.2 日本 1.0
   - name: ♻️ 自动选择
@@ -40,16 +46,19 @@ proxy-groups:
     url: http://www.gstatic.com/generate_204
     interval: 300
     proxies:
+      - trojan-amd
       - vmess-amd
       - vmess-amd-cdn
+      - vmess-amd-cdn-cflip.gay
       - vmess-amd-cdn-iplocation
-      - vmess-amd-cdn-russia
       - vmess-amd-cdn-japan
+      - vmess-amd-cdn-russia
       - vmess-rack
       - vmess-rack-cdn
+      - vmess-rack-cdn-cflip.gay
       - vmess-rack-cdn-iplocation
-      - vmess-rack-cdn-russia
       - vmess-rack-cdn-japan
+      - vmess-rack-cdn-russia
       - v.3 HK 3.0
       - v.2 日本 1.0
   - name: 🎥 NETFLIX
@@ -58,16 +67,19 @@ proxy-groups:
       - 🔰 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
+      - trojan-amd
       - vmess-amd
       - vmess-amd-cdn
+      - vmess-amd-cdn-cflip.gay
       - vmess-amd-cdn-iplocation
-      - vmess-amd-cdn-russia
       - vmess-amd-cdn-japan
+      - vmess-amd-cdn-russia
       - vmess-rack
       - vmess-rack-cdn
+      - vmess-rack-cdn-cflip.gay
       - vmess-rack-cdn-iplocation
-      - vmess-rack-cdn-russia
       - vmess-rack-cdn-japan
+      - vmess-rack-cdn-russia
       - v.3 HK 3.0
       - v.2 日本 1.0
   - name: ⛔️ 广告拦截
@@ -88,16 +100,19 @@ proxy-groups:
       - 🔰 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
+      - trojan-amd
       - vmess-amd
       - vmess-amd-cdn
+      - vmess-amd-cdn-cflip.gay
       - vmess-amd-cdn-iplocation
-      - vmess-amd-cdn-russia
       - vmess-amd-cdn-japan
+      - vmess-amd-cdn-russia
       - vmess-rack
       - vmess-rack-cdn
+      - vmess-rack-cdn-cflip.gay
       - vmess-rack-cdn-iplocation
-      - vmess-rack-cdn-russia
       - vmess-rack-cdn-japan
+      - vmess-rack-cdn-russia
       - v.3 HK 3.0
       - v.2 日本 1.0
   - name: 🌏 国内媒体
@@ -110,16 +125,19 @@ proxy-groups:
     proxies:
       - 🎯 全球直连
       - 🔰 节点选择
+      - trojan-amd
       - vmess-amd
       - vmess-amd-cdn
+      - vmess-amd-cdn-cflip.gay
       - vmess-amd-cdn-iplocation
-      - vmess-amd-cdn-russia
       - vmess-amd-cdn-japan
+      - vmess-amd-cdn-russia
       - vmess-rack
       - vmess-rack-cdn
+      - vmess-rack-cdn-cflip.gay
       - vmess-rack-cdn-iplocation
-      - vmess-rack-cdn-russia
       - vmess-rack-cdn-japan
+      - vmess-rack-cdn-russia
       - v.3 HK 3.0
       - v.2 日本 1.0
   - name: 📲 电报信息
@@ -127,16 +145,19 @@ proxy-groups:
     proxies:
       - 🔰 节点选择
       - 🎯 全球直连
+      - trojan-amd
       - vmess-amd
       - vmess-amd-cdn
+      - vmess-amd-cdn-cflip.gay
       - vmess-amd-cdn-iplocation
-      - vmess-amd-cdn-russia
       - vmess-amd-cdn-japan
+      - vmess-amd-cdn-russia
       - vmess-rack
       - vmess-rack-cdn
+      - vmess-rack-cdn-cflip.gay
       - vmess-rack-cdn-iplocation
-      - vmess-rack-cdn-russia
       - vmess-rack-cdn-japan
+      - vmess-rack-cdn-russia
       - v.3 HK 3.0
       - v.2 日本 1.0
   - name: 🍎 苹果服务
@@ -145,16 +166,19 @@ proxy-groups:
       - 🔰 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
+      - trojan-amd
       - vmess-amd
       - vmess-amd-cdn
+      - vmess-amd-cdn-cflip.gay
       - vmess-amd-cdn-iplocation
-      - vmess-amd-cdn-russia
       - vmess-amd-cdn-japan
+      - vmess-amd-cdn-russia
       - vmess-rack
       - vmess-rack-cdn
+      - vmess-rack-cdn-cflip.gay
       - vmess-rack-cdn-iplocation
-      - vmess-rack-cdn-russia
       - vmess-rack-cdn-japan
+      - vmess-rack-cdn-russia
       - v.3 HK 3.0
       - v.2 日本 1.0
   - name: 🎯 全球直连
@@ -172,16 +196,19 @@ proxy-groups:
       - 🔰 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
+      - trojan-amd
       - vmess-amd
       - vmess-amd-cdn
+      - vmess-amd-cdn-cflip.gay
       - vmess-amd-cdn-iplocation
-      - vmess-amd-cdn-russia
       - vmess-amd-cdn-japan
+      - vmess-amd-cdn-russia
       - vmess-rack
       - vmess-rack-cdn
+      - vmess-rack-cdn-cflip.gay
       - vmess-rack-cdn-iplocation
-      - vmess-rack-cdn-russia
       - vmess-rack-cdn-japan
+      - vmess-rack-cdn-russia
       - v.3 HK 3.0
       - v.2 日本 1.0
 rules:
