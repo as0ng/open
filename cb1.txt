@@ -24,3 +24,10 @@ Russian,https://cdn.adultiptv.net/russian.m3u8
 Teen,https://cdn.adultiptv.net/teen.m3u8
 Threesome,https://cdn.adultiptv.net/threesome.m3u8
 Woman,https://live.redtraffic.net/woman.m3u8
+Brazzers TV Europe (720p),https://cdn-main.lolokoko.tv/BRAZZERS.stream/chunks.m3u8
+Dorcel TV (720p),https://cdn-main.lolokoko.tv/DorcelTV.stream/playlist.m3u8
+EroX HD (720p),https://cdn-main.lolokoko.tv/Eroxx.stream/playlist.m3u8
+EroXXX HD (720p),https://cdn-main.lolokoko.tv/Eroxxx.stream/playlist.m3u8
+Hustler HD (720p),https://cdn-main.lolokoko.tv/HUSTLER.stream/chunks.m3u8
+Private TV HD (720p),https://cdn-main.lolokoko.tv/Private.stream/playlist.m3u8
+Redlight HD (720p),https://cdn-main.lolokoko.tv/REDLIGHT.stream/chunks.m3u8
