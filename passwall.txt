@@ -28,3 +28,14 @@ hy2://0.123456@amd2.720208.xyz:443/?sni=amd2.720208.xyz#hy2-amd2
 hy2://0.123456@arm3g.720208.xyz:443?sni=arm3g.720208.xyz#hy2-arm3g
 trojan://BF434MGTN9@arm3g.720208.xyz:23650?type=ws&security=none&path=%2F%3Fed%3D2048#trojan-arm3g
 vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJ2bWVzcy1hcm0zZyIsCiAgImFkZCI6ICJhcm0zZy43MjAyMDgueHl6IiwKICAicG9ydCI6IDU4MTg2LAogICJpZCI6ICIzZmRmOWQ0OC01NzhhLTQyZGMtOWZkZC0wZGZjZWZhM2QwYzUiLAogICJhaWQiOiAwLAogICJuZXQiOiAid3MiLAogICJ0eXBlIjogIm5vbmUiLAogICJob3N0IjogIiIsCiAgInBhdGgiOiAiLz9lZD0yMDQ4IiwKICAidGxzIjogIm5vbmUiLAogICJmcCI6ICIiCn0=
+
+vless://3fdf9d48-578a-42dc-9fdd-0dfcefa3d0c5@47.245.58.175:2096?security=tls&sni=cmliu.720208.xyz&fp=random&type=ws&path=/proxyIP%3Dproxyip.jp.fxxk.dedyn.io&host=cmliu.720208.xyz&encryption=none#%F0%9F%87%AF%F0%9F%87%B5%20JP%2013
+vless://3fdf9d48-578a-42dc-9fdd-0dfcefa3d0c5@47.245.30.144:2053?security=tls&sni=cmliu.720208.xyz&fp=random&type=ws&path=/proxyIP%3Dproxyip.jp.fxxk.dedyn.io&host=cmliu.720208.xyz&encryption=none#%F0%9F%87%AF%F0%9F%87%B5%20JP
+vless://3fdf9d48-578a-42dc-9fdd-0dfcefa3d0c5@47.245.56.50:2083?security=tls&sni=cmliu.720208.xyz&fp=random&type=ws&path=/proxyIP%3Dproxyip.jp.fxxk.dedyn.io&host=cmliu.720208.xyz&encryption=none#%F0%9F%87%AF%F0%9F%87%B5%20JP%208
+vless://3fdf9d48-578a-42dc-9fdd-0dfcefa3d0c5@125.229.1.204:23393?security=tls&sni=cmliu.720208.xyz&fp=random&type=ws&path=/proxyIP%3Dproxyip.tw.fxxk.dedyn.io&host=cmliu.720208.xyz&encryption=none#%F0%9F%87%B9%F0%9F%87%BC%20TW%202
+vless://3fdf9d48-578a-42dc-9fdd-0dfcefa3d0c5@47.245.58.175:2053?security=tls&sni=cmliu.720208.xyz&fp=random&type=ws&path=/proxyIP%3Dproxyip.jp.fxxk.dedyn.io&host=cmliu.720208.xyz&encryption=none#%F0%9F%87%AF%F0%9F%87%B5%20JP%2019
+vless://3fdf9d48-578a-42dc-9fdd-0dfcefa3d0c5@154.17.31.217:37976?security=tls&sni=cmliu.720208.xyz&fp=random&type=ws&path=/proxyIP%3Dproxyip.us.fxxk.dedyn.io&host=cmliu.720208.xyz&encryption=none#%F0%9F%87%BA%F0%9F%87%B8%20US%208
+vless://3fdf9d48-578a-42dc-9fdd-0dfcefa3d0c5@47.245.30.144:2096?security=tls&sni=cmliu.720208.xyz&fp=random&type=ws&path=/proxyIP%3Dproxyip.jp.fxxk.dedyn.io&host=cmliu.720208.xyz&encryption=none#%F0%9F%87%AF%F0%9F%87%B5%20JP%202
+vless://3fdf9d48-578a-42dc-9fdd-0dfcefa3d0c5@58.125.72.58:31075?security=tls&sni=cmliu.720208.xyz&fp=random&type=ws&path=/proxyIP%3Dproxyip.kr.fxxk.dedyn.io&host=cmliu.720208.xyz&encryption=none#%F0%9F%87%B0%F0%9F%87%B7%20KR%202
+vless://3fdf9d48-578a-42dc-9fdd-0dfcefa3d0c5@8.209.246.24:2083?security=tls&sni=cmliu.720208.xyz&fp=random&type=ws&path=/proxyIP%3Dproxyip.jp.fxxk.dedyn.io&host=cmliu.720208.xyz&encryption=none#%F0%9F%87%AF%F0%9F%87%B5%20JP%2012
+vless://3fdf9d48-578a-42dc-9fdd-0dfcefa3d0c5@47.245.30.144:2083?security=tls&sni=cmliu.720208.xyz&fp=random&type=ws&path=/proxyIP%3Dproxyip.jp.fxxk.dedyn.io&host=cmliu.720208.xyz&encryption=none#%F0%9F%87%AF%F0%9F%87%B5%20JP%2015
