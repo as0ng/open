@@ -1,1823 +1,1405 @@
-#EXTM3U
-#EXTINF:-1,CCTV1
-http://218.241.192.50:8808/udp/239.3.1.129:8008
-#EXTINF:-1,CCTV2
-http://218.241.192.50:8808/udp/239.3.1.60:8084
-#EXTINF:-1,CCTV3
-http://218.241.192.50:8808/udp/239.3.1.172:8001
-#EXTINF:-1,CCTV4
-http://218.241.192.50:8808/udp/239.3.1.105:8092
-#EXTINF:-1,CCTV5
-http://218.241.192.50:8808/udp/239.3.1.173:8001
-#EXTINF:-1,CCTV6
-http://218.241.192.50:8808/udp/239.3.1.174:8001
-#EXTINF:-1,CCTV7
-http://218.241.192.50:8808/udp/239.3.1.61:8104
-#EXTINF:-1,CCTV8
-http://218.241.192.50:8808/udp/239.3.1.175:8001
-#EXTINF:-1,CCTV9
-http://218.241.192.50:8808/udp/239.3.1.62:8112
-#EXTINF:-1,CCTV10
-http://218.241.192.50:8808/udp/239.3.1.63:8116
-#EXTINF:-1,CCTV14
-http://218.241.192.50:8808/udp/239.3.1.65:8132
-#EXTINF:-1,CCTV15
-http://218.241.192.50:8808/udp/239.3.1.153:8136
-#EXTINF:-1,CCTV16
-http://218.241.192.50:8808/udp/239.3.1.184:8001
-#EXTINF:-1,CCTV17
-http://218.241.192.50:8808/udp/239.3.1.151:8144
-#EXTINF:-1,CCTV1
-https://live.goodiptv.club/api/bestv.php?id=cctv1hd8m/8000000
-#EXTINF:-1,CCTV2
-https://live.goodiptv.club/api/bestv.php?id=cctv2hd8m/8000000
-#EXTINF:-1,CCTV3
-https://live.goodiptv.club/api/bestv.php?id=cctv38m/8000000
-#EXTINF:-1,CCTV4
-https://live.goodiptv.club/api/bestv.php?id=cctv4hd8m/8000000
-#EXTINF:-1,CCTV5
-https://live.goodiptv.club/api/bestv.php?id=cctv58m/8000000
-#EXTINF:-1,CCTV5+
-https://live.goodiptv.club/api/bestv.php?id=cctv5phd8m/8000000
-#EXTINF:-1,CCTV6
-https://live.goodiptv.club/api/bestv.php?id=cctv6hd8m/8000000
-#EXTINF:-1,CCTV7
-https://live.goodiptv.club/api/bestv.php?id=cctv7hd8m/8000000
-#EXTINF:-1,CCTV8
-https://live.goodiptv.club/api/bestv.php?id=cctv8hd8m/8000000
-#EXTINF:-1,CCTV9
-https://live.goodiptv.club/api/bestv.php?id=cctv9hd8m/8000000
-#EXTINF:-1,CCTV10
-https://live.goodiptv.club/api/bestv.php?id=cctv10hd8m/8000000
-#EXTINF:-1,CCTV11
-https://live.goodiptv.club/api/bestv.php?id=cctv11hd8m/8000000
-#EXTINF:-1,CCTV12
-https://live.goodiptv.club/api/bestv.php?id=cctv12hd8m/8000000
-#EXTINF:-1,CCTV13
-https://live.goodiptv.club/api/bestv.php?id=cctv13xwhd8m/8000000
-#EXTINF:-1,CCTV14
-https://live.goodiptv.club/api/bestv.php?id=cctvsehd8m/8000000
-#EXTINF:-1,CCTV15
-https://live.goodiptv.club/api/bestv.php?id=cctv15hd8m/8000000
-#EXTINF:-1,CCTV16
-https://live.goodiptv.club/api/bestv.php?id=cctv16hd8m/8000000
-#EXTINF:-1,CCTV16-4K
-https://live.goodiptv.club/api/bestv.php?id=cctv16hd4k/15000000
-#EXTINF:-1,CCTV-4K
-https://live.goodiptv.club/api/bestv.php?id=cctv4k/15000000
-#EXTINF:-1,CCTV17
-https://live.goodiptv.club/api/bestv.php?id=cctv17hd8m/8000000
-#EXTINF:-1,CCTV2
-http://103.45.68.47:666/gy/gy_pDKS/阳泉.php?id=065
-#EXTINF:-1,CCTV3
-http://103.45.68.47:666/gy/gy_pDKS/阳泉.php?id=126
-#EXTINF:-1,CCTV5
-http://103.45.68.47:666/gy/gy_pDKS/阳泉.php?id=125
-#EXTINF:-1,CCTV5+
-http://103.45.68.47:666/gy/gy_pDKS/阳泉.php?id=124
-#EXTINF:-1,CCTV6
-http://103.45.68.47:666/gy/gy_pDKS/阳泉.php?id=127
-#EXTINF:-1,CCTV8
-http://103.45.68.47:666/gy/gy_pDKS/阳泉.php?id=128
-#EXTINF:-1,CCTV9
-http://103.45.68.47:666/gy/gy_pDKS/阳泉.php?id=050
-#EXTINF:-1,CCTV10
-http://103.45.68.47:666/gy/gy_pDKS/阳泉.php?id=099
-#EXTINF:-1,CCTV11
-http://103.45.68.47:666/gy/gy_pDKS/阳泉.php?id=008
-#EXTINF:-1,CCTV12
-http://103.45.68.47:666/gy/gy_pDKS/阳泉.php?id=168
-#EXTINF:-1,CCTV13
-http://103.45.68.47:666/gy/gy_pDKS/阳泉.php?id=032
-#EXTINF:-1,CCTV14
-http://103.45.68.47:666/gy/gy_pDKS/阳泉.php?id=151
-#EXTINF:-1,CCTV15
-http://103.45.68.47:666/gy/gy_pDKS/阳泉.php?id=007
-#EXTINF:-1,CCTV17
-http://103.45.68.47:666/gy/gy_pDKS/阳泉.php?id=200
-#EXTINF:-1,CCTV1
-http://103.45.68.47:666/gy/gy_pDKS/贵州长id.php?id=ca1f525f17a2eddd9c98fbe17997d9df
-#EXTINF:-1,CCTV2
-http://103.45.68.47:666/gy/gy_pDKS/贵州长id.php?id=2a8ffd4ee56b3fe048ac854671336398
-#EXTINF:-1,CCTV4
-http://103.45.68.47:666/gy/gy_pDKS/贵州长id.php?id=0ad5b86534e39cb9a77b00a76ac9fe12
-#EXTINF:-1,CCTV7
-http://103.45.68.47:666/gy/gy_pDKS/贵州长id.php?id=3fa4584c5de70fde94692563299e998c
-#EXTINF:-1,CCTV9
-http://103.45.68.47:666/gy/gy_pDKS/贵州长id.php?id=0f8ce350b1250e8e50f4d1b10042b1c5
-#EXTINF:-1,CCTV10
-http://103.45.68.47:666/gy/gy_pDKS/贵州长id.php?id=a1a56acc29d03965227b40ff665e2377
-#EXTINF:-1,CCTV11
-http://103.45.68.47:666/gy/gy_pDKS/贵州长id.php?id=f73d2482318583c3ba7513b4e21d4a48
-#EXTINF:-1,CCTV12
-http://103.45.68.47:666/gy/gy_pDKS/贵州长id.php?id=113eb2f0bd0ca6cf1779140bd1bb525f
-#EXTINF:-1,CCTV13
-http://103.45.68.47:666/gy/gy_pDKS/贵州长id.php?id=9bd0e0cf065e0ea9f5adfb9f0bad355e
-#EXTINF:-1,CCTV14
-http://103.45.68.47:666/gy/gy_pDKS/贵州长id.php?id=9a8a29dbf54f51d4502ae2cbf87272b4
-#EXTINF:-1,CCTV15
-http://103.45.68.47:666/gy/gy_pDKS/贵州长id.php?id=3f7ce58607980e4a75c3d065ef4e33d3
-#EXTINF:-1,CCTV16
-http://103.45.68.47:666/gy/gy_pDKS/贵州长id.php?id=d521eba18ca2907befce170828004cbe
-#EXTINF:-1,CCTV17
-http://103.45.68.47:666/gy/gy_pDKS/贵州长id.php?id=f5bc1ced6da68073115cc7ccd2c8925b
-#EXTINF:-1,CCTV1
-http://103.45.68.47:666/gy/gy_pDKS/豆豆.php?id=CCTV1HD_7000
-#EXTINF:-1,CCTV2
-http://103.45.68.47:666/gy/gy_pDKS/豆豆.php?id=CCTV2HD_7000
-#EXTINF:-1,CCTV3
-http://103.45.68.47:666/gy/gy_pDKS/豆豆.php?id=1603
-#EXTINF:-1,CCTV4
-http://103.45.68.47:666/gy/gy_pDKS/豆豆.php?id=1604
-#EXTINF:-1,CCTV5
-http://103.45.68.47:666/gy/gy_pDKS/豆豆.php?id=1605
-#EXTINF:-1,CCTV5+
-http://103.45.68.47:666/gy/gy_pDKS/豆豆.php?id=1403
-#EXTINF:-1,CCTV6
-http://103.45.68.47:666/gy/gy_pDKS/豆豆.php?id=1606
-#EXTINF:-1,CCTV7
-http://103.45.68.47:666/gy/gy_pDKS/豆豆.php?id=1607
-#EXTINF:-1,CCTV8
-http://103.45.68.47:666/gy/gy_pDKS/豆豆.php?id=1608
-#EXTINF:-1,CCTV9
-http://103.45.68.47:666/gy/gy_pDKS/豆豆.php?id=CCTV9HD_7000
-#EXTINF:-1,CCTV10
-http://103.45.68.47:666/gy/gy_pDKS/豆豆.php?id=1610
-#EXTINF:-1,CCTV11
-http://103.45.68.47:666/gy/gy_pDKS/豆豆.php?id=CCTV-11HD_7500
-#EXTINF:-1,CCTV12
-http://103.45.68.47:666/gy/gy_pDKS/豆豆.php?id=1612
-#EXTINF:-1,CCTV13
-http://103.45.68.47:666/gy/gy_pDKS/豆豆.php?id=1613
-#EXTINF:-1,CCTV14
-http://103.45.68.47:666/gy/gy_pDKS/豆豆.php?id=CCTV14HD_7000
-#EXTINF:-1,CCTV15
-http://103.45.68.47:666/gy/gy_pDKS/豆豆.php?id=CCTV-15HD_7500
-#EXTINF:-1,CCTV16
-http://103.45.68.47:666/gy/gy_pDKS/豆豆.php?id=1617_4500
-#EXTINF:-1,CCTV17
-http://103.45.68.47:666/gy/gy_pDKS/豆豆.php?id=CCTV17HD
-#EXTINF:-1,CCTV4K
-http://103.45.68.47:666/gy/gy_pDKS/豆豆.php?id=4005
-#EXTINF:-1,CCTV16-4K
-http://103.45.68.47:666/gy/gy_pDKS/豆豆.php?id=4010
-#EXTINF:-1,cctv1
-http://103.45.68.47:666/gy/gy_pDKS/爱看mg.php?id=cctv1
-#EXTINF:-1,cctv1b
-http://103.45.68.47:666/gy/gy_pDKS/爱看mg.php?id=cctv1b
-#EXTINF:-1,cctv2
-http://103.45.68.47:666/gy/gy_pDKS/爱看mg.php?id=cctv2
-#EXTINF:-1,cctv3
-http://103.45.68.47:666/gy/gy_pDKS/爱看mg.php?id=cctv3
-#EXTINF:-1,cctv4
-http://103.45.68.47:666/gy/gy_pDKS/爱看mg.php?id=cctv4
-#EXTINF:-1,cctv4欧洲
-http://103.45.68.47:666/gy/gy_pDKS/爱看mg.php?id=cctv4欧洲
-#EXTINF:-1,cctv4美洲
-http://103.45.68.47:666/gy/gy_pDKS/爱看mg.php?id=cctv4美洲
-#EXTINF:-1,cctv5
-http://103.45.68.47:666/gy/gy_pDKS/爱看mg.php?id=cctv5
-#EXTINF:-1,cctv5b
-http://103.45.68.47:666/gy/gy_pDKS/爱看mg.php?id=cctv5b
-#EXTINF:-1,cctv5p
-http://103.45.68.47:666/gy/gy_pDKS/爱看mg.php?id=cctv5p
-#EXTINF:-1,cctv5p2
-http://103.45.68.47:666/gy/gy_pDKS/爱看mg.php?id=cctv5p2
-#EXTINF:-1,cctv6
-http://103.45.68.47:666/gy/gy_pDKS/爱看mg.php?id=cctv6
-#EXTINF:-1,cctv7
-http://103.45.68.47:666/gy/gy_pDKS/爱看mg.php?id=cctv7
-#EXTINF:-1,cctv8
-http://103.45.68.47:666/gy/gy_pDKS/爱看mg.php?id=cctv8
-#EXTINF:-1,cctv9
-http://103.45.68.47:666/gy/gy_pDKS/爱看mg.php?id=cctv9
-#EXTINF:-1,cctv10
-http://103.45.68.47:666/gy/gy_pDKS/爱看mg.php?id=cctv10
-#EXTINF:-1,cctv11
-http://103.45.68.47:666/gy/gy_pDKS/爱看mg.php?id=cctv11
-#EXTINF:-1,cctv12
-http://103.45.68.47:666/gy/gy_pDKS/爱看mg.php?id=cctv12
-#EXTINF:-1,cctv13
-http://103.45.68.47:666/gy/gy_pDKS/爱看mg.php?id=cctv13
-#EXTINF:-1,cctv14
-http://103.45.68.47:666/gy/gy_pDKS/爱看mg.php?id=cctv14
-#EXTINF:-1,cctv15
-http://103.45.68.47:666/gy/gy_pDKS/爱看mg.php?id=cctv15
-#EXTINF:-1,cctv17
-http://103.45.68.47:666/gy/gy_pDKS/爱看mg.php?id=cctv17
-#EXTINF:-1,CGTN西语
-http://103.45.68.47:666/gy/gy_pDKS/爱看mg.php?id=CGTN西语
-#EXTINF:-1,CGTN阿语
-http://103.45.68.47:666/gy/gy_pDKS/爱看mg.php?id=CGTN阿语
-#EXTINF:-1,CHC家庭影院
-http://103.45.68.47:666/gy/gy_pDKS/爱看mg.php?id=CHC家庭影院
-#EXTINF:-1,CGTN.576
-http://103.45.68.47:666/gy/gy_pDKS/豆豆.php?id=CCTV15news_1500
-#EXTINF:-1,CETV-1
-http://103.45.68.47:666/gy/gy_pDKS/豆豆.php?id=CETV-1
-#EXTINF:-1,CETV-1
-http://103.45.68.47:666/gy/gy_pDKS/贵州长id.php?id=8c8c11daf67f59b5e9c37f16bcb56d27
-#EXTINF:-1,CETV-1
-http://103.45.68.47:666/gy/gy_pDKS/阳泉.php?id=079
-#EXTINF:-1,CETV-4
-http://103.45.68.47:666/gy/gy_pDKS/阳泉.php?id=070
-#EXTINF:-1,CETV-4
-http://103.45.68.47:666/gy/gy_pDKS/豆豆.php?id=CETV-4
-#EXTINF:-1,CHC高清电影
-http://103.45.68.47:666/gy/gy_pDKS/豆豆.php?id=CHCHD_7000
-#EXTINF:-1,CHC家庭影院
-http://103.45.68.47:666/gy/gy_pDKS/豆豆.php?id=CHChometheatre_1500
-#EXTINF:-1,CHC动作电影
-http://103.45.68.47:666/gy/gy_pDKS/豆豆.php?id=CHCactionmovie_1500
-#EXTINF:-1,CCTV世界地理
-http://103.45.68.47:666/gy/gy_pDKS/贵州长id.php?id=6e407aeb2256f118cbc7500efb69ea37
-#EXTINF:-1,CCTV世界地理
-http://103.45.68.47:666/gy/gy_pDKS/阳泉.php?id=095
-#EXTINF:-1,CCTV发现之旅
-http://103.45.68.47:666/gy/gy_pDKS/阳泉.php?id=037
-#EXTINF:-1,CCTV发现之旅
-http://103.45.68.47:666/gy/gy_pDKS/贵州长id.php?id=0d7c4ba0acfe86609acdbcb88ef54f3a
-#EXTINF:-1,CCTV老故事
-http://103.45.68.47:666/gy/gy_pDKS/阳泉.php?id=038
-#EXTINF:-1,CCTV老故事
-http://103.45.68.47:666/gy/gy_pDKS/贵州长id.php?id=d92287ad8f1851adbf7365becc0f6ca8
-#EXTINF:-1,CCTV风云剧场
-http://103.45.68.47:666/gy/gy_pDKS/阳泉.php?id=096
-#EXTINF:-1,CCTV兵器科技
-http://103.45.68.47:666/gy/gy_pDKS/贵州长id.php?id=a0e5ccb15677fd5ecb6bfe15eeae94aa
-#EXTINF:-1,CCTV第一剧场
-http://103.45.68.47:666/gy/gy_pDKS/贵州长id.php?id=155774022270441e808f7fe34a461113
-#EXTINF:-1,CCTV风云足球
-http://103.45.68.47:666/gy/gy_pDKS/贵州长id.php?id=9a4447cf2f6ad5e48a273929e3e12d79
-#EXTINF:-1,CCTV女性时尚
-http://103.45.68.47:666/gy/gy_pDKS/贵州长id.php?id=85ed018e64f01b4ce5b455a1552dbde6
-#EXTINF:-1,CCTV央视文化精品
-http://103.45.68.47:666/gy/gy_pDKS/贵州长id.php?id=df2c3d5ea40de75807e926c8764da0d0
-#EXTINF:-1,CCTV中学生
-http://103.45.68.47:666/gy/gy_pDKS/贵州长id.php?id=29a07d1828d61288d409295537d150fb
-#EXTINF:-1,CCTV中视国宝
-http://103.45.68.47:666/gy/gy_pDKS/阳泉.php?id=144
-#EXTINF:-1,CCTV中学生
-http://103.45.68.47:666/gy/gy_pDKS/阳泉.php?id=069
-#EXTINF:-1,CCTV女性时尚
-http://103.45.68.47:666/gy/gy_pDKS/阳泉.php?id=035
-#EXTINF:-1,CCTV怀旧剧场
-http://103.45.68.47:666/gy/gy_pDKS/阳泉.php?id=092
-#EXTINF:-1,CCTV央视文化精品
-http://103.45.68.47:666/gy/gy_pDKS/阳泉.php?id=093
-#EXTINF:-1,CCTV风云足球
-http://103.45.68.47:666/gy/gy_pDKS/阳泉.php?id=094
-#EXTINF:-1,CCTV第一剧场
-http://103.45.68.47:666/gy/gy_pDKS/阳泉.php?id=097
-#EXTINF:-1,CCTV风云音乐
-http://103.45.68.47:666/gy/gy_pDKS/阳泉.php?id=098
-#EXTINF:-1,CCTV电视指南
-http://103.45.68.47:666/gy/gy_pDKS/阳泉.php?id=141
-#EXTINF:-1,CCTV卫生健康
-http://103.45.68.47:666/gy/gy_pDKS/阳泉.php?id=102
-#EXTINF:-1,全纪实
-http://103.45.68.47:666/gy/gy_pDKS/阳泉.php?id=100
-#EXTINF:-1,快乐垂钓
-http://103.45.68.47:666/gy/gy_pDKS/阳泉.php?id=040
-#EXTINF:-1,快乐垂钓
-http://103.45.68.47:666/gy/gy_pDKS/豆豆.php?id=huanxiaojuchang
-#EXTINF:-1,环球奇观
-http://103.45.68.47:666/gy/gy_pDKS/阳泉.php?id=036
-#EXTINF:-1,乐游
-http://103.45.68.47:666/gy/gy_pDKS/豆豆.php?id=quanjishiHD_7000
-#EXTINF:-1,求索纪录
-http://103.45.68.47:666/gy/gy_pDKS/豆豆.php?id=QSJLHD_7000
-#EXTINF:-1,求索科学
-http://103.45.68.47:666/gy/gy_pDKS/豆豆.php?id=qiusuokexueHD_7000
-#EXTINF:-1,求索动物
-http://103.45.68.47:666/gy/gy_pDKS/豆豆.php?id=QSDWHD_7000
-#EXTINF:-1,求索生活
-http://103.45.68.47:666/gy/gy_pDKS/豆豆.php?id=1612
-#EXTINF:-1,环球奇观
-http://103.45.68.47:666/gy/gy_pDKS/豆豆.php?id=huanqiuqiguan
-#EXTINF:-1,劲爆体育
-http://103.45.68.47:666/gy/gy_pDKS/阳泉.php?id=101
-#EXTINF:-1,游戏风云
-http://103.45.68.47:666/gy/gy_pDKS/阳泉.php?id=103
-#EXTINF:-1,动漫秀场
-http://103.45.68.47:666/gy/gy_pDKS/阳泉.php?id=104
-#EXTINF:-1,金鹰卡通
-http://103.45.68.47:666/gy/gy_pDKS/阳泉.php?id=107
-#EXTINF:-1,书画频道
-http://103.45.68.47:666/gy/gy_pDKS/阳泉.php?id=034
-#EXTINF:-1,摄影频道
-http://103.45.68.47:666/gy/gy_pDKS/阳泉.php?id=046
-#EXTINF:-1,梨园频道
-http://103.45.68.47:666/gy/gy_pDKS/阳泉.php?id=054
-#EXTINF:-1,重庆汽摩
-http://103.45.68.47:666/gy/gy_pDKS/阳泉.php?id=055
-#EXTINF:-1,梨园频道
-http://103.45.68.47:666/gy/gy_pDKS/豆豆.php?id=1937
-#EXTINF:-1,武术世界
-http://103.45.68.47:666/gy/gy_pDKS/豆豆.php?id=1938
-#EXTINF:-1,魅力足球
-http://103.45.68.47:666/gy/gy_pDKS/豆豆.php?id=meiliyinyueHD_7000
-#EXTINF:-1,劲爆体育
-http://103.45.68.47:666/gy/gy_pDKS/豆豆.php?id=jinbaotiyuHD_7000
-#EXTINF:-1,怀旧剧场576
-http://103.45.68.47:666/gy/gy_pDKS/豆豆.php?id=huaijiujuchang
-#EXTINF:-1,风云音乐576
-http://103.45.68.47:666/gy/gy_pDKS/豆豆.php?id=fengyunyinyue
-#EXTINF:-1,风云足球576
-http://103.45.68.47:666/gy/gy_pDKS/豆豆.php?id=fengyunzuqiu
-#EXTINF:-1,风云剧场576
-http://103.45.68.47:666/gy/gy_pDKS/豆豆.php?id=fengyunjuchang
-#EXTINF:-1,动漫秀场576
-http://103.45.68.47:666/gy/gy_pDKS/豆豆.php?id=dongmanxiuchang
-#EXTINF:-1,哈哈炫动576
-http://103.45.68.47:666/gy/gy_pDKS/豆豆.php?id=1258
-#EXTINF:-1,金鹰卡通576
-http://103.45.68.47:666/gy/gy_pDKS/豆豆.php?id=jinyingkatong
-#EXTINF:-1,卡酷少儿576
-http://103.45.68.47:666/gy/gy_pDKS/豆豆.php?id=kakushaoer
-#EXTINF:-1,新动漫
-http://103.45.68.47:666/gy/gy_pDKS/豆豆.php?id=xindongman
-#EXTINF:-1,优漫卡通576
-http://103.45.68.47:666/gy/gy_pDKS/豆豆.php?id=youmankatong
-#EXTINF:-1,文物宝库
-http://103.45.68.47:666/gy/gy_pDKS/豆豆.php?id=1939
-#EXTINF:-1,CETV1
+#EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml.gz"
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="央视",CCTV1
+http://119.54.12.6:9999/hls/1/index.m3u8#http://119.54.9.159:9999/hls/1/index.m3u8#http://221.226.4.10:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0#http://218.241.192.50:8808/udp/239.3.1.129:8008#http://hy.baojihzjc.com:9001/rtp/239.112.205.59:5140#http://gzly.softether.net:6005/udp/239.252.219.200:5140#http://220.185.84.34:4022/rtp/233.50.201.118:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="央视",CCTV2
+http://119.54.12.6:9999/hls/2/index.m3u8#http://1.24.190.98:10080/hls/2/index.m3u8#http://119.54.9.159:9999/hls/2/index.m3u8#http://221.226.4.10:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0#http://218.241.192.50:8808/udp/239.3.1.60:8084#http://hy.baojihzjc.com:9001/rtp/239.112.205.78:5140#http://gzly.softether.net:6005/udp/239.252.220.183:5140#http://220.185.84.34:4022/rtp/233.50.201.119:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="央视",CCTV3
+http://119.54.12.6:9999/hls/3/index.m3u8#http://1.24.190.98:10080/hls/3/index.m3u8#http://119.54.9.159:9999/hls/3/index.m3u8#http://221.226.4.10:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0#http://218.241.192.50:8808/udp/239.3.1.172:8001#http://hy.baojihzjc.com:9001/rtp/239.112.205.221:5140#http://gzly.softether.net:6005/udp/239.252.219.252:5140#http://gzly.softether.net:6005/udp/239.252.220.193:5140#http://220.185.84.34:4022/rtp/233.50.201.196:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="央视",CCTV4
+http://119.54.12.6:9999/hls/4/index.m3u8#http://1.24.190.98:10080/hls/4/index.m3u8#http://119.54.9.159:9999/hls/4/index.m3u8#http://221.226.4.10:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0#http://218.241.192.50:8808/udp/239.3.1.105:8092#http://hy.baojihzjc.com:9001/rtp/239.112.205.202:5140#http://gzly.softether.net:6005/udp/239.252.220.184:5140#http://220.185.84.34:4022/rtp/233.50.201.4:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="央视",CCTV5
+http://119.54.12.6:9999/hls/5/index.m3u8#http://1.24.190.98:10080/hls/5/index.m3u8#http://119.54.9.159:9999/hls/5/index.m3u8#http://221.226.4.10:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0#http://218.241.192.50:8808/udp/239.3.1.173:8001#http://hy.baojihzjc.com:9001/rtp/239.112.205.222:5140#http://gzly.softether.net:6005/udp/239.252.219.198:5140#http://gzly.softether.net:6005/udp/239.252.219.236:5140#http://220.185.84.34:4022/rtp/233.50.201.197:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="央视",CCTV6
+http://119.54.12.6:9999/hls/6/index.m3u8#http://1.24.190.98:10080/hls/6/index.m3u8#http://119.54.9.159:9999/hls/6/index.m3u8#http://221.226.4.10:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0#http://218.241.192.50:8808/udp/239.3.1.174:8001#http://hy.baojihzjc.com:9001/rtp/239.112.205.223:5140#http://gzly.softether.net:6005/udp/239.252.219.237:5140#http://gzly.softether.net:6005/udp/239.252.220.195:5140#http://220.185.84.34:4022/rtp/233.50.201.198:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="央视",CCTV7
+http://119.54.12.6:9999/hls/7/index.m3u8#http://1.24.190.98:10080/hls/7/index.m3u8#http://119.54.9.159:9999/hls/7/index.m3u8#http://221.226.4.10:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0#http://218.241.192.50:8808/udp/239.3.1.61:8104#http://hy.baojihzjc.com:9001/rtp/239.112.205.83:5140#http://gzly.softether.net:6005/udp/239.252.220.185:5140#http://220.185.84.34:4022/rtp/233.50.201.120:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="央视",CCTV8
+http://119.54.12.6:9999/hls/8/index.m3u8#http://1.24.190.98:10080/hls/8/index.m3u8#http://119.54.9.159:9999/hls/8/index.m3u8#http://221.226.4.10:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0#http://218.241.192.50:8808/udp/239.3.1.175:8001#http://hy.baojihzjc.com:9001/rtp/239.112.205.224:5140#http://gzly.softether.net:6005/udp/239.252.219.253:5140#http://gzly.softether.net:6005/udp/239.252.220.196:5140#http://220.185.84.34:4022/rtp/233.50.201.199:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="央视",CCTV9
+http://119.54.12.6:9999/hls/9/index.m3u8#http://1.24.190.98:10080/hls/9/index.m3u8#http://119.54.9.159:9999/hls/9/index.m3u8#http://221.226.4.10:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0#http://218.241.192.50:8808/udp/239.3.1.62:8112#http://hy.baojihzjc.com:9001/rtp/239.112.205.85:5140#http://gzly.softether.net:6005/udp/239.252.220.186:5140#http://220.185.84.34:4022/rtp/233.50.201.121:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="央视",CCTV10
+http://119.54.12.6:9999/hls/10/index.m3u8#http://1.24.190.98:10080/hls/10/index.m3u8#http://119.54.9.159:9999/hls/10/index.m3u8#http://221.226.4.10:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0#http://218.241.192.50:8808/udp/239.3.1.63:8116#http://hy.baojihzjc.com:9001/rtp/239.112.205.86:5140#http://gzly.softether.net:6005/udp/239.252.220.91:5140#http://220.185.84.34:4022/rtp/233.50.201.122:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="央视",CCTV11
+http://119.54.12.6:9999/hls/11/index.m3u8#http://1.24.190.98:10080/hls/11/index.m3u8#http://119.54.9.159:9999/hls/11/index.m3u8#http://hy.baojihzjc.com:9001/rtp/239.112.205.213:5140#http://gzly.softether.net:6005/udp/239.252.219.78:5140#http://220.185.84.34:4022/rtp/233.50.201.11:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="央视",CCTV12
+http://119.54.12.6:9999/hls/12/index.m3u8#http://1.24.190.98:10080/hls/12/index.m3u8#http://119.54.9.159:9999/hls/12/index.m3u8#http://221.226.4.10:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0#http://hy.baojihzjc.com:9001/rtp/239.112.205.88:5140#http://gzly.softether.net:6005/udp/239.252.220.187:5140#http://220.185.84.34:4022/rtp/233.50.201.123:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="央视",CCTV13
+http://119.54.12.6:9999/hls/13/index.m3u8#http://1.24.190.98:10080/hls/13/index.m3u8#http://119.54.9.159:9999/hls/13/index.m3u8#http://221.226.4.10:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0#http://gzly.softether.net:6005/udp/239.252.219.139:5140#http://220.185.84.34:4022/rtp/233.50.201.246:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="央视",CCTV14
+http://119.54.12.6:9999/hls/14/index.m3u8#http://1.24.190.98:10080/hls/14/index.m3u8#http://119.54.9.159:9999/hls/14/index.m3u8#http://218.241.192.50:8808/udp/239.3.1.65:8132#http://hy.baojihzjc.com:9001/rtp/239.112.205.91:5140#http://gzly.softether.net:6005/udp/239.252.220.92:5140#http://220.185.84.34:4022/rtp/233.50.201.124:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="央视",CCTV15
+http://119.54.12.6:9999/hls/15/index.m3u8#http://1.24.190.98:10080/hls/15/index.m3u8#http://119.54.9.159:9999/hls/15/index.m3u8#http://218.241.192.50:8808/udp/239.3.1.153:8136#http://hy.baojihzjc.com:9001/rtp/239.112.205.214:5140#http://gzly.softether.net:6005/udp/239.252.219.79:5140#http://220.185.84.34:4022/rtp/233.50.201.15:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="央视",CCTV16
+http://119.54.12.6:9999/hls/16/index.m3u8#http://119.54.9.159:9999/hls/16/index.m3u8#http://218.241.192.50:8808/udp/239.3.1.184:8001#http://hy.baojihzjc.com:9001/rtp/239.111.205.134:5140#http://220.185.84.34:4022/rtp/233.50.201.192:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="央视",CCTV17
+http://119.54.12.6:9999/hls/17/index.m3u8#http://119.54.9.159:9999/hls/17/index.m3u8#http://218.241.192.50:8808/udp/239.3.1.151:8144#http://hy.baojihzjc.com:9001/rtp/239.112.205.211:5140#http://gzly.softether.net:6005/udp/239.252.220.192:5140#http://220.185.84.34:4022/rtp/233.50.201.35:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="央视",CCTV16-4K
+http://119.54.12.6:9999/hls/29/index.m3u8#http://119.54.9.159:9999/hls/29/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="﻿CCTV1" tvg-logo="" group-title="央视",﻿CCTV1
+http://1.24.190.98:10080/hls/1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="央视",CCTV5+
+http://1.24.190.98:10080/hls/16/index.m3u8#http://221.226.4.10:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0#http://hy.baojihzjc.com:9001/rtp/239.111.205.13:5140#http://gzly.softether.net:6005/udp/239.252.219.72:5140#http://220.185.84.34:4022/rtp/233.50.201.220:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="央视",CETV1
+http://1.24.190.98:10080/hls/17/index.m3u8#http://119.54.9.159:9999/hls/70/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="央视",CETV2
+http://1.24.190.98:10080/hls/18/index.m3u8#http://119.54.9.159:9999/hls/71/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="央视",CETV4
+http://1.24.190.98:10080/hls/19/index.m3u8#http://119.54.9.159:9999/hls/72/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV16" tvg-logo="" group-title="央视",CCTV16 4K
+http://220.185.84.34:4022/rtp/233.50.201.63:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",北京卫视
+http://119.54.12.6:9999/hls/30/index.m3u8#http://1.24.190.98:10080/hls/68/index.m3u8#http://119.54.9.159:9999/hls/30/index.m3u8#http://27.185.2.92:9901/hls/34/index.m3u8#http://221.226.4.10:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0#http://121.19.134.245:808/tsfile/live/1015_1.m3u8#http://218.241.192.50:8808/udp/239.3.1.241:8000#http://103.45.68.47:666/gy/gy_pDKS/阳泉.php?id=152#http://103.45.68.47:666/gy/gy_pDKS/贵州长id.php?id=ebbfea54712e740cd1fc0d3b36873d52
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",东方卫视
+http://119.54.12.6:9999/hls/31/index.m3u8#http://1.24.190.98:10080/hls/66/index.m3u8#http://119.54.9.159:9999/hls/31/index.m3u8#http://27.185.2.92:9901/hls/46/index.m3u8#http://221.226.4.10:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0#http://121.19.134.245:808/tsfile/live/1026_1.m3u8#http://218.241.192.50:8808/udp/239.3.1.136:8032#http://103.45.68.47:666/gy/gy_pDKS/阳泉.php?id=117#http://103.45.68.47:666/gy/gy_pDKS/豆豆.php?id=dongfangHD_7000#http://103.45.68.47:666/gy/gy_pDKS/贵州长id.php?id=d697d7112f7cf3609cd88b63cce479d4#http://103.45.68.47:666/gy/gy_pDKS/爱看mg.php?id=东方卫视HD#http://103.45.68.47:666/gy/gy_pDKS/爱看mg.php?id=东方卫视HD2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",江苏卫视
+http://119.54.12.6:9999/hls/32/index.m3u8#http://1.24.190.98:10080/hls/61/index.m3u8#http://119.54.9.159:9999/hls/32/index.m3u8#http://221.226.4.10:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0#http://121.19.134.245:808/tsfile/live/1012_1.m3u8#http://218.241.192.50:8808/udp/239.3.1.135:8028#http://103.45.68.47:666/gy/gy_pDKS/阳泉.php?id=156#http://103.45.68.47:666/gy/gy_pDKS/贵州长id.php?id=ced2b0d62dabbd8651b18f4323c18c24#http://103.45.68.47:666/gy/gy_pDKS/爱看mg.php?id=江苏卫视HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",浙江卫视
+http://119.54.12.6:9999/hls/33/index.m3u8#http://1.24.190.98:10080/hls/63/index.m3u8#http://119.54.9.159:9999/hls/33/index.m3u8#http://27.185.2.92:9901/hls/31/index.m3u8#http://221.226.4.10:9901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0#http://121.19.134.245:808/tsfile/live/1011_1.m3u8#http://218.241.192.50:8808/udp/239.3.1.137:8036#http://103.45.68.47:666/gy/gy_pDKS/阳泉.php?id=157#http://103.45.68.47:666/gy/gy_pDKS/豆豆.php?id=zhejiangHD_7000#http://103.45.68.47:666/gy/gy_pDKS/贵州长id.php?id=a37bf5f7dbfb7bb35a5e6c9b5899dc69
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",湖南卫视
+http://119.54.12.6:9999/hls/34/index.m3u8#http://1.24.190.98:10080/hls/60/index.m3u8#http://119.54.9.159:9999/hls/34/index.m3u8#http://27.185.2.92:9901/hls/30/index.m3u8#http://221.226.4.10:9901/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0#http://121.19.134.245:808/tsfile/live/1010_1.m3u8#http://103.45.68.47:666/gy/gy_pDKS/阳泉.php?id=153#http://103.45.68.47:666/gy/gy_pDKS/豆豆.php?id=hunanHD_7000#http://103.45.68.47:666/gy/gy_pDKS/贵州长id.php?id=93e7f487ec23f5c99d8137e29933a083#http://103.45.68.47:666/gy/gy_pDKS/爱看mg.php?id=湖南卫视HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",辽宁卫视
+http://119.54.12.6:9999/hls/35/index.m3u8#http://1.24.190.98:10080/hls/72/index.m3u8#http://119.54.9.159:9999/hls/35/index.m3u8#http://27.185.2.92:9901/hls/36/index.m3u8#http://221.226.4.10:9901/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0#http://121.19.134.245:808/tsfile/live/1017_1.m3u8#http://218.241.192.50:8808/udp/239.3.1.210:8056#http://103.45.68.47:666/gy/gy_pDKS/阳泉.php?id=089#http://103.45.68.47:666/gy/gy_pDKS/豆豆.php?id=liaoningHD_7000#http://103.45.68.47:666/gy/gy_pDKS/贵州长id.php?id=1b84ff537ca4f4b4e57d070563309c56#http://103.45.68.47:666/gy/gy_pDKS/爱看mg.php?id=辽宁卫视HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",天津卫视
+http://119.54.12.6:9999/hls/36/index.m3u8#http://1.24.190.98:10080/hls/69/index.m3u8#http://119.54.9.159:9999/hls/36/index.m3u8#http://27.185.2.92:9901/hls/35/index.m3u8#http://221.226.4.10:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0#http://121.19.134.245:808/tsfile/live/1016_1.m3u8#http://218.241.192.50:8808/udp/239.3.1.141:1234#http://103.45.68.47:666/gy/gy_pDKS/阳泉.php?id=129#http://103.45.68.47:666/gy/gy_pDKS/豆豆.php?id=1415_4500#http://103.45.68.47:666/gy/gy_pDKS/贵州长id.php?id=bc3dcb148fc5c2d805dd0f61997fc683
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",深圳卫视
+http://119.54.12.6:9999/hls/37/index.m3u8#http://1.24.190.98:10080/hls/76/index.m3u8#http://119.54.9.159:9999/hls/37/index.m3u8#http://27.185.2.92:9901/hls/44/index.m3u8#http://221.226.4.10:9901/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0#http://121.19.134.245:808/tsfile/live/1024_1.m3u8#http://218.241.192.50:8808/udp/239.3.1.134:8020#http://103.45.68.47:666/gy/gy_pDKS/阳泉.php?id=159#http://103.45.68.47:666/gy/gy_pDKS/豆豆.php?id=shenzhenHD_7000#http://103.45.68.47:666/gy/gy_pDKS/贵州长id.php?id=9259af3b5798880664666d1977a63376
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",安徽卫视
+http://119.54.12.6:9999/hls/38/index.m3u8#http://1.24.190.98:10080/hls/85/index.m3u8#http://119.54.9.159:9999/hls/38/index.m3u8#http://27.185.2.92:9901/hls/33/index.m3u8#http://221.226.4.10:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0#http://121.19.134.245:808/tsfile/live/1013_1.m3u8#http://218.241.192.50:8808/udp/239.3.1.211:8064#http://103.45.68.47:666/gy/gy_pDKS/阳泉.php?id=133#http://103.45.68.47:666/gy/gy_pDKS/豆豆.php?id=anhuiHD#http://103.45.68.47:666/gy/gy_pDKS/贵州长id.php?id=bbe500382f3ee26a529e6e27f7f2935c
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",广东卫视
+http://119.54.12.6:9999/hls/39/index.m3u8#http://1.24.190.98:10080/hls/79/index.m3u8#http://119.54.9.159:9999/hls/39/index.m3u8#http://27.185.2.92:9901/hls/49/index.m3u8#http://221.226.4.10:9901/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0#http://121.19.134.245:808/tsfile/live/1028_1.m3u8#http://218.241.192.50:8808/udp/239.3.1.142:8048#http://103.45.68.47:666/gy/gy_pDKS/阳泉.php?id=085#http://103.45.68.47:666/gy/gy_pDKS/豆豆.php?id=1401#http://103.45.68.47:666/gy/gy_pDKS/贵州长id.php?id=02f45209e8dab92899920d74157fe58b#http://103.45.68.47:666/gy/gy_pDKS/爱看mg.php?id=广东卫视HD#http://103.45.68.47:666/gy/gy_pDKS/爱看mg.php?id=广东卫视HD2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",山东卫视
+http://119.54.12.6:9999/hls/40/index.m3u8#http://1.24.190.98:10080/hls/83/index.m3u8#http://119.54.9.159:9999/hls/40/index.m3u8#http://27.185.2.92:9901/hls/37/index.m3u8#http://221.226.4.10:9901/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0#http://121.19.134.245:808/tsfile/live/1018_1.m3u8#http://218.241.192.50:8808/udp/239.3.1.209:8052#http://103.45.68.47:666/gy/gy_pDKS/阳泉.php?id=130#http://103.45.68.47:666/gy/gy_pDKS/豆豆.php?id=1416_4500#http://103.45.68.47:666/gy/gy_pDKS/贵州长id.php?id=1db177c7492ad2769a93e3746f25f701#http://103.45.68.47:666/gy/gy_pDKS/爱看mg.php?id=山东卫视HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",贵州卫视
+http://119.54.12.6:9999/hls/41/index.m3u8#http://1.24.190.98:10080/hls/91/index.m3u8#http://119.54.9.159:9999/hls/41/index.m3u8#http://27.185.2.92:9901/hls/43/index.m3u8#http://221.226.4.10:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0#http://121.19.134.245:808/tsfile/live/1023_1.m3u8#http://218.241.192.50:8808/udp/239.3.1.149:8076#http://103.45.68.47:666/gy/gy_pDKS/阳泉.php?id=016#http://103.45.68.47:666/gy/gy_pDKS/豆豆.php?id=guizhouHD_7000#http://103.45.68.47:666/gy/gy_pDKS/贵州长id.php?id=9245676006cb79b03798b89fa05576b1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",黑龙江卫视
+http://119.54.12.6:9999/hls/42/index.m3u8#http://1.24.190.98:10080/hls/70/index.m3u8#http://119.54.9.159:9999/hls/42/index.m3u8#http://27.185.2.92:9901/hls/40/index.m3u8#http://221.226.4.10:9901/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0#http://121.19.134.245:808/tsfile/live/1020_1.m3u8#http://103.45.68.47:666/gy/gy_pDKS/阳泉.php?id=162#http://103.45.68.47:666/gy/gy_pDKS/豆豆.php?id=heilongjiangHD_7000#http://103.45.68.47:666/gy/gy_pDKS/贵州长id.php?id=9e3f3b7d57c55d7df8ef1cfb24d56e0e
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",河北卫视
+http://119.54.12.6:9999/hls/43/index.m3u8#http://1.24.190.98:10080/hls/78/index.m3u8#http://119.54.9.159:9999/hls/43/index.m3u8#http://27.185.2.92:9901/hls/17/index.m3u8#http://121.19.134.245:808/tsfile/live/0019_1.m3u8#http://103.45.68.47:666/gy/gy_pDKS/贵州长id.php?id=6916ee9ac9ec7c8da50c2b76bb18ffa8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",东南卫视
+http://119.54.12.6:9999/hls/44/index.m3u8#http://1.24.190.98:10080/hls/88/index.m3u8#http://119.54.9.159:9999/hls/44/index.m3u8#http://27.185.2.92:9901/hls/48/index.m3u8#http://221.226.4.10:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0#http://121.19.134.245:808/tsfile/live/1014_1.m3u8#http://218.241.192.50:8808/udp/239.3.1.156:8148#http://103.45.68.47:666/gy/gy_pDKS/阳泉.php?id=140#http://103.45.68.47:666/gy/gy_pDKS/豆豆.php?id=dongnanweishiHD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",湖北卫视
+http://119.54.12.6:9999/hls/45/index.m3u8#http://1.24.190.98:10080/hls/65/index.m3u8#http://119.54.9.159:9999/hls/45/index.m3u8#http://27.185.2.92:9901/hls/45/index.m3u8#http://221.226.4.10:9901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0#http://121.19.134.245:808/tsfile/live/1025_1.m3u8#http://218.241.192.50:8808/udp/239.3.1.138:8044#http://103.45.68.47:666/gy/gy_pDKS/阳泉.php?id=131#http://103.45.68.47:666/gy/gy_pDKS/豆豆.php?id=hubeiHD_7000#http://103.45.68.47:666/gy/gy_pDKS/贵州长id.php?id=21a70fb0fad52b17d49c5554f513d2ca#http://103.45.68.47:666/gy/gy_pDKS/爱看mg.php?id=湖北卫视HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",重庆卫视
+http://119.54.12.6:9999/hls/46/index.m3u8#http://1.24.190.98:10080/hls/87/index.m3u8#http://119.54.9.159:9999/hls/46/index.m3u8#http://27.185.2.92:9901/hls/47/index.m3u8#http://221.226.4.10:9901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0#http://121.19.134.245:808/tsfile/live/1027_1.m3u8#http://218.241.192.50:8808/udp/239.3.1.122:8160#http://103.45.68.47:666/gy/gy_pDKS/阳泉.php?id=148#http://103.45.68.47:666/gy/gy_pDKS/豆豆.php?id=chongqingHD_7000#http://103.45.68.47:666/gy/gy_pDKS/贵州长id.php?id=4491a96771fb324b6469a9ac6e25f5b9#http://103.45.68.47:666/gy/gy_pDKS/爱看mg.php?id=重庆卫视
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",云南卫视
+http://119.54.12.6:9999/hls/47/index.m3u8#http://1.24.190.98:10080/hls/92/index.m3u8#http://119.54.9.159:9999/hls/47/index.m3u8#http://27.185.2.92:9901/hls/38/index.m3u8#http://103.45.68.47:666/gy/gy_pDKS/阳泉.php?id=082#http://103.45.68.47:666/gy/gy_pDKS/贵州长id.php?id=ddeb36cf1dfe993107c20e7d42b14948
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",海南卫视
+http://119.54.12.6:9999/hls/48/index.m3u8#http://1.24.190.98:10080/hls/99/index.m3u8#http://119.54.9.159:9999/hls/48/index.m3u8#http://221.226.4.10:9901/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0#http://121.19.134.245:808/tsfile/live/1030_1.m3u8#http://103.45.68.47:666/gy/gy_pDKS/阳泉.php?id=170#http://103.45.68.47:666/gy/gy_pDKS/豆豆.php?id=1451_4500#http://103.45.68.47:666/gy/gy_pDKS/贵州长id.php?id=c4e94cc2af30425e578d55a030379a65#http://103.45.68.47:666/gy/gy_pDKS/爱看mg.php?id=海南卫视
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",陕西卫视
+http://119.54.12.6:9999/hls/49/index.m3u8#http://119.54.9.159:9999/hls/49/index.m3u8#http://27.185.2.92:9901/hls/52/index.m3u8#http://103.45.68.47:666/gy/gy_pDKS/阳泉.php?id=147#http://103.45.68.47:666/gy/gy_pDKS/贵州长id.php?id=9206b0f22c4febf2d490a85ac02766a1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",青海卫视
+http://119.54.12.6:9999/hls/50/index.m3u8#http://1.24.190.98:10080/hls/96/index.m3u8#http://119.54.9.159:9999/hls/50/index.m3u8#http://27.185.2.92:9901/hls/55/index.m3u8#http://221.226.4.10:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0#http://103.45.68.47:666/gy/gy_pDKS/阳泉.php?id=078#http://103.45.68.47:666/gy/gy_pDKS/贵州长id.php?id=d563232cc923dbc4efb4293d8d588aeb#http://103.45.68.47:666/gy/gy_pDKS/爱看mg.php?id=青海卫视
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",河南卫视
+http://119.54.12.6:9999/hls/51/index.m3u8#http://119.54.9.159:9999/hls/51/index.m3u8#http://27.185.2.92:9901/hls/39/index.m3u8#http://221.226.4.10:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0#http://121.19.134.245:808/tsfile/live/1019_1.m3u8#http://103.45.68.47:666/gy/gy_pDKS/阳泉.php?id=136#http://103.45.68.47:666/gy/gy_pDKS/贵州长id.php?id=a30fc79dc17df5a58885f43cd1aaaf2e
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",山西卫视
+http://119.54.12.6:9999/hls/52/index.m3u8#http://119.54.9.159:9999/hls/52/index.m3u8#http://27.185.2.92:9901/hls/53/index.m3u8#http://221.226.4.10:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0#http://103.45.68.47:666/gy/gy_pDKS/阳泉.php?id=166
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",内蒙古卫视
+http://119.54.12.6:9999/hls/53/index.m3u8#http://119.54.9.159:9999/hls/53/index.m3u8#http://27.185.2.92:9901/hls/54/index.m3u8#http://103.45.68.47:666/gy/gy_pDKS/阳泉.php?id=018#http://103.45.68.47:666/gy/gy_pDKS/贵州长id.php?id=c429d41e2e18aa0cd5bd2c838d35eda7#http://103.45.68.47:666/gy/gy_pDKS/爱看mg.php?id=内蒙古卫视
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",江西卫视
+http://119.54.12.6:9999/hls/54/index.m3u8#http://1.24.190.98:10080/hls/82/index.m3u8#http://119.54.9.159:9999/hls/54/index.m3u8#http://27.185.2.92:9901/hls/42/index.m3u8#http://121.19.134.245:808/tsfile/live/1022_1.m3u8#http://218.241.192.50:8808/udp/239.3.1.123:8164#http://103.45.68.47:666/gy/gy_pDKS/阳泉.php?id=080#http://103.45.68.47:666/gy/gy_pDKS/豆豆.php?id=jiangxiHD_7000#http://103.45.68.47:666/gy/gy_pDKS/贵州长id.php?id=5cd94d06a28dc264b537cbac9b7dec19
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",广西卫视
+http://119.54.12.6:9999/hls/55/index.m3u8#http://1.24.190.98:10080/hls/90/index.m3u8#http://119.54.9.159:9999/hls/55/index.m3u8#http://27.185.2.92:9901/hls/50/index.m3u8#http://221.226.4.10:9901/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0#http://103.45.68.47:666/gy/gy_pDKS/阳泉.php?id=083#http://103.45.68.47:666/gy/gy_pDKS/豆豆.php?id=guangxi#http://103.45.68.47:666/gy/gy_pDKS/贵州长id.php?id=187ab8cbe6c6ba5db7a938edab1e049a
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",西藏卫视
+http://119.54.12.6:9999/hls/56/index.m3u8#http://119.54.9.159:9999/hls/56/index.m3u8#http://27.185.2.92:9901/hls/58/index.m3u8#http://103.45.68.47:666/gy/gy_pDKS/阳泉.php?id=019#http://103.45.68.47:666/gy/gy_pDKS/贵州长id.php?id=9e0df14790c0e020e939da4d2bfa0521#http://103.45.68.47:666/gy/gy_pDKS/爱看mg.php?id=西藏卫视
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",四川卫视
+http://119.54.12.6:9999/hls/57/index.m3u8#http://1.24.190.98:10080/hls/86/index.m3u8#http://119.54.9.159:9999/hls/57/index.m3u8#http://27.185.2.92:9901/hls/41/index.m3u8#http://221.226.4.10:9901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0#http://121.19.134.245:808/tsfile/live/1021_1.m3u8#http://103.45.68.47:666/gy/gy_pDKS/阳泉.php?id=015#http://103.45.68.47:666/gy/gy_pDKS/豆豆.php?id=sichuanHD_7000#http://103.45.68.47:666/gy/gy_pDKS/贵州长id.php?id=a87d8615af79b7fc8eccaa2014eaf5ca
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",兵团卫视
+http://119.54.12.6:9999/hls/58/index.m3u8#http://1.24.190.98:10080/hls/89/index.m3u8#http://119.54.9.159:9999/hls/58/index.m3u8#http://103.45.68.47:666/gy/gy_pDKS/贵州长id.php?id=0f425d173b623ea4c49c96c6f073d109
+#EXTINF:-1 tvg-id="" tvg-name="东方财经" tvg-logo="" group-title="卫视",东方财经
+http://1.24.190.98:10080/hls/67/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",吉林卫视
+http://1.24.190.98:10080/hls/71/index.m3u8#http://27.185.2.92:9901/hls/51/index.m3u8#http://221.226.4.10:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0#http://121.19.134.245:808/tsfile/live/1029_1.m3u8#http://218.241.192.50:8808/udp/239.3.1.240:8172#http://103.45.68.47:666/gy/gy_pDKS/阳泉.php?id=088#http://103.45.68.47:666/gy/gy_pDKS/豆豆.php?id=jilinHD#http://103.45.68.47:666/gy/gy_pDKS/贵州长id.php?id=27975dec3d5bb0158291c75402d4a691#http://103.45.68.47:666/gy/gy_pDKS/爱看mg.php?id=吉林卫视
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",宁夏卫视
+http://1.24.190.98:10080/hls/93/index.m3u8#http://119.54.9.159:9999/hls/61/index.m3u8#http://27.185.2.92:9901/hls/57/index.m3u8#http://103.45.68.47:666/gy/gy_pDKS/阳泉.php?id=146#http://103.45.68.47:666/gy/gy_pDKS/贵州长id.php?id=5ca170032259b805051967fe22da8e32#http://103.45.68.47:666/gy/gy_pDKS/爱看mg.php?id=宁夏卫视
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",甘肃卫视
+http://1.24.190.98:10080/hls/95/index.m3u8#http://119.54.9.159:9999/hls/59/index.m3u8#http://103.45.68.47:666/gy/gy_pDKS/阳泉.php?id=132#http://103.45.68.47:666/gy/gy_pDKS/贵州长id.php?id=576a584528110c09d82de6b45d7ce182#http://103.45.68.47:666/gy/gy_pDKS/爱看mg.php?id=甘肃卫视
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",新疆卫视
+http://119.54.9.159:9999/hls/60/index.m3u8#http://103.45.68.47:666/gy/gy_pDKS/阳泉.php?id=149#http://103.45.68.47:666/gy/gy_pDKS/贵州长id.php?id=9f18a3278d5b83dc37d52b059e5b068e#http://103.45.68.47:666/gy/gy_pDKS/爱看mg.php?id=新疆卫视
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",三沙卫视
+http://119.54.9.159:9999/hls/62/index.m3u8#http://103.45.68.47:666/gy/gy_pDKS/豆豆.php?id=1453_4500
+#EXTINF:-1 tvg-id="" tvg-name="河北经济" tvg-logo="" group-title="卫视",河北经济
+http://27.185.2.92:9901/hls/18/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="河北都市" tvg-logo="" group-title="卫视",河北都市
+http://27.185.2.92:9901/hls/19/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="河北影视" tvg-logo="" group-title="卫视",河北影视
+http://27.185.2.92:9901/hls/20/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="河北少儿科教" tvg-logo="" group-title="卫视",河北少儿科教
+http://27.185.2.92:9901/hls/21/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="河北公共" tvg-logo="" group-title="卫视",河北公共
+http://27.185.2.92:9901/hls/22/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="河北农民" tvg-logo="" group-title="卫视",河北农民
+http://27.185.2.92:9901/hls/23/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="江苏卫视+" tvg-logo="" group-title="卫视",江苏卫视+
+http://27.185.2.92:9901/hls/32/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="江苏城市" tvg-logo="" group-title="卫视",江苏城市
+http://221.226.4.10:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="江苏综艺" tvg-logo="" group-title="卫视",江苏综艺
+http://221.226.4.10:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="江苏体育休闲" tvg-logo="" group-title="卫视",江苏体育休闲
+http://221.226.4.10:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="江苏影视" tvg-logo="" group-title="卫视",江苏影视
+http://221.226.4.10:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="江苏公共新闻" tvg-logo="" group-title="卫视",江苏公共新闻
+http://221.226.4.10:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="优漫卡通" tvg-logo="" group-title="卫视",优漫卡通
+http://221.226.4.10:9901/tsfile/live/1026_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="动漫秀场" tvg-logo="" group-title="卫视",动漫秀场
+http://221.226.4.10:9901/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="法治天地" tvg-logo="" group-title="卫视",法治天地
+http://221.226.4.10:9901/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="金鹰卡通" tvg-logo="" group-title="卫视",金鹰卡通
+http://121.19.134.245:808/tsfile/live/1032_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",山东教育卫视
+http://121.19.134.245:808/tsfile/live/1033_1.m3u8#http://103.45.68.47:666/gy/gy_pDKS/爱看mg.php?id=山东教育卫视
+#EXTINF:-1 tvg-id="" tvg-name="纪实人文" tvg-logo="" group-title="卫视",纪实人文
+http://121.19.134.245:808/tsfile/live/1034_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="纪实科教" tvg-logo="" group-title="卫视",纪实科教
+http://121.19.134.245:808/tsfile/live/1036_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CETV2" tvg-logo="" group-title="卫视",CETV2
+http://121.19.134.245:808/tsfile/live/1038_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CETV4" tvg-logo="" group-title="卫视",CETV4
+http://121.19.134.245:808/tsfile/live/1039_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="中国交通" tvg-logo="" group-title="卫视",中国交通
+http://121.19.134.245:808/tsfile/live/1040_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CETV1" tvg-logo="" group-title="卫视",CETV1
 http://218.241.192.50:8808/udp/239.3.1.57:8152
-#EXTINF:-1,中国环球
+#EXTINF:-1 tvg-id="" tvg-name="中国环球" tvg-logo="" group-title="卫视",中国环球
 http://218.241.192.50:8808/udp/239.3.1.215:4220
-#EXTINF:-1,环球纪录
+#EXTINF:-1 tvg-id="" tvg-name="环球纪录" tvg-logo="" group-title="卫视",环球纪录
 http://218.241.192.50:8808/udp/239.3.1.216:4220
-#EXTINF:-1,中文欧洲
+#EXTINF:-1 tvg-id="" tvg-name="中文欧洲" tvg-logo="" group-title="卫视",中文欧洲
 http://218.241.192.50:8808/udp/239.3.1.213:4220
-#EXTINF:-1,中文美洲
+#EXTINF:-1 tvg-id="" tvg-name="中文美洲" tvg-logo="" group-title="卫视",中文美洲
 http://218.241.192.50:8808/udp/239.3.1.214:4220
-#EXTINF:-1,北京卫视
-http://218.241.192.50:8808/udp/239.3.1.241:8000
-#EXTINF:-1,北京新闻
+#EXTINF:-1 tvg-id="" tvg-name="北京新闻" tvg-logo="" group-title="卫视",北京新闻
 http://218.241.192.50:8808/udp/239.3.1.159:8000
-#EXTINF:-1,北京影视
+#EXTINF:-1 tvg-id="" tvg-name="北京影视" tvg-logo="" group-title="卫视",北京影视
 http://218.241.192.50:8808/udp/239.3.1.158:8000
-#EXTINF:-1,北京财经
+#EXTINF:-1 tvg-id="" tvg-name="北京财经" tvg-logo="" group-title="卫视",北京财经
 http://218.241.192.50:8808/udp/239.3.1.116:8000
-#EXTINF:-1,北京生活
+#EXTINF:-1 tvg-id="" tvg-name="北京生活" tvg-logo="" group-title="卫视",北京生活
 http://218.241.192.50:8808/udp/239.3.1.117:8000
-#EXTINF:-1,浙江卫视
-http://218.241.192.50:8808/udp/239.3.1.137:8036
-#EXTINF:-1,江苏卫视
-http://218.241.192.50:8808/udp/239.3.1.135:8028
-#EXTINF:-1,东方卫视
-http://218.241.192.50:8808/udp/239.3.1.136:8032
-#EXTINF:-1,山东卫视
-http://218.241.192.50:8808/udp/239.3.1.209:8052
-#EXTINF:-1,安徽卫视
-http://218.241.192.50:8808/udp/239.3.1.211:8064
-#EXTINF:-1,湖北卫视
-http://218.241.192.50:8808/udp/239.3.1.138:8044
-#EXTINF:-1,东南卫视
-http://218.241.192.50:8808/udp/239.3.1.156:8148
-#EXTINF:-1,广东卫视
-http://218.241.192.50:8808/udp/239.3.1.142:8048
-#EXTINF:-1,辽宁卫视
-http://218.241.192.50:8808/udp/239.3.1.210:8056
-#EXTINF:-1,龙江卫视
+#EXTINF:-1 tvg-id="" tvg-name="龙江卫视" tvg-logo="" group-title="卫视",龙江卫视
 http://218.241.192.50:8808/udp/239.3.1.133:8016
-#EXTINF:-1,深圳卫视
-http://218.241.192.50:8808/udp/239.3.1.134:8020
-#EXTINF:-1,贵州卫视
-http://218.241.192.50:8808/udp/239.3.1.149:8076
-#EXTINF:-1,天津卫视
-http://218.241.192.50:8808/udp/239.3.1.141:1234
-#EXTINF:-1,重庆卫视
-http://218.241.192.50:8808/udp/239.3.1.122:8160
-#EXTINF:-1,江西卫视
-http://218.241.192.50:8808/udp/239.3.1.123:8164
-#EXTINF:-1,吉林卫视
-http://218.241.192.50:8808/udp/239.3.1.240:8172
-#EXTINF:-1,金鹰纪实
-http://218.241.192.50:8808/udp/239.3.1.58:8156
-#EXTINF:-1,纪实人文
-http://218.241.192.50:8808/udp/239.3.1.212:8060
-#EXTINF:-1,茶友频道
-http://218.241.192.50:8808/udp/239.3.1.165:8001
-#EXTINF:-1,快乐垂钓
-http://218.241.192.50:8808/udp/239.3.1.164:8001
-#EXTINF:-1,4K高清电影
-http://218.241.192.50:8808/udp/239.3.1.249:8001
-#EXTINF:-1,四川卫视
-http://103.45.68.47:666/gy/gy_pDKS/阳泉.php?id=015
-#EXTINF:-1,贵州卫视
-http://103.45.68.47:666/gy/gy_pDKS/阳泉.php?id=016
-#EXTINF:-1,内蒙古卫视
-http://103.45.68.47:666/gy/gy_pDKS/阳泉.php?id=018
-#EXTINF:-1,西藏卫视
-http://103.45.68.47:666/gy/gy_pDKS/阳泉.php?id=019
-#EXTINF:-1,青海卫视
-http://103.45.68.47:666/gy/gy_pDKS/阳泉.php?id=078
-#EXTINF:-1,江西卫视
-http://103.45.68.47:666/gy/gy_pDKS/阳泉.php?id=080
-#EXTINF:-1,云南卫视
-http://103.45.68.47:666/gy/gy_pDKS/阳泉.php?id=082
-#EXTINF:-1,广西卫视
-http://103.45.68.47:666/gy/gy_pDKS/阳泉.php?id=083
-#EXTINF:-1,广东卫视
-http://103.45.68.47:666/gy/gy_pDKS/阳泉.php?id=085
-#EXTINF:-1,南方卫视
+#EXTINF:-1 tvg-id="" tvg-name="南方卫视" tvg-logo="" group-title="卫视",南方卫视
 http://103.45.68.47:666/gy/gy_pDKS/阳泉.php?id=086
-#EXTINF:-1,吉林卫视
-http://103.45.68.47:666/gy/gy_pDKS/阳泉.php?id=088
-#EXTINF:-1,辽宁卫视
-http://103.45.68.47:666/gy/gy_pDKS/阳泉.php?id=089
-#EXTINF:-1,东方卫视
-http://103.45.68.47:666/gy/gy_pDKS/阳泉.php?id=117
-#EXTINF:-1,天津卫视
-http://103.45.68.47:666/gy/gy_pDKS/阳泉.php?id=129
-#EXTINF:-1,山东卫视
-http://103.45.68.47:666/gy/gy_pDKS/阳泉.php?id=130
-#EXTINF:-1,湖北卫视
-http://103.45.68.47:666/gy/gy_pDKS/阳泉.php?id=131
-#EXTINF:-1,甘肃卫视
-http://103.45.68.47:666/gy/gy_pDKS/阳泉.php?id=132
-#EXTINF:-1,安徽卫视
-http://103.45.68.47:666/gy/gy_pDKS/阳泉.php?id=133
-#EXTINF:-1,江苏卫视
-http://103.45.68.47:666/gy/gy_pDKS/阳泉.php?id=156
-#EXTINF:-1,河南卫视
-http://103.45.68.47:666/gy/gy_pDKS/阳泉.php?id=136
-#EXTINF:-1,东南卫视
-http://103.45.68.47:666/gy/gy_pDKS/阳泉.php?id=140
-#EXTINF:-1,宁夏卫视
-http://103.45.68.47:666/gy/gy_pDKS/阳泉.php?id=146
-#EXTINF:-1,陕西卫视
-http://103.45.68.47:666/gy/gy_pDKS/阳泉.php?id=147
-#EXTINF:-1,重庆卫视
-http://103.45.68.47:666/gy/gy_pDKS/阳泉.php?id=148
-#EXTINF:-1,新疆卫视
-http://103.45.68.47:666/gy/gy_pDKS/阳泉.php?id=149
-#EXTINF:-1,北京卫视
-http://103.45.68.47:666/gy/gy_pDKS/阳泉.php?id=152
-#EXTINF:-1,湖南卫视
-http://103.45.68.47:666/gy/gy_pDKS/阳泉.php?id=153
-#EXTINF:-1,浙江卫视
-http://103.45.68.47:666/gy/gy_pDKS/阳泉.php?id=157
-#EXTINF:-1,深圳卫视
-http://103.45.68.47:666/gy/gy_pDKS/阳泉.php?id=159
-#EXTINF:-1,黑龙江卫视
-http://103.45.68.47:666/gy/gy_pDKS/阳泉.php?id=162
-#EXTINF:-1,山西卫视
-http://103.45.68.47:666/gy/gy_pDKS/阳泉.php?id=166
-#EXTINF:-1,海南卫视
-http://103.45.68.47:666/gy/gy_pDKS/阳泉.php?id=170
-#EXTINF:-1,河北卫视
-http://103.45.68.47:666/gy/gy_pDKS/阳泉.php?id=173
-#EXTINF:-1,广东卫视
-http://103.45.68.47:666/gy/gy_pDKS/豆豆.php?id=1401
-#EXTINF:-1,深圳卫视
-http://103.45.68.47:666/gy/gy_pDKS/豆豆.php?id=shenzhenHD_7000
-#EXTINF:-1,东方卫视
-http://103.45.68.47:666/gy/gy_pDKS/豆豆.php?id=dongfangHD_7000
-#EXTINF:-1,湖南卫视
-http://103.45.68.47:666/gy/gy_pDKS/豆豆.php?id=hunanHD_7000
-#EXTINF:-1,江西卫视
-http://103.45.68.47:666/gy/gy_pDKS/豆豆.php?id=jiangxiHD_7000
-#EXTINF:-1,四川卫视
-http://103.45.68.47:666/gy/gy_pDKS/豆豆.php?id=sichuanHD_7000
-#EXTINF:-1,浙江卫视
-http://103.45.68.47:666/gy/gy_pDKS/豆豆.php?id=zhejiangHD_7000
-#EXTINF:-1,天津卫视
-http://103.45.68.47:666/gy/gy_pDKS/豆豆.php?id=1415_4500
-#EXTINF:-1,重庆卫视
-http://103.45.68.47:666/gy/gy_pDKS/豆豆.php?id=chongqingHD_7000
-#EXTINF:-1,贵州卫视
-http://103.45.68.47:666/gy/gy_pDKS/豆豆.php?id=guizhouHD_7000
-#EXTINF:-1,辽宁卫视
-http://103.45.68.47:666/gy/gy_pDKS/豆豆.php?id=liaoningHD_7000
-#EXTINF:-1,湖北卫视
-http://103.45.68.47:666/gy/gy_pDKS/豆豆.php?id=hubeiHD_7000
-#EXTINF:-1,黑龙江卫视
-http://103.45.68.47:666/gy/gy_pDKS/豆豆.php?id=heilongjiangHD_7000
-#EXTINF:-1,海南卫视
-http://103.45.68.47:666/gy/gy_pDKS/豆豆.php?id=1451_4500
-#EXTINF:-1,三沙卫视
-http://103.45.68.47:666/gy/gy_pDKS/豆豆.php?id=1453_4500
-#EXTINF:-1,东南卫视
-http://103.45.68.47:666/gy/gy_pDKS/豆豆.php?id=dongnanweishiHD
-#EXTINF:-1,山东卫视
-http://103.45.68.47:666/gy/gy_pDKS/豆豆.php?id=1416_4500
-#EXTINF:-1,安徽卫视
-http://103.45.68.47:666/gy/gy_pDKS/豆豆.php?id=anhuiHD
-#EXTINF:-1,吉林卫视
-http://103.45.68.47:666/gy/gy_pDKS/豆豆.php?id=jilinHD
-#EXTINF:-1,广西卫视
-http://103.45.68.47:666/gy/gy_pDKS/豆豆.php?id=guangxi
-#EXTINF:-1,凤凰资讯台
+#EXTINF:-1 tvg-id="" tvg-name="凤凰资讯台" tvg-logo="" group-title="卫视",凤凰资讯台
 http://103.45.68.47:666/gy/gy_pDKS/贵州长id.php?id=4ea97af53693ae02392251697dbb52fd
-#EXTINF:-1,凤凰中文
+#EXTINF:-1 tvg-id="" tvg-name="凤凰中文" tvg-logo="" group-title="卫视",凤凰中文
 http://103.45.68.47:666/gy/gy_pDKS/贵州长id.php?id=7eeb6c4285b0fcd7c9a265cf4d5bfac5
-#EXTINF:-1,安徽卫视
-http://103.45.68.47:666/gy/gy_pDKS/贵州长id.php?id=bbe500382f3ee26a529e6e27f7f2935c
-#EXTINF:-1,北京卫视
-http://103.45.68.47:666/gy/gy_pDKS/贵州长id.php?id=ebbfea54712e740cd1fc0d3b36873d52
-#EXTINF:-1,兵团卫视
-http://103.45.68.47:666/gy/gy_pDKS/贵州长id.php?id=0f425d173b623ea4c49c96c6f073d109
-#EXTINF:-1,东方卫视
-http://103.45.68.47:666/gy/gy_pDKS/贵州长id.php?id=d697d7112f7cf3609cd88b63cce479d4
-#EXTINF:-1,甘肃卫视
-http://103.45.68.47:666/gy/gy_pDKS/贵州长id.php?id=576a584528110c09d82de6b45d7ce182
-#EXTINF:-1,广东卫视
-http://103.45.68.47:666/gy/gy_pDKS/贵州长id.php?id=02f45209e8dab92899920d74157fe58b
-#EXTINF:-1,广西卫视
-http://103.45.68.47:666/gy/gy_pDKS/贵州长id.php?id=187ab8cbe6c6ba5db7a938edab1e049a
-#EXTINF:-1,海南卫视
-http://103.45.68.47:666/gy/gy_pDKS/贵州长id.php?id=c4e94cc2af30425e578d55a030379a65
-#EXTINF:-1,河北卫视
-http://103.45.68.47:666/gy/gy_pDKS/贵州长id.php?id=6916ee9ac9ec7c8da50c2b76bb18ffa8
-#EXTINF:-1,河南卫视
-http://103.45.68.47:666/gy/gy_pDKS/贵州长id.php?id=a30fc79dc17df5a58885f43cd1aaaf2e
-#EXTINF:-1,黑龙江卫视
-http://103.45.68.47:666/gy/gy_pDKS/贵州长id.php?id=9e3f3b7d57c55d7df8ef1cfb24d56e0e
-#EXTINF:-1,湖北卫视
-http://103.45.68.47:666/gy/gy_pDKS/贵州长id.php?id=21a70fb0fad52b17d49c5554f513d2ca
-#EXTINF:-1,湖南卫视
-http://103.45.68.47:666/gy/gy_pDKS/贵州长id.php?id=93e7f487ec23f5c99d8137e29933a083
-#EXTINF:-1,吉林卫视
-http://103.45.68.47:666/gy/gy_pDKS/贵州长id.php?id=27975dec3d5bb0158291c75402d4a691
-#EXTINF:-1,江苏卫视
-http://103.45.68.47:666/gy/gy_pDKS/贵州长id.php?id=ced2b0d62dabbd8651b18f4323c18c24
-#EXTINF:-1,江西卫视
-http://103.45.68.47:666/gy/gy_pDKS/贵州长id.php?id=5cd94d06a28dc264b537cbac9b7dec19
-#EXTINF:-1,辽宁卫视
-http://103.45.68.47:666/gy/gy_pDKS/贵州长id.php?id=1b84ff537ca4f4b4e57d070563309c56
-#EXTINF:-1,内蒙古卫视
-http://103.45.68.47:666/gy/gy_pDKS/贵州长id.php?id=c429d41e2e18aa0cd5bd2c838d35eda7
-#EXTINF:-1,宁夏卫视
-http://103.45.68.47:666/gy/gy_pDKS/贵州长id.php?id=5ca170032259b805051967fe22da8e32
-#EXTINF:-1,青海卫视
-http://103.45.68.47:666/gy/gy_pDKS/贵州长id.php?id=d563232cc923dbc4efb4293d8d588aeb
-#EXTINF:-1,山东卫视
-http://103.45.68.47:666/gy/gy_pDKS/贵州长id.php?id=1db177c7492ad2769a93e3746f25f701
-#EXTINF:-1,陕西卫视
-http://103.45.68.47:666/gy/gy_pDKS/贵州长id.php?id=9206b0f22c4febf2d490a85ac02766a1
-#EXTINF:-1,深圳卫视
-http://103.45.68.47:666/gy/gy_pDKS/贵州长id.php?id=9259af3b5798880664666d1977a63376
-#EXTINF:-1,四川卫视
-http://103.45.68.47:666/gy/gy_pDKS/贵州长id.php?id=a87d8615af79b7fc8eccaa2014eaf5ca
-#EXTINF:-1,天津卫视
-http://103.45.68.47:666/gy/gy_pDKS/贵州长id.php?id=bc3dcb148fc5c2d805dd0f61997fc683
-#EXTINF:-1,西藏卫视
-http://103.45.68.47:666/gy/gy_pDKS/贵州长id.php?id=9e0df14790c0e020e939da4d2bfa0521
-#EXTINF:-1,新疆卫视
-http://103.45.68.47:666/gy/gy_pDKS/贵州长id.php?id=9f18a3278d5b83dc37d52b059e5b068e
-#EXTINF:-1,云南卫视
-http://103.45.68.47:666/gy/gy_pDKS/贵州长id.php?id=ddeb36cf1dfe993107c20e7d42b14948
-#EXTINF:-1,浙江卫视
-http://103.45.68.47:666/gy/gy_pDKS/贵州长id.php?id=a37bf5f7dbfb7bb35a5e6c9b5899dc69
-#EXTINF:-1,重庆卫视
-http://103.45.68.47:666/gy/gy_pDKS/贵州长id.php?id=4491a96771fb324b6469a9ac6e25f5b9
-#EXTINF:-1,贵州卫视
-http://103.45.68.47:666/gy/gy_pDKS/贵州长id.php?id=9245676006cb79b03798b89fa05576b1
-#EXTINF:-1,东方卫视
-http://103.45.68.47:666/gy/gy_pDKS/爱看mg.php?id=东方卫视HD
-#EXTINF:-1,东方卫视
-http://103.45.68.47:666/gy/gy_pDKS/爱看mg.php?id=东方卫视HD2
-#EXTINF:-1,重庆卫视
-http://103.45.68.47:666/gy/gy_pDKS/爱看mg.php?id=重庆卫视
-#EXTINF:-1,吉林卫视
-http://103.45.68.47:666/gy/gy_pDKS/爱看mg.php?id=吉林卫视
-#EXTINF:-1,辽宁卫视
-http://103.45.68.47:666/gy/gy_pDKS/爱看mg.php?id=辽宁卫视HD
-#EXTINF:-1,内蒙古卫视
-http://103.45.68.47:666/gy/gy_pDKS/爱看mg.php?id=内蒙古卫视
-#EXTINF:-1,宁夏卫视
-http://103.45.68.47:666/gy/gy_pDKS/爱看mg.php?id=宁夏卫视
-#EXTINF:-1,甘肃卫视
-http://103.45.68.47:666/gy/gy_pDKS/爱看mg.php?id=甘肃卫视
-#EXTINF:-1,青海卫视
-http://103.45.68.47:666/gy/gy_pDKS/爱看mg.php?id=青海卫视
-#EXTINF:-1,山东卫视
-http://103.45.68.47:666/gy/gy_pDKS/爱看mg.php?id=山东卫视HD
-#EXTINF:-1,湖北卫视
-http://103.45.68.47:666/gy/gy_pDKS/爱看mg.php?id=湖北卫视HD
-#EXTINF:-1,湖南卫视
-http://103.45.68.47:666/gy/gy_pDKS/爱看mg.php?id=湖南卫视HD
-#EXTINF:-1,江苏卫视
-http://103.45.68.47:666/gy/gy_pDKS/爱看mg.php?id=江苏卫视HD
-#EXTINF:-1,广东卫视
-http://103.45.68.47:666/gy/gy_pDKS/爱看mg.php?id=广东卫视HD
-#EXTINF:-1,广东卫视
-http://103.45.68.47:666/gy/gy_pDKS/爱看mg.php?id=广东卫视HD2
-#EXTINF:-1,大湾区卫视
+#EXTINF:-1 tvg-id="" tvg-name="大湾区卫视" tvg-logo="" group-title="卫视",大湾区卫视
 http://103.45.68.47:666/gy/gy_pDKS/爱看mg.php?id=大湾区卫视
-#EXTINF:-1,新疆卫视
-http://103.45.68.47:666/gy/gy_pDKS/爱看mg.php?id=新疆卫视
-#EXTINF:-1,西藏卫视
-http://103.45.68.47:666/gy/gy_pDKS/爱看mg.php?id=西藏卫视
-#EXTINF:-1,海南卫视
-http://103.45.68.47:666/gy/gy_pDKS/爱看mg.php?id=海南卫视
-#EXTINF:-1,四海钓鱼
-http://103.45.68.47:666/gy/gy_pDKS/爱看mg.php?id=四海钓鱼
-#EXTINF:-1,江苏教育
+#EXTINF:-1 tvg-id="" tvg-name="江苏教育" tvg-logo="" group-title="卫视",江苏教育
 http://103.45.68.47:666/gy/gy_pDKS/爱看mg.php?id=江苏教育
-#EXTINF:-1,山东教育卫视
-http://103.45.68.47:666/gy/gy_pDKS/爱看mg.php?id=山东教育卫视
-#EXTINF:-1,承德新闻综合
-https://jwliveqxzb.hebyun.com.cn/cdsxwzhtv/cdsxwzhtv.m3u8
-#EXTINF:-1,承德新闻综合
-https://jwcdnqx.hebyun.com.cn/live/cdsxwzhtv/1500k/tzwj_video.m3u8
-#EXTINF:-1,承德公共生活
-https://jwliveqxzb.hebyun.com.cn/cdsggshtv/cdsggshtv.m3u8
-#EXTINF:-1,承德公共生活
-https://jwcdnqx.hebyun.com.cn/live/cdsggshtv/1500k/tzwj_video.m3u8
-#EXTINF:-1,丰宁综合
-https://jwliveqxzb.hebyun.com.cn/fengningzonghe/fengningzonghe.m3u8
-#EXTINF:-1,丰宁综合
-https://jwcdnqx.hebyun.com.cn/live/fengningzonghe/1500k/tzwj_video.m3u8
-#EXTINF:-1,丰宁娱乐
+#EXTINF:-1 tvg-id="" tvg-name="河北卫视" tvg-logo="" group-title="河北本地",河北卫视
+http://121.19.134.245:808/tsfile/live/0019_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="河北都市" tvg-logo="" group-title="河北本地",河北都市
+http://121.19.134.245:808/tsfile/live/1001_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="河北影视剧" tvg-logo="" group-title="河北本地",河北影视剧
+http://121.19.134.245:808/tsfile/live/1002_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="河北少儿科教" tvg-logo="" group-title="河北本地",河北少儿科教
+http://121.19.134.245:808/tsfile/live/1003_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="河北公共" tvg-logo="" group-title="河北本地",河北公共
+http://121.19.134.245:808/tsfile/live/1004_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="河北农民" tvg-logo="" group-title="河北本地",河北农民
+http://121.19.134.245:808/tsfile/live/1005_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="河北杂技" tvg-logo="" group-title="河北本地",河北杂技
+http://121.19.134.245:808/tsfile/live/1006_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="新闻综合" tvg-logo="" group-title="河北本地",新闻综合
+http://121.19.134.245:808/tsfile/live/1007_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="公共频道" tvg-logo="" group-title="河北本地",公共频道
+http://121.19.134.245:808/tsfile/live/1008_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="生活健康" tvg-logo="" group-title="河北本地",生活健康
+http://121.19.134.245:808/tsfile/live/1009_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="承德本地",承德新闻综合
+https://jwliveqxzb.hebyun.com.cn/cdsxwzhtv/cdsxwzhtv.m3u8#https://jwcdnqx.hebyun.com.cn/live/cdsxwzhtv/1500k/tzwj_video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="承德本地",承德公共生活
+https://jwliveqxzb.hebyun.com.cn/cdsggshtv/cdsggshtv.m3u8#https://jwcdnqx.hebyun.com.cn/live/cdsggshtv/1500k/tzwj_video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="承德本地",丰宁综合
+https://jwliveqxzb.hebyun.com.cn/fengningzonghe/fengningzonghe.m3u8#https://jwcdnqx.hebyun.com.cn/live/fengningzonghe/1500k/tzwj_video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="丰宁娱乐" tvg-logo="" group-title="承德本地",丰宁娱乐
 https://jwcdnqx.hebyun.com.cn/live/fengningyulepindao/1500k/tzwj_video.m3u8
-#EXTINF:-1,隆化综合
+#EXTINF:-1 tvg-id="" tvg-name="隆化综合" tvg-logo="" group-title="承德本地",隆化综合
 http://hblh.chinashadt.com:2036/live/stream:lh1.stream/playlist.m3u8
-#EXTINF:-1,隆化影视
+#EXTINF:-1 tvg-id="" tvg-name="隆化影视" tvg-logo="" group-title="承德本地",隆化影视
 http://hblh.chinashadt.com:2036/live/stream:lh2.stream/playlist.m3u8
-#EXTINF:-1,平泉综合
-https://jwliveqxzb.hebyun.com.cn/pqzh/pqzh.m3u8
-#EXTINF:-1,平泉综合
-https://jwcdnqx.hebyun.com.cn/live/pqzh/1500k/tzwj_video.m3u8
-#EXTINF:-1,平泉影视
-https://jwliveqxzb.hebyun.com.cn/pqys/pqys.m3u8
-#EXTINF:-1,平泉影视
-https://jwcdnqx.hebyun.com.cn/live/pqys/1500k/tzwj_video.m3u8
-#EXTINF:-1,双滦新闻
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="承德本地",平泉综合
+https://jwliveqxzb.hebyun.com.cn/pqzh/pqzh.m3u8#https://jwcdnqx.hebyun.com.cn/live/pqzh/1500k/tzwj_video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="承德本地",平泉影视
+https://jwliveqxzb.hebyun.com.cn/pqys/pqys.m3u8#https://jwcdnqx.hebyun.com.cn/live/pqys/1500k/tzwj_video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="双滦新闻" tvg-logo="" group-title="承德本地",双滦新闻
 https://jwcdnqx.hebyun.com.cn/live/slxw/1500k/tzwj_video.m3u8
-#EXTINF:-1,双滦影视
+#EXTINF:-1 tvg-id="" tvg-name="双滦影视" tvg-logo="" group-title="承德本地",双滦影视
 https://jwcdnqx.hebyun.com.cn/live/slys/1500k/tzwj_video.m3u8
-#EXTINF:-1,兴隆综合
+#EXTINF:-1 tvg-id="" tvg-name="兴隆综合" tvg-logo="" group-title="承德本地",兴隆综合
 https://jwcdnqx.hebyun.com.cn/live/xlzh/1500k/tzwj_video.m3u8
-#EXTINF:-1,兴隆影视
+#EXTINF:-1 tvg-id="" tvg-name="兴隆影视" tvg-logo="" group-title="承德本地",兴隆影视
 https://jwcdnqx.hebyun.com.cn/live/xlys/1500k/tzwj_video.m3u8
-#EXTINF:-1,Love Nrture 4K
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="自然动物 旅游",LOVE NATURE 4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-#EXTINF:-1,BBC Earth
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="自然动物 旅游",LOVE NATURE 4K
+https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8#https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/quietude/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBC EARTH" tvg-logo="" group-title="自然动物 旅游",BBC EARTH
 http://198.16.100.90:8278/bbcearth_twn/playlist.m3u8?tid=ME4E1221123312211233&ct=19225&tsum=6c7cae0711b757a53b43540bf40f93b0
-#EXTINF:-1,BBC Lifestyle
+#EXTINF:-1 tvg-id="" tvg-name="BBC LIFESTYLE" tvg-logo="" group-title="自然动物 旅游",BBC LIFESTYLE
 http://198.16.100.90:8278/bbclifestyle_twn/playlist.m3u8?tid=MFCF4299842642998426&ct=19225&tsum=d9cac5a62e5c33574ac9c3e860e01623
-#EXTINF:-1,国家地理频道
+#EXTINF:-1 tvg-id="" tvg-name="国家地理频道" tvg-logo="" group-title="自然动物 旅游",国家地理频道
 http://198.16.100.90:8278/natgeohd_twn/playlist.m3u8?tid=MB5B4841803948418039&ct=18393&tsum=a2343b2c061fc9de3fa7857e832d9625
-#EXTINF:-1,国家地理野生频道
+#EXTINF:-1 tvg-id="" tvg-name="国家地理野生频道" tvg-logo="" group-title="自然动物 旅游",国家地理野生频道
 http://198.16.100.90:8278/natgeowild_twn/playlist.m3u8?tid=ME7E6122598161225981&ct=19225&tsum=c88897efa30d472128421acf3d4b62c8
-#EXTINF:-1,动物星球频道
-http://198.16.100.90:8278/AnimalPlanet/playlist.m3u8?tid=MC3C3856400538564005&ct=19225&tsum=6255ab9649411a8a70c7cbf2ebd7eb23
-#EXTINF:-1,动物星球频道
-http://198.16.100.90:8278/animalplanet_twn/playlist.m3u8?tid=m4da2c053371613331372&ct=17874&tsum=4481f502bb91c2c67964feecfbc4b702
-#EXTINF:-1,亚洲旅游台
-http://198.16.100.90:8278/asiatravel_twn/playlist.m3u8?tid=MF2F4967516549675165&ct=19225&tsum=3b56404a8f861c7fef6ac79a798e4a8c
-#EXTINF:-1,亚洲旅游台
-http://198.16.100.90:8278/asiatravel_twn/playlist.m3u8?tid=ma9ec30da9ef3&ct=18335&tsum=ff0bd9207f2c72a8c9bf38464433dc7d
-#EXTINF:-1,HBO HD
-http://198.16.100.90:8278/hbohd_twn/playlist.m3u8?tid=m8d785f4e022616401837&ct=17877&tsum=56e767abfc65234db52b017576b00403
-#EXTINF:-1,HBO HD
-http://198.16.100.90:8278/hbohd_twn/playlist.m3u8?tid=ME7E8473082984730829&ct=18392&tsum=acad12b7c208bda39b68dec98349e138
-#EXTINF:-1,HBO HD
-http://198.16.100.90:8278/hbohd_twn/playlist.m3u8?tid=MBBB7425808074258080&ct=19193&tsum=a0bdd395bfc4cf07d9414d5372f59ad2
-#EXTINF:-1,HBO原创钜献
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="自然动物 旅游",动物星球频道
+http://198.16.100.90:8278/AnimalPlanet/playlist.m3u8?tid=MC3C3856400538564005&ct=19225&tsum=6255ab9649411a8a70c7cbf2ebd7eb23#http://198.16.100.90:8278/animalplanet_twn/playlist.m3u8?tid=m4da2c053371613331372&ct=17874&tsum=4481f502bb91c2c67964feecfbc4b702
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="自然动物 旅游",亚洲旅游台
+http://198.16.100.90:8278/asiatravel_twn/playlist.m3u8?tid=MF2F4967516549675165&ct=19225&tsum=3b56404a8f861c7fef6ac79a798e4a8c#http://198.16.100.90:8278/asiatravel_twn/playlist.m3u8?tid=ma9ec30da9ef3&ct=18335&tsum=ff0bd9207f2c72a8c9bf38464433dc7d#http://198.16.100.90:8278/asiatravel_twn/playlist.m3u8?ct=19225&tid=MF2F4967516549675165&tsum=3b56404a8f861c7fef6ac79a798e4a8c#http://198.16.100.90:8278/asiatravel_twn/playlist.m3u8?tid=MB9B9461769094617690&ct=18393&tsum=57c12e5ba95cca684613ec5e14714ff8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="自然动物 旅游",HBO HD
+http://198.16.100.90:8278/hbohd_twn/playlist.m3u8?tid=m8d785f4e022616401837&ct=17877&tsum=56e767abfc65234db52b017576b00403#http://198.16.100.90:8278/hbohd_twn/playlist.m3u8?tid=ME7E8473082984730829&ct=18392&tsum=acad12b7c208bda39b68dec98349e138#http://198.16.100.90:8278/hbohd_twn/playlist.m3u8?tid=MBBB7425808074258080&ct=19193&tsum=a0bdd395bfc4cf07d9414d5372f59ad2
+#EXTINF:-1 tvg-id="" tvg-name="HBO原创钜献" tvg-logo="" group-title="自然动物 旅游",HBO原创钜献
 http://198.16.100.90:8278/hbosignature_twn/playlist.m3u8?tid=MD6D5767423357674233&ct=18392&tsum=995709f1100cf1b07964790160bfb4ee
-#EXTINF:-1,好莱坞电影
-http://198.16.100.90:8278/hollywoodmovies_twn/playlist.m3u8?tid=m39bfcd99239617992917&ct=17874&tsum=774ffa7546c934dc27e743c5bbb454d3
-#EXTINF:-1,好莱坞电影
-http://198.16.100.90:8278/hollywoodmovies_twn/playlist.m3u8?tid=MF6F7143280071432800&ct=19211&tsum=c0bc00f05a03eb1bef16741e9fd9737e
-#EXTINF:-1,亚洲旅游台
-http://198.16.100.90:8278/asiatravel_twn/playlist.m3u8?tid=ma9ec30da9ef3&ct=18335&tsum=ff0bd9207f2c72a8c9bf38464433dc7d
-#EXTINF:-1,亚洲旅游台
-http://198.16.100.90:8278/asiatravel_twn/playlist.m3u8?ct=19225&tid=MF2F4967516549675165&tsum=3b56404a8f861c7fef6ac79a798e4a8c
-#EXTINF:-1,亚洲旅游台
-http://198.16.100.90:8278/asiatravel_twn/playlist.m3u8?tid=MB9B9461769094617690&ct=18393&tsum=57c12e5ba95cca684613ec5e14714ff8
-#EXTINF:-1,美食星球
-http://198.16.100.90:8278/foodplanet_twn/playlist.m3u8?tid=MCCC8639507586395075&ct=19226&tsum=69f5a90ff21aa5f4f58667bcdd713353
-#EXTINF:-1,动物世界
-http://hls.cntv.myhwcdn.cn/asp/hls/1200/0303000a/3/default/2eba7ee3659b4caf86b40d51a1752d6c/1200.m3u8
-#EXTINF:-1,人与自然
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="自然动物 旅游",好莱坞电影
+http://198.16.100.90:8278/hollywoodmovies_twn/playlist.m3u8?tid=m39bfcd99239617992917&ct=17874&tsum=774ffa7546c934dc27e743c5bbb454d3#http://198.16.100.90:8278/hollywoodmovies_twn/playlist.m3u8?tid=MF6F7143280071432800&ct=19211&tsum=c0bc00f05a03eb1bef16741e9fd9737e
+#EXTINF:-1 tvg-id="" tvg-name="亚洲旅遊台" tvg-logo="" group-title="自然动物 旅游",亚洲旅遊台
+http://50.7.238.114:8278/asiatravel_twn/playlist.m3u8?tid=MB9B9461769094617690&ct=18393&tsum=57c12e5ba95cca684613ec5e14714ff8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="自然动物 旅游",美食星球
+http://198.16.100.90:8278/foodplanet_twn/playlist.m3u8?tid=MCCC8639507586395075&ct=19226&tsum=69f5a90ff21aa5f4f58667bcdd713353#http://50.7.238.114:8278/foodplanet_twn/playlist.m3u8?tid=MCCC8639507586395075&ct=19226&tsum=69f5a90ff21aa5f4f58667bcdd713353
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="自然动物 旅游",央视台球
+http://119.54.12.6:9999/hls/78/index.m3u8#http://119.54.9.159:9999/hls/78/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="自然动物 旅游",世界地理
+http://27.185.2.92:9901/hls/73/index.m3u8#http://119.54.12.6:9999/hls/76/index.m3u8#http://119.54.9.159:9999/hls/76/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="自然动物 旅游",环球奇观
+http://119.54.12.6:9999/hls/74/index.m3u8#http://119.54.9.159:9999/hls/74/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="自然动物 旅游",动作电影
+http://119.54.12.6:9999/hls/90/index.m3u8#http://119.54.9.159:9999/hls/90/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="自然动物 旅游",高清电影
+http://119.54.12.6:9999/hls/91/index.m3u8#http://119.54.9.159:9999/hls/91/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="自然动物 旅游",家庭影院
+http://119.54.12.6:9999/hls/92/index.m3u8#http://1.24.190.98:10080/hls/112/index.m3u8#http://119.54.9.159:9999/hls/92/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="自然动物 旅游",乐游高清
+http://119.54.12.6:9999/hls/93/index.m3u8#http://119.54.9.159:9999/hls/93/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="乐游" tvg-logo="" group-title="自然动物 旅游",乐游
+http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel43040/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="自然动物 旅游",快乐垂钓
+http://119.54.12.6:9999/hls/100/index.m3u8#http://119.54.9.159:9999/hls/100/index.m3u8#http://111.225.115.74:808/tsfile/live/1042_1.m3u8#http://218.241.192.50:8808/udp/239.3.1.164:8001
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="自然动物 旅游",茶频道
+http://119.54.12.6:9999/hls/101/index.m3u8#http://119.54.9.159:9999/hls/101/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="动作影院" tvg-logo="" group-title="自然动物 旅游",动作影院
+http://1.24.190.98:10080/hls/113/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="全纪实" tvg-logo="" group-title="自然动物 旅游",全纪实
+http://1.24.190.98:10080/hls/118/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="国家地理" tvg-logo="" group-title="自然动物 旅游",国家地理
+http://1.24.190.98:10080/hls/120/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="自然动物 旅游",纪实人文
+http://119.54.9.159:9999/hls/67/index.m3u8#http://218.241.192.50:8808/udp/239.3.1.212:8060
+#EXTINF:-1 tvg-id="" tvg-name="IPTV经典电影" tvg-logo="" group-title="自然动物 旅游",IPTV经典电影
+http://1.24.190.98:10080/hls/130/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IPTV野外纪实" tvg-logo="" group-title="自然动物 旅游",IPTV野外纪实
+http://13.13.14.180/hls/134/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="自然动物 旅游",风云足球
+http://27.185.2.92:9901/hls/68/index.m3u8#http://119.54.12.6:9999/hls/77/index.m3u8#http://119.54.9.159:9999/hls/77/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="卡酷少儿" tvg-logo="" group-title="自然动物 旅游",卡酷少儿
+http://27.185.2.92:9901/hls/61/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="金鹰卡通" tvg-logo="" group-title="自然动物 旅游",金鹰卡通
+http://27.185.2.92:9901/hls/62/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="电视指南" tvg-logo="" group-title="自然动物 旅游",电视指南
+http://27.185.2.92:9901/hls/63/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV" tvg-logo="" group-title="自然动物 旅游",CCTV第一剧场
+http://27.185.2.92:9901/hls/64/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="风云剧场" tvg-logo="" group-title="自然动物 旅游",风云剧场
+http://27.185.2.92:9901/hls/65/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="怀旧剧场" tvg-logo="" group-title="自然动物 旅游",怀旧剧场
+http://27.185.2.92:9901/hls/66/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="风云音乐" tvg-logo="" group-title="自然动物 旅游",风云音乐
+http://27.185.2.92:9901/hls/67/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BTV纪实" tvg-logo="" group-title="自然动物 旅游",BTV-纪实
+http://27.185.2.92:9901/hls/70/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="国防军事" tvg-logo="" group-title="自然动物 旅游",国防军事
+http://27.185.2.92:9901/hls/72/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="法治天地" tvg-logo="" group-title="自然动物 旅游",法治天地
+http://119.54.12.6:9999/hls/94/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="自然动物 旅游",第一剧场
+http://119.54.12.6:9999/hls/75/index.m3u8#http://119.54.9.159:9999/hls/75/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="卫生健康" tvg-logo="" group-title="自然动物 旅游",卫生健康
+http://119.54.12.6:9999/hls/88/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="高尔夫" tvg-logo="" group-title="自然动物 旅游",高尔夫
+http://119.54.12.6:9999/hls/89/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="四海钓鱼" tvg-logo="" group-title="自然动物 旅游",四海钓鱼
+http://103.45.68.47:666/gy/gy_pDKS/爱看mg.php?id=四海钓鱼
+#EXTINF:-1 tvg-id="" tvg-name="金鹰纪实" tvg-logo="" group-title="自然动物 旅游",金鹰纪实
+http://218.241.192.50:8808/udp/239.3.1.58:8156
+#EXTINF:-1 tvg-id="" tvg-name="茶友频道" tvg-logo="" group-title="自然动物 旅游",茶友频道
+http://218.241.192.50:8808/udp/239.3.1.165:8001
+#EXTINF:-1 tvg-id="" tvg-name="4K高清电影" tvg-logo="" group-title="自然动物 旅游",4K高清电影
+http://218.241.192.50:8808/udp/239.3.1.249:8001
+#EXTINF:-1 tvg-id="" tvg-name="求索动物" tvg-logo="" group-title="自然动物 旅游",求索动物
+http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000010046/index.m3u8?channel-id=wasusyt&Contentid=6000000002000010046&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="求索科学" tvg-logo="" group-title="自然动物 旅游",求索科学
+http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000032344/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032344&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="求索生活" tvg-logo="" group-title="自然动物 旅游",求索生活
+http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000003382/index.m3u8?channel-id=wasusyt&Contentid=6000000002000003382&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="求索纪录" tvg-logo="" group-title="自然动物 旅游",求索纪录
+http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000032052/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032052&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="精彩影视" tvg-logo="" group-title="自然动物 旅游",精彩影视
+http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000320630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000320630&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="央视纪录片",动物世界
+http://hls.cntv.myhwcdn.cn/asp/hls/1200/0303000a/3/default/2eba7ee3659b4caf86b40d51a1752d6c/1200.m3u8#https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/71d7dce230b74c1b9e35b41e837ffc5f/1200.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="人与自然" tvg-logo="" group-title="央视纪录片",人与自然
 http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1425e1d505654cb48ba82b807b221193/1200.m3u8
-#EXTINF:-1,自然传奇
+#EXTINF:-1 tvg-id="" tvg-name="自然传奇" tvg-logo="" group-title="央视纪录片",自然传奇
 http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/81a1ad3a661748bfb8560c92d38204ca/1200.m3u8
-#EXTINF:-1,探索发现
+#EXTINF:-1 tvg-id="" tvg-name="探索发现" tvg-logo="" group-title="央视纪录片",探索发现
 http://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/25137bd7c4494128bf0cba271974928f/1200.m3u8
-#EXTINF:-1,地理中国
+#EXTINF:-1 tvg-id="" tvg-name="地理中国" tvg-logo="" group-title="央视纪录片",地理中国
 http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/c6baf6f74bb944aeacee1065ea72c798/1200.m3u8
-#EXTINF:-1,大太平洋
+#EXTINF:-1 tvg-id="" tvg-name="大太平洋" tvg-logo="" group-title="央视纪录片",大太平洋
 http://hls.cntv.kcdnvip.com/asp/hls/4000/0303000a/3/default/2d7f4eeaed2e4ad080bcf324eb21bc0d/4000.m3u8
-#EXTINF:-1,生命脉动
+#EXTINF:-1 tvg-id="" tvg-name="生命脉动" tvg-logo="" group-title="央视纪录片",生命脉动
 http://hls.cntv.myhwcdn.cn/asp/hls/850/0303000a/3/default/c481b5826ffc4e99a92e01704c862dbc/850.m3u8
-#EXTINF:-1,飞碟之谜01
+#EXTINF:-1 tvg-id="" tvg-name="飞碟之谜01" tvg-logo="" group-title="央视纪录片",飞碟之谜01
 https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/f0a47e155d32450daa1d36a04fd7d262/2000.m3u8
-#EXTINF:-1,飞碟之谜02
+#EXTINF:-1 tvg-id="" tvg-name="飞碟之谜02" tvg-logo="" group-title="央视纪录片",飞碟之谜02
 https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/d2454bbb542d4613a9db478dab2addfd/2000.m3u8
-#EXTINF:-1,远方的家
+#EXTINF:-1 tvg-id="" tvg-name="远方的家" tvg-logo="" group-title="央视纪录片",远方的家
 http://hls.cntv.kcdnvip.com/asp/hls/4000/0303000a/3/default/162d7e29c3da4aab82ad47b6e2d9e7b4/4000.m3u8
-#EXTINF:-1,美丽中国说
+#EXTINF:-1 tvg-id="" tvg-name="美丽中国说" tvg-logo="" group-title="央视纪录片",美丽中国说
 http://hls.cntv.myhwcdn.cn/asp/hls/4000/0303000a/3/default/8cdd688b04e4495ba1635e218419d6f9/4000.m3u8
-#EXTINF:-1,美丽中国自然
+#EXTINF:-1 tvg-id="" tvg-name="美丽中国自然" tvg-logo="" group-title="央视纪录片",美丽中国自然
 http://hls.cntv.myhwcdn.cn/asp/hls/4000/0303000a/3/default/51d937a0201f4c78a5878b4b37089f3b/4000.m3u8
-#EXTINF:-1,航拍中国第一季
+#EXTINF:-1 tvg-id="" tvg-name="航拍中国第一季" tvg-logo="" group-title="央视纪录片",航拍中国第一季
 http://hls.cntv.myhwcdn.cn/asp/hls/4000/0303000a/3/default/8edf3fb6a69148ea9a7dc0b5a9d99fdb/4000.m3u8
-#EXTINF:-1,航拍中国第二季
+#EXTINF:-1 tvg-id="" tvg-name="航拍中国第二季" tvg-logo="" group-title="央视纪录片",航拍中国第二季
 http://newcntv.qcloudcdn.com/asp/hls/4000/0303000a/3/default/2bdfdad540b342f592f9817cb7f3b79a/4000.m3u8
-#EXTINF:-1,航拍中国第三季
+#EXTINF:-1 tvg-id="" tvg-name="航拍中国第三季" tvg-logo="" group-title="央视纪录片",航拍中国第三季
 http://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/18a8a559464448dbaf60d33913e09aea/1200.m3u8
-#EXTINF:-1,中国村庄
+#EXTINF:-1 tvg-id="" tvg-name="中国村庄" tvg-logo="" group-title="央视纪录片",中国村庄
 http://newcntv.qcloudcdn.com/asp/hls/4000/0303000a/3/default/93fc12dbf14241c18c23da104fbade23/4000.m3u8
-#EXTINF:-1,梵净山
+#EXTINF:-1 tvg-id="" tvg-name="梵净山" tvg-logo="" group-title="央视纪录片",梵净山
 http://hls.cntv.myhwcdn.cn/asp/hls/4000/0303000a/3/default/b9571df1181c4422a83901e827519fe6/4000.m3u8
-#EXTINF:-1,地球脉动第一季
+#EXTINF:-1 tvg-id="" tvg-name="地球脉动第一季" tvg-logo="" group-title="央视纪录片",地球脉动第一季
 http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/7a3423af02284c3db48b854ab646993f/850.m3u8
-#EXTINF:-1,乘着火车看中国
+#EXTINF:-1 tvg-id="" tvg-name="乘着火车看中国" tvg-logo="" group-title="央视纪录片",乘着火车看中国
 http://hls.cntv.myhwcdn.cn/asp/hls/4000/0303000a/3/default/2b0f397ed9d948eb9fac38d73cde241b/4000.m3u8
-#EXTINF:-1,动物世界
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/71d7dce230b74c1b9e35b41e837ffc5f/1200.m3u8
-#EXTINF:-1,一片住着熊的森林1
+#EXTINF:-1 tvg-id="" tvg-name="一片住着熊的森林1" tvg-logo="" group-title="央视纪录片",一片住着熊的森林1
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/2ac6789acc644b55a4df03445561c56b/1200.m3u8
-#EXTINF:-1,一片住着熊的森林2
+#EXTINF:-1 tvg-id="" tvg-name="一片住着熊的森林2" tvg-logo="" group-title="央视纪录片",一片住着熊的森林2
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/969d426187eb46e19fc6839a435fbf0f/1200.m3u8
-#EXTINF:-1,一片住着熊的森林3
+#EXTINF:-1 tvg-id="" tvg-name="一片住着熊的森林3" tvg-logo="" group-title="央视纪录片",一片住着熊的森林3
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/fd1e9f94afe948efafaa28a882661620/1200.m3u8
-#EXTINF:-1,与野生动物为邻
+#EXTINF:-1 tvg-id="" tvg-name="与野生动物为邻" tvg-logo="" group-title="央视纪录片",与野生动物为邻
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/d25931bed86a49d4afb8780771797c19/1200.m3u8
-#EXTINF:-1,丛林之王美洲豹
+#EXTINF:-1 tvg-id="" tvg-name="丛林之王美洲豹" tvg-logo="" group-title="央视纪录片",丛林之王美洲豹
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/bbb1037a32ad44cf8bab822eda34bc86/1200.m3u8
-#EXTINF:-1,丛林勇士之战(上)
+#EXTINF:-1 tvg-id="" tvg-name="丛林勇士之战(上)" tvg-logo="" group-title="央视纪录片",丛林勇士之战(上)
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/2550722b92464a749fa7aceb52e22895/1200.m3u8
-#EXTINF:-1,丛林勇士之战(下)
+#EXTINF:-1 tvg-id="" tvg-name="丛林勇士之战(下)" tvg-logo="" group-title="央视纪录片",丛林勇士之战(下)
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/c02959d3f2b14d3abf05ec017179c964/1200.m3u8
-#EXTINF:-1,从幼狮到狮王(上)
+#EXTINF:-1 tvg-id="" tvg-name="从幼狮到狮王(上)" tvg-logo="" group-title="央视纪录片",从幼狮到狮王(上)
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/0eb0c51f46ed4171a9923dd6a9703c45/1200.m3u8
-#EXTINF:-1,从幼狮到狮王(下)
+#EXTINF:-1 tvg-id="" tvg-name="从幼狮到狮王(下)" tvg-logo="" group-title="央视纪录片",从幼狮到狮王(下)
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/a7510a06ef494458a0f23a8a6b6918d3/1200.m3u8
-#EXTINF:-1,传奇母狮
+#EXTINF:-1 tvg-id="" tvg-name="传奇母狮" tvg-logo="" group-title="央视纪录片",传奇母狮
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/c550dc54139b4e619e7d4a1c1ab69e56/1200.m3u8
-#EXTINF:-1,兄弟情深(上)
+#EXTINF:-1 tvg-id="" tvg-name="兄弟情深(上)" tvg-logo="" group-title="央视纪录片",兄弟情深(上)
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/0700de47ebc74232bc9f5c5c178aa488/1200.m3u8
-#EXTINF:-1,兄弟情深(下)
+#EXTINF:-1 tvg-id="" tvg-name="兄弟情深(下)" tvg-logo="" group-title="央视纪录片",兄弟情深(下)
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/30a35b521af54f1a88d74f7215ece1d3/1200.m3u8
-#EXTINF:-1,兄弟捕猎联盟
+#EXTINF:-1 tvg-id="" tvg-name="兄弟捕猎联盟" tvg-logo="" group-title="央视纪录片",兄弟捕猎联盟
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/0b85d990df5c4f7fae663dc595a084bd/1200.m3u8
-#EXTINF:-1,充满爱的象家族1
+#EXTINF:-1 tvg-id="" tvg-name="充满爱的象家族1" tvg-logo="" group-title="央视纪录片",充满爱的象家族1
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/4bd5e30e25244ef1a622142a1053d8c0/1200.m3u8
-#EXTINF:-1,充满爱的象家族2
+#EXTINF:-1 tvg-id="" tvg-name="充满爱的象家族2" tvg-logo="" group-title="央视纪录片",充满爱的象家族2
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/0acf5b4f7fc248f1bd0801b768375fd6/1200.m3u8
-#EXTINF:-1,兽语如歌
+#EXTINF:-1 tvg-id="" tvg-name="兽语如歌" tvg-logo="" group-title="央视纪录片",兽语如歌
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/9d7bcf3e27d941cfac2e6c933ad9b543/1200.m3u8
-#EXTINF:-1,冬季传说雪鸮
+#EXTINF:-1 tvg-id="" tvg-name="冬季传说雪鸮" tvg-logo="" group-title="央视纪录片",冬季传说雪鸮
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/e76b2116c4514daea844fbdd1b56ab5d/1200.m3u8
-#EXTINF:-1,冬日雪鸮
+#EXTINF:-1 tvg-id="" tvg-name="冬日雪鸮" tvg-logo="" group-title="央视纪录片",冬日雪鸮
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/1a7b439474b6439c91dc5d5b2cb736d4/1200.m3u8
-#EXTINF:-1,冰天雪地北极熊(上)
+#EXTINF:-1 tvg-id="" tvg-name="冰天雪地北极熊(上)" tvg-logo="" group-title="央视纪录片",冰天雪地北极熊(上)
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/15dd2029621a498d9c4d3eb2982285e7/1200.m3u8
-#EXTINF:-1,冰天雪地北极熊(下)
+#EXTINF:-1 tvg-id="" tvg-name="冰天雪地北极熊(下)" tvg-logo="" group-title="央视纪录片",冰天雪地北极熊(下)
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/360e77812fc84a8198e85a60f087b049/1200.m3u8
-#EXTINF:-1,冰雪世界狼女王(上)
+#EXTINF:-1 tvg-id="" tvg-name="冰雪世界狼女王(上)" tvg-logo="" group-title="央视纪录片",冰雪世界狼女王(上)
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/640f926df6fb4f398d40c8b254248750/1200.m3u8
-#EXTINF:-1,冰雪世界狼女王(下)
+#EXTINF:-1 tvg-id="" tvg-name="冰雪世界狼女王(下)" tvg-logo="" group-title="央视纪录片",冰雪世界狼女王(下)
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/d85457ff45154ff8bdf74e73422e99a4/1200.m3u8
-#EXTINF:-1,冰雪王国里的童话
+#EXTINF:-1 tvg-id="" tvg-name="冰雪王国里的童话" tvg-logo="" group-title="央视纪录片",冰雪王国里的童话
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/3b291326cf2648cd8119f5facf9e3b92/1200.m3u8
-#EXTINF:-1,冷静与柔情
+#EXTINF:-1 tvg-id="" tvg-name="冷静与柔情" tvg-logo="" group-title="央视纪录片",冷静与柔情
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/554c1b879dc646d4ab188dfd58a0f02f/1200.m3u8
-#EXTINF:-1,凯门鳄的奇妙旅程
+#EXTINF:-1 tvg-id="" tvg-name="凯门鳄的奇妙旅程" tvg-logo="" group-title="央视纪录片",凯门鳄的奇妙旅程
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/aba970eff8be48beb339a2ad027592cf/1200.m3u8
-#EXTINF:-1,动物与计谋
+#EXTINF:-1 tvg-id="" tvg-name="动物与计谋" tvg-logo="" group-title="央视纪录片",动物与计谋
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/403122f54ee5492fa9e5d2b8f0087ad2/1200.m3u8
-#EXTINF:-1,动物冠军俱乐部
+#EXTINF:-1 tvg-id="" tvg-name="动物冠军俱乐部" tvg-logo="" group-title="央视纪录片",动物冠军俱乐部
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/65227347336749ffa373661cac985952/1200.m3u8
-#EXTINF:-1,动物冠军竞技场(上)
+#EXTINF:-1 tvg-id="" tvg-name="动物冠军竞技场(上)" tvg-logo="" group-title="央视纪录片",动物冠军竞技场(上)
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/cf107046774d4db5a1ac622e880488e2/1200.m3u8
-#EXTINF:-1,动物冠军竞技场(下)
+#EXTINF:-1 tvg-id="" tvg-name="动物冠军竞技场(下)" tvg-logo="" group-title="央视纪录片",动物冠军竞技场(下)
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/9f1dc957013c4765a96b86c1890e4ae2/1200.m3u8
-#EXTINF:-1,动物宝宝闯天涯(上)
+#EXTINF:-1 tvg-id="" tvg-name="动物宝宝闯天涯(上)" tvg-logo="" group-title="央视纪录片",动物宝宝闯天涯(上)
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/e1f91fe01a9b4b24834a0a6e4b309bb2/1200.m3u8
-#EXTINF:-1,动物宝宝闯天涯(下)
+#EXTINF:-1 tvg-id="" tvg-name="动物宝宝闯天涯(下)" tvg-logo="" group-title="央视纪录片",动物宝宝闯天涯(下)
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/d5937591787941518b5a1390f7a1e792/1200.m3u8
-#EXTINF:-1,动物搏击赛
+#EXTINF:-1 tvg-id="" tvg-name="动物搏击赛" tvg-logo="" group-title="央视纪录片",动物搏击赛
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/22ef116331af49a782d42488e396837e/1200.m3u8
-#EXTINF:-1,动物搏击运动会
+#EXTINF:-1 tvg-id="" tvg-name="动物搏击运动会" tvg-logo="" group-title="央视纪录片",动物搏击运动会
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/0f74c44316a34ea482ecae43f5c12fa8/1200.m3u8
-#EXTINF:-1,动物父母有梦想(上)
+#EXTINF:-1 tvg-id="" tvg-name="动物父母有梦想(上)" tvg-logo="" group-title="央视纪录片",动物父母有梦想(上)
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/f069e600b3584765840f34e9d641919a/1200.m3u8
-#EXTINF:-1,动物父母有梦想(下)
+#EXTINF:-1 tvg-id="" tvg-name="动物父母有梦想(下)" tvg-logo="" group-title="央视纪录片",动物父母有梦想(下)
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/1c1df6f1bff5454a9570693475f920ef/1200.m3u8
-#EXTINF:-1,动物界捕食奇观
+#EXTINF:-1 tvg-id="" tvg-name="动物界捕食奇观" tvg-logo="" group-title="央视纪录片",动物界捕食奇观
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/5215de3e2a7b41009ed1ded1f29fea40/1200.m3u8
-#EXTINF:-1,动物的海底宫殿
+#EXTINF:-1 tvg-id="" tvg-name="动物的海底宫殿" tvg-logo="" group-title="央视纪录片",动物的海底宫殿
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/0929798fce744530b14a6add96afcdf3/1200.m3u8
-#EXTINF:-1,动物霓裳羽衣之妙
+#EXTINF:-1 tvg-id="" tvg-name="动物霓裳羽衣之妙" tvg-logo="" group-title="央视纪录片",动物霓裳羽衣之妙
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/b4aea8cd185c4126a37aa6e92d179f82/1200.m3u8
-#EXTINF:-1,勇挑重担的矮獴(上)
+#EXTINF:-1 tvg-id="" tvg-name="勇挑重担的矮獴(上)" tvg-logo="" group-title="央视纪录片",勇挑重担的矮獴(上)
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/8ef930c154a446d0a831d2dd93698fd2/1200.m3u8
-#EXTINF:-1,勇挑重担的矮獴(下)
+#EXTINF:-1 tvg-id="" tvg-name="勇挑重担的矮獴(下)" tvg-logo="" group-title="央视纪录片",勇挑重担的矮獴(下)
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/d9ffce5e83824939ab9bb66502778bd9/1200.m3u8
-#EXTINF:-1,勇敢的王者之心
+#EXTINF:-1 tvg-id="" tvg-name="勇敢的王者之心" tvg-logo="" group-title="央视纪录片",勇敢的王者之心
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/d37b12d09c4144f0a59560f18ff6508a/1200.m3u8
-#EXTINF:-1,勇敢的长颈鹿(上)
+#EXTINF:-1 tvg-id="" tvg-name="勇敢的长颈鹿(上)" tvg-logo="" group-title="央视纪录片",勇敢的长颈鹿(上)
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/8a9d50517baa443b82b3e4c9e0078351/1200.m3u8
-#EXTINF:-1,勇敢的长颈鹿(下)
+#EXTINF:-1 tvg-id="" tvg-name="勇敢的长颈鹿(下)" tvg-logo="" group-title="央视纪录片",勇敢的长颈鹿(下)
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/773b3e9df72f4834b85c46e0f5b038fb/1200.m3u8
-#EXTINF:-1,勇闯包围圈
+#EXTINF:-1 tvg-id="" tvg-name="勇闯包围圈" tvg-logo="" group-title="央视纪录片",勇闯包围圈
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/3af15ad56d1640fab9a1a065402b3b76/1200.m3u8
-#EXTINF:-1,勇闯螃蟹岛
+#EXTINF:-1 tvg-id="" tvg-name="勇闯螃蟹岛" tvg-logo="" group-title="央视纪录片",勇闯螃蟹岛
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/3bba8da0b6c54771aa02b579ba75f8e7/1200.m3u8
-#EXTINF:-1,勇闯都市丛林
+#EXTINF:-1 tvg-id="" tvg-name="勇闯都市丛林" tvg-logo="" group-title="央视纪录片",勇闯都市丛林
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/221e94ad951d4001b106d3c5af785537/1200.m3u8
-#EXTINF:-1,勤奋的捕食者
+#EXTINF:-1 tvg-id="" tvg-name="勤奋的捕食者" tvg-logo="" group-title="央视纪录片",勤奋的捕食者
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/4793c8276c184d03bc3ba5e9b6dc9610/1200.m3u8
-#EXTINF:-1,北极熊之光(上)
+#EXTINF:-1 tvg-id="" tvg-name="北极熊之光(上)" tvg-logo="" group-title="央视纪录片",北极熊之光(上)
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/9df8189c94b24b8b8bb6c69e448cc936/1200.m3u8
-#EXTINF:-1,北极熊之光(下)
+#EXTINF:-1 tvg-id="" tvg-name="北极熊之光(下)" tvg-logo="" group-title="央视纪录片",北极熊之光(下)
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/ca1fabcc21d64b1f8cc933844830fcc5/1200.m3u8
-#EXTINF:-1,北极熊的冒险之旅(上)
+#EXTINF:-1 tvg-id="" tvg-name="北极熊的冒险之旅(上)" tvg-logo="" group-title="央视纪录片",北极熊的冒险之旅(上)
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/e1b4b7a8beb3459bbd44f505a3fcc99c/1200.m3u8
-#EXTINF:-1,北极熊的冒险之旅(下)
+#EXTINF:-1 tvg-id="" tvg-name="北极熊的冒险之旅(下)" tvg-logo="" group-title="央视纪录片",北极熊的冒险之旅(下)
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/9ab29267ff5b4b2b99fdb74d1b9fec55/1200.m3u8
-#EXTINF:-1,北极熊路在何方
+#EXTINF:-1 tvg-id="" tvg-name="北极熊路在何方" tvg-logo="" group-title="央视纪录片",北极熊路在何方
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/38321222144945faa76d79c7785346a6/1200.m3u8
-#EXTINF:-1,南美野生世界1
+#EXTINF:-1 tvg-id="" tvg-name="南美野生世界1" tvg-logo="" group-title="央视纪录片",南美野生世界1
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/35eac4ae4e024654b845f5c7b2221d15/1200.m3u8
-#EXTINF:-1,南美野生世界2
+#EXTINF:-1 tvg-id="" tvg-name="南美野生世界2" tvg-logo="" group-title="央视纪录片",南美野生世界2
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/9c743ea1e41f4bf585fb1470c9575c0d/1200.m3u8
-#EXTINF:-1,南美野生世界3
+#EXTINF:-1 tvg-id="" tvg-name="南美野生世界3" tvg-logo="" group-title="央视纪录片",南美野生世界3
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/68caf99e50bc496fb478b0ed8f4b421a/1200.m3u8
-#EXTINF:-1,原野逐梦记
+#EXTINF:-1 tvg-id="" tvg-name="原野逐梦记" tvg-logo="" group-title="央视纪录片",原野逐梦记
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/01fcf61e12c242bd81dc5aca38b6f183/1200.m3u8
-#EXTINF:-1,变形记
+#EXTINF:-1 tvg-id="" tvg-name="变形记" tvg-logo="" group-title="央视纪录片",变形记
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/c88fd67847314d1ab20524c9fd94d555/1200.m3u8
-#EXTINF:-1,古老的活化石恒河鳄(上)
+#EXTINF:-1 tvg-id="" tvg-name="古老的活化石恒河鳄(上)" tvg-logo="" group-title="央视纪录片",古老的活化石恒河鳄(上)
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/f8c9f1b5ac454c9a9ec5fda21c62b926/1200.m3u8
-#EXTINF:-1,古老的活化石恒河鳄(下)
+#EXTINF:-1 tvg-id="" tvg-name="古老的活化石恒河鳄(下)" tvg-logo="" group-title="央视纪录片",古老的活化石恒河鳄(下)
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/966f8103448c4dcdabee095eeb340451/1200.m3u8
-#EXTINF:-1,可爱的海獭(上)
+#EXTINF:-1 tvg-id="" tvg-name="可爱的海獭(上)" tvg-logo="" group-title="央视纪录片",可爱的海獭(上)
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/340266a6b3ff421fa174208845f56fef/1200.m3u8
-#EXTINF:-1,可爱的海獭(下)
+#EXTINF:-1 tvg-id="" tvg-name="可爱的海獭(下)" tvg-logo="" group-title="央视纪录片",可爱的海獭(下)
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/ef9b2898e92146d29a2e926ce1107eac/1200.m3u8
-#EXTINF:-1,呵护
+#EXTINF:-1 tvg-id="" tvg-name="呵护" tvg-logo="" group-title="央视纪录片",呵护
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/3e2d88a89cd9464e89f3b4b6353db194/1200.m3u8
-#EXTINF:-1,团结的水豚家族
+#EXTINF:-1 tvg-id="" tvg-name="团结的水豚家族" tvg-logo="" group-title="央视纪录片",团结的水豚家族
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/51e9c38303624369a0ba257163a5528f/1200.m3u8
-#EXTINF:-1,大力士捕鱼记
+#EXTINF:-1 tvg-id="" tvg-name="大力士捕鱼记" tvg-logo="" group-title="央视纪录片",大力士捕鱼记
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/1bcefb1f860746ebbbfe7f969c3a84ea/1200.m3u8
-#EXTINF:-1,大地骄子
+#EXTINF:-1 tvg-id="" tvg-name="大地骄子" tvg-logo="" group-title="央视纪录片",大地骄子
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/b08d6ad2f22047bd93af89955db5ce46/1200.m3u8
-#EXTINF:-1,大水獭回归的故事
+#EXTINF:-1 tvg-id="" tvg-name="大水獭回归的故事" tvg-logo="" group-title="央视纪录片",大水獭回归的故事
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/0e114c18fa084fe58238307c66506675/1200.m3u8
-#EXTINF:-1,大水獭桑丘的故事(上)
+#EXTINF:-1 tvg-id="" tvg-name="大水獭桑丘的故事(上)" tvg-logo="" group-title="央视纪录片",大水獭桑丘的故事(上)
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/ffea8bb4f0a04e53a82dab943e32bfb1/1200.m3u8
-#EXTINF:-1,大水獭桑丘的故事(下)
+#EXTINF:-1 tvg-id="" tvg-name="大水獭桑丘的故事(下)" tvg-logo="" group-title="央视纪录片",大水獭桑丘的故事(下)
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/9934a6c232264addaf109ac76f21e7da/1200.m3u8
-#EXTINF:-1,大猫们的世界
+#EXTINF:-1 tvg-id="" tvg-name="大猫们的世界" tvg-logo="" group-title="央视纪录片",大猫们的世界
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/830375ed0f54449e8e369edc9635e329/1200.m3u8
-#EXTINF:-1,大猫传奇
+#EXTINF:-1 tvg-id="" tvg-name="大猫传奇" tvg-logo="" group-title="央视纪录片",大猫传奇
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/6976a5d0ae0d4426bbd94bc1dd8f44a9/1200.m3u8
-#EXTINF:-1,大猫和邻居们(上)
+#EXTINF:-1 tvg-id="" tvg-name="大猫和邻居们(上)" tvg-logo="" group-title="央视纪录片",大猫和邻居们(上)
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/84359a09aab544b184a40865454e0b0a/1200.m3u8
-#EXTINF:-1,大猫和邻居们(下)
+#EXTINF:-1 tvg-id="" tvg-name="大猫和邻居们(下)" tvg-logo="" group-title="央视纪录片",大猫和邻居们(下)
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/2c4bc4b10e7d408a8de9c9e3012f64ca/1200.m3u8
-#EXTINF:-1,大猫归来
+#EXTINF:-1 tvg-id="" tvg-name="大猫归来" tvg-logo="" group-title="央视纪录片",大猫归来
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/8c13b8463ee54e93a0a0ccc33dab33ef/1200.m3u8
-#EXTINF:-1,大猫榜中榜(上)
+#EXTINF:-1 tvg-id="" tvg-name="大猫榜中榜(上)" tvg-logo="" group-title="央视纪录片",大猫榜中榜(上)
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/e5c95f6d2f9447e2bbb0b2bba952e062/1200.m3u8
-#EXTINF:-1,大猫榜中榜(下)
+#EXTINF:-1 tvg-id="" tvg-name="大猫榜中榜(下)" tvg-logo="" group-title="央视纪录片",大猫榜中榜(下)
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/9f813ed35c264d4ea10e57516dafe5d6/1200.m3u8
-#EXTINF:-1,大猫猎手训练营
+#EXTINF:-1 tvg-id="" tvg-name="大猫猎手训练营" tvg-logo="" group-title="央视纪录片",大猫猎手训练营
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/a08d9451f00a451682973c99b503dd6a/1200.m3u8
-#EXTINF:-1,大象与羊的快乐生活
+#EXTINF:-1 tvg-id="" tvg-name="大象与羊的快乐生活" tvg-logo="" group-title="央视纪录片",大象与羊的快乐生活
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/b72e3a49fdd44f36915d6cc59aa0a113/1200.m3u8
-#EXTINF:-1,大象与羊的神奇友情(上)
+#EXTINF:-1 tvg-id="" tvg-name="大象与羊的神奇友情(上)" tvg-logo="" group-title="央视纪录片",大象与羊的神奇友情(上)
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/7689d02607d34fdb8ce22cc479e42e91/1200.m3u8
-#EXTINF:-1,大象与羊的神奇友情(下)
+#EXTINF:-1 tvg-id="" tvg-name="大象与羊的神奇友情(下)" tvg-logo="" group-title="央视纪录片",大象与羊的神奇友情(下)
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/8ab73d30adff4cfa8e5afda910387dfc/1200.m3u8
-#EXTINF:-1,大象的别样生活(上)
+#EXTINF:-1 tvg-id="" tvg-name="大象的别样生活(上)" tvg-logo="" group-title="央视纪录片",大象的别样生活(上)
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/f4e6615b73ce42aa805767845425078a/1200.m3u8
-#EXTINF:-1,大象的别样生活(下)
+#EXTINF:-1 tvg-id="" tvg-name="大象的别样生活(下)" tvg-logo="" group-title="央视纪录片",大象的别样生活(下)
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/f80446c8a43c4357af8680057ec1669f/1200.m3u8
-#EXTINF:-1,大象的秘密生活(上)
+#EXTINF:-1 tvg-id="" tvg-name="大象的秘密生活(上)" tvg-logo="" group-title="央视纪录片",大象的秘密生活(上)
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/81f43884b4064750af230205752dbb63/1200.m3u8
-#EXTINF:-1,大象的秘密生活(下)
+#EXTINF:-1 tvg-id="" tvg-name="大象的秘密生活(下)" tvg-logo="" group-title="央视纪录片",大象的秘密生活(下)
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/43e021f3a6dc4b6089c71afe80552fae/1200.m3u8
-#EXTINF:-1,天生野长生命延续(上)
+#EXTINF:-1 tvg-id="" tvg-name="天生野长生命延续(上)" tvg-logo="" group-title="央视纪录片",天生野长生命延续(上)
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/87be5f0e1fb14d139fe696081a787914/1200.m3u8
-#EXTINF:-1,天生野长生命延续(下)
+#EXTINF:-1 tvg-id="" tvg-name="天生野长生命延续(下)" tvg-logo="" group-title="央视纪录片",天生野长生命延续(下)
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/b95e26a16f664da498ef421f74ad3006/1200.m3u8
-#EXTINF:-1,天生野长生命课程(上)
+#EXTINF:-1 tvg-id="" tvg-name="天生野长生命课程(上)" tvg-logo="" group-title="央视纪录片",天生野长生命课程(上)
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/95839705cfdc471aa67a09b7cfd6f52d/1200.m3u8
-#EXTINF:-1,奇异世界的动物们2
+#EXTINF:-1 tvg-id="" tvg-name="奇异世界的动物们2" tvg-logo="" group-title="央视纪录片",奇异世界的动物们2
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/ef3ee1bb8ff946a9adf07486709883eb/1200.m3u8
-#EXTINF:-1,奇异世界的动物们3
+#EXTINF:-1 tvg-id="" tvg-name="奇异世界的动物们3" tvg-logo="" group-title="央视纪录片",奇异世界的动物们3
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/efa51c5e3af04df89e68606d75333080/1200.m3u8
-#EXTINF:-1,奇特动物的奇特遭遇(上)
+#EXTINF:-1 tvg-id="" tvg-name="奇特动物的奇特遭遇(上)" tvg-logo="" group-title="央视纪录片",奇特动物的奇特遭遇(上)
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/2b20f8ba9ae14d96b9907f59bb758595/1200.m3u8
-#EXTINF:-1,奇特动物的奇特遭遇(下)
+#EXTINF:-1 tvg-id="" tvg-name="奇特动物的奇特遭遇(下)" tvg-logo="" group-title="央视纪录片",奇特动物的奇特遭遇(下)
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/0ebab68eda084509b18c27982ecfb660/1200.m3u8
-#EXTINF:-1,奇迹发生的时刻
+#EXTINF:-1 tvg-id="" tvg-name="奇迹发生的时刻" tvg-logo="" group-title="央视纪录片",奇迹发生的时刻
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/1dbbdbb87b8f410cbc0f3c742201cd7d/1200.m3u8
-#EXTINF:-1,如履薄冰的北极熊(上)
+#EXTINF:-1 tvg-id="" tvg-name="如履薄冰的北极熊(上)" tvg-logo="" group-title="央视纪录片",如履薄冰的北极熊(上)
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/f31953326cca4b5e9c5f7e285a5cddb7/1200.m3u8
-#EXTINF:-1,如履薄冰的北极熊(下)
+#EXTINF:-1 tvg-id="" tvg-name="如履薄冰的北极熊(下)" tvg-logo="" group-title="央视纪录片",如履薄冰的北极熊(下)
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/b6576aa2cd4e43a9a5ddc4af16695a28/1200.m3u8
-#EXTINF:-1,家有萌宝(五)
+#EXTINF:-1 tvg-id="" tvg-name="家有萌宝(五)" tvg-logo="" group-title="央视纪录片",家有萌宝(五)
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/496e4c0e2de74aaf968651d447eeb12a/1200.m3u8
-#EXTINF:-1,家有萌宝1
+#EXTINF:-1 tvg-id="" tvg-name="家有萌宝1" tvg-logo="" group-title="央视纪录片",家有萌宝1
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/7c53f1554802430587ecc54b1cef1002/1200.m3u8
-#EXTINF:-1,家有萌宝2
+#EXTINF:-1 tvg-id="" tvg-name="家有萌宝2" tvg-logo="" group-title="央视纪录片",家有萌宝2
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/81f9af4e6a6f41daa48c6c0091e4d66b/1200.m3u8
-#EXTINF:-1,家有萌宝3
+#EXTINF:-1 tvg-id="" tvg-name="家有萌宝3" tvg-logo="" group-title="央视纪录片",家有萌宝3
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/fe463d857de5415daa72441ab0cdab7f/1200.m3u8
-#EXTINF:-1,家有萌宝4
+#EXTINF:-1 tvg-id="" tvg-name="家有萌宝4" tvg-logo="" group-title="央视纪录片",家有萌宝4
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/15d2240bbfc34785bfc2ab8147244466/1200.m3u8
-#EXTINF:-1,家有萌狗
+#EXTINF:-1 tvg-id="" tvg-name="家有萌狗" tvg-logo="" group-title="央视纪录片",家有萌狗
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/0fb39f83b1764305bd0216f15b8ab88a/1200.m3u8
-#EXTINF:-1,小动物大猎手(上)
+#EXTINF:-1 tvg-id="" tvg-name="小动物大猎手(上)" tvg-logo="" group-title="央视纪录片",小动物大猎手(上)
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/c46a26d74f5b4da98f5c9d69f8218de0/1200.m3u8
-#EXTINF:-1,小动物大猎手(下)
+#EXTINF:-1 tvg-id="" tvg-name="小动物大猎手(下)" tvg-logo="" group-title="央视纪录片",小动物大猎手(下)
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/ef8ad1d36d9c4515a9e04443687a7f33/1200.m3u8
-#EXTINF:-1,小动物大英雄
+#EXTINF:-1 tvg-id="" tvg-name="小动物大英雄" tvg-logo="" group-title="央视纪录片",小动物大英雄
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/27818c0197e94415946b825b2b163e22/1200.m3u8
-#EXTINF:-1,小动物的森林童话
+#EXTINF:-1 tvg-id="" tvg-name="小动物的森林童话" tvg-logo="" group-title="央视纪录片",小动物的森林童话
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/321727074edc4cf69b5b205111569205/1200.m3u8
-#EXTINF:-1,小勇士闯天下
+#EXTINF:-1 tvg-id="" tvg-name="小勇士闯天下" tvg-logo="" group-title="央视纪录片",小勇士闯天下
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/8737418de24a461f9785193bcbda0026/1200.m3u8
-#EXTINF:-1,小熊的故事1
+#EXTINF:-1 tvg-id="" tvg-name="小熊的故事1" tvg-logo="" group-title="央视纪录片",小熊的故事1
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/d3c750e3481a4ca696898875f6e6dbf1/1200.m3u8
-#EXTINF:-1,小熊的故事2
+#EXTINF:-1 tvg-id="" tvg-name="小熊的故事2" tvg-logo="" group-title="央视纪录片",小熊的故事2
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/3499a172820f47da988e5aaeb187ec29/1200.m3u8
-#EXTINF:-1,小熊的故事3
+#EXTINF:-1 tvg-id="" tvg-name="小熊的故事3" tvg-logo="" group-title="央视纪录片",小熊的故事3
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/3564b5460bea444b8712fb1cb0a59c00/1200.m3u8
-#EXTINF:-1,小熊的梦幻森林1
+#EXTINF:-1 tvg-id="" tvg-name="小熊的梦幻森林1" tvg-logo="" group-title="央视纪录片",小熊的梦幻森林1
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/b0f2b241c39c42beb732a5e73b5a9782/1200.m3u8
-#EXTINF:-1,小熊的梦幻森林2
+#EXTINF:-1 tvg-id="" tvg-name="小熊的梦幻森林2" tvg-logo="" group-title="央视纪录片",小熊的梦幻森林2
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/b2e817cee1a7417ba34f062aa919ca02/1200.m3u8
-#EXTINF:-1,小熊的梦幻森林3
+#EXTINF:-1 tvg-id="" tvg-name="小熊的梦幻森林3" tvg-logo="" group-title="央视纪录片",小熊的梦幻森林3
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/8bbcff92f2ce423bb2d822e0fb67657f/1200.m3u8
-#EXTINF:-1,小角马历险记
+#EXTINF:-1 tvg-id="" tvg-name="小角马历险记" tvg-logo="" group-title="央视纪录片",小角马历险记
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/b7594a5bc3d241e3a8b95eac39ebd7e9/1200.m3u8
-#EXTINF:-1,小象和绵羊朋友(上)
+#EXTINF:-1 tvg-id="" tvg-name="小象和绵羊朋友(上)" tvg-logo="" group-title="央视纪录片",小象和绵羊朋友(上)
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/c69ca1ce229648ce86e97c0b86e67c58/1200.m3u8
-#EXTINF:-1,小象和绵羊朋友(下)
+#EXTINF:-1 tvg-id="" tvg-name="小象和绵羊朋友(下)" tvg-logo="" group-title="央视纪录片",小象和绵羊朋友(下)
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/138e7ea321c94a86b4f939ccb00a75a9/1200.m3u8
-#EXTINF:-1,小鼠奇遇记
+#EXTINF:-1 tvg-id="" tvg-name="小鼠奇遇记" tvg-logo="" group-title="央视纪录片",小鼠奇遇记
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/9417f7c1d9f2484c901d886245892130/1200.m3u8
-#EXTINF:-1,巨兽来了
+#EXTINF:-1 tvg-id="" tvg-name="巨兽来了" tvg-logo="" group-title="央视纪录片",巨兽来了
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/1224d3b3e1ba410d8dc316f2f2ab1872/1200.m3u8
-#EXTINF:-1,巨藻林的守卫者
+#EXTINF:-1 tvg-id="" tvg-name="巨藻林的守卫者" tvg-logo="" group-title="央视纪录片",巨藻林的守卫者
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/432e7e692dc841bfaefb5e662de89bdc/1200.m3u8
-#EXTINF:-1,彩蛇之舞
+#EXTINF:-1 tvg-id="" tvg-name="彩蛇之舞" tvg-logo="" group-title="央视纪录片",彩蛇之舞
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/002334474c7c4b8b98bad237a7bdeb7b/1200.m3u8
-#EXTINF:-1,情满大草原1
+#EXTINF:-1 tvg-id="" tvg-name="情满大草原1" tvg-logo="" group-title="央视纪录片",情满大草原1
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/222ec6157bf34d8c9abd0e62ddae6ee1/1200.m3u8
-#EXTINF:-1,情满大草原2
+#EXTINF:-1 tvg-id="" tvg-name="情满大草原2" tvg-logo="" group-title="央视纪录片",情满大草原2
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/8200031edc9f434583d9b3f738ac4448/1200.m3u8
-#EXTINF:-1,情满大草原3
+#EXTINF:-1 tvg-id="" tvg-name="情满大草原3" tvg-logo="" group-title="央视纪录片",情满大草原3
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/0ab9b80f79884e22b6390b2deefdc571/1200.m3u8
-#EXTINF:-1,打造一只超级猫
+#EXTINF:-1 tvg-id="" tvg-name="打造一只超级猫" tvg-logo="" group-title="央视纪录片",打造一只超级猫
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/ba966901198844d09399a354e203e6cb/1200.m3u8
-#EXTINF:-1,抢滩勇士(下)
+#EXTINF:-1 tvg-id="" tvg-name="抢滩勇士(下)" tvg-logo="" group-title="央视纪录片",抢滩勇士(下)
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/0d4351715b27425d87a926b964b6cdaf/1200.m3u8
-#EXTINF:-1,捕猎刹那间1
+#EXTINF:-1 tvg-id="" tvg-name="捕猎刹那间1" tvg-logo="" group-title="央视纪录片",捕猎刹那间1
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/6b222a92e2b9484f86121a558915ddb5/1200.m3u8
-#EXTINF:-1,捕猎刹那间2
+#EXTINF:-1 tvg-id="" tvg-name="捕猎刹那间2" tvg-logo="" group-title="央视纪录片",捕猎刹那间2
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/eb2cf087eae64ff9a40258bbbc1a92ba/1200.m3u8
-#EXTINF:-1,捕猎刹那间3
+#EXTINF:-1 tvg-id="" tvg-name="捕猎刹那间3" tvg-logo="" group-title="央视纪录片",捕猎刹那间3
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/799ea1ddb3db403484fe2421d4831287/1200.m3u8
-#EXTINF:-1,捕食一瞬间(上)
+#EXTINF:-1 tvg-id="" tvg-name="捕食一瞬间(上)" tvg-logo="" group-title="央视纪录片",捕食一瞬间(上)
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/426cfdd1924a452b863c0cd52af6436b/1200.m3u8
-#EXTINF:-1,捕食一瞬间(下)
+#EXTINF:-1 tvg-id="" tvg-name="捕食一瞬间(下)" tvg-logo="" group-title="央视纪录片",捕食一瞬间(下)
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/b66704d4d4aa4ea7bab6e6ef673568b3/1200.m3u8
-#EXTINF:-1,捕食奇谋(上)
+#EXTINF:-1 tvg-id="" tvg-name="捕食奇谋(上)" tvg-logo="" group-title="央视纪录片",捕食奇谋(上)
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/543fa61893394cc48d2802207c8a51e8/1200.m3u8
-#EXTINF:-1,捕食奇谋(下)
+#EXTINF:-1 tvg-id="" tvg-name="捕食奇谋(下)" tvg-logo="" group-title="央视纪录片",捕食奇谋(下)
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/05ba8dcc7a224442a58f6d6f86885d25/1200.m3u8
-#EXTINF:-1,捕食者大观
+#EXTINF:-1 tvg-id="" tvg-name="捕食者大观" tvg-logo="" group-title="央视纪录片",捕食者大观
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/d19e46abe2754e2985715a147e653626/1200.m3u8
-#EXTINF:-1,捕食者身体构造
+#EXTINF:-1 tvg-id="" tvg-name="捕食者身体构造" tvg-logo="" group-title="央视纪录片",捕食者身体构造
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/83901acd0fed408f904a9b554c8e16ef/1200.m3u8
-#EXTINF:-1,捕食者追猎现场(上)
+#EXTINF:-1 tvg-id="" tvg-name="捕食者追猎现场(上)" tvg-logo="" group-title="央视纪录片",捕食者追猎现场(上)
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/853b68324c2e4718ad08298aaed459b7/1200.m3u8
-#EXTINF:-1,捕食者追猎现场(下)
+#EXTINF:-1 tvg-id="" tvg-name="捕食者追猎现场(下)" tvg-logo="" group-title="央视纪录片",捕食者追猎现场(下)
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/6016b09920a7447eb798f3f891f52bad/1200.m3u8
-#EXTINF:-1,探秘冰上的北极熊(上)
+#EXTINF:-1 tvg-id="" tvg-name="探秘冰上的北极熊(上)" tvg-logo="" group-title="央视纪录片",探秘冰上的北极熊(上)
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/6a74d01391d849849c7391b2466f3752/1200.m3u8
-#EXTINF:-1,探秘冰上的北极熊(下)
+#EXTINF:-1 tvg-id="" tvg-name="探秘冰上的北极熊(下)" tvg-logo="" group-title="央视纪录片",探秘冰上的北极熊(下)
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/509e924ad47e422984af226b26236bf6/1200.m3u8
-#EXTINF:-1,探秘雨林利爪族(上)
+#EXTINF:-1 tvg-id="" tvg-name="探秘雨林利爪族(上)" tvg-logo="" group-title="央视纪录片",探秘雨林利爪族(上)
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/dc83b3fe7f874e33959bdbf034e6451c/1200.m3u8
-#EXTINF:-1,探秘雨林利爪族(下)
+#EXTINF:-1 tvg-id="" tvg-name="探秘雨林利爪族(下)" tvg-logo="" group-title="央视纪录片",探秘雨林利爪族(下)
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/5a8fd3e4e8ba4ca5b62f1b90ae9c3640/1200.m3u8
-#EXTINF:-1,新狮王诞生记
+#EXTINF:-1 tvg-id="" tvg-name="新狮王诞生记" tvg-logo="" group-title="央视纪录片",新狮王诞生记
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/5e156f1734234e17ab0f6f87f2e7491b/1200.m3u8
-#EXTINF:-1,旱季冒险故事
+#EXTINF:-1 tvg-id="" tvg-name="旱季冒险故事" tvg-logo="" group-title="央视纪录片",旱季冒险故事
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/ac505ca5d2d5469eb21448c300a8c16c/1200.m3u8
-#EXTINF:-1,旱季极限生存战
+#EXTINF:-1 tvg-id="" tvg-name="旱季极限生存战" tvg-logo="" group-title="央视纪录片",旱季极限生存战
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/1b750e952abb452c9f77d44f8d8bae17/1200.m3u8
-#EXTINF:-1,旱季生存攻略
+#EXTINF:-1 tvg-id="" tvg-name="旱季生存攻略" tvg-logo="" group-title="央视纪录片",旱季生存攻略
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/3f34548881664dd6afb01ccdcb677a5d/1200.m3u8
-#EXTINF:-1,有一只美丽的大水獭
+#EXTINF:-1 tvg-id="" tvg-name="有一只美丽的大水獭" tvg-logo="" group-title="央视纪录片",有一只美丽的大水獭
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/f1ddaab95ca9475da4cd97907cef8e96/1200.m3u8
-#EXTINF:-1,来到这个美丽的世界(上)
+#EXTINF:-1 tvg-id="" tvg-name="来到这个美丽的世界(上)" tvg-logo="" group-title="央视纪录片",来到这个美丽的世界(上)
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/003d910853de498299eb47d7d8a2eedf/1200.m3u8
-#EXTINF:-1,来到这个美丽的世界(下)
+#EXTINF:-1 tvg-id="" tvg-name="来到这个美丽的世界(下)" tvg-logo="" group-title="央视纪录片",来到这个美丽的世界(下)
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/9323ea96cf6a47afaf798fca6d9411e6/1200.m3u8
-#EXTINF:-1,林间潜伏
+#EXTINF:-1 tvg-id="" tvg-name="林间潜伏" tvg-logo="" group-title="央视纪录片",林间潜伏
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/922b142fef9443218be5eaf44df0b397/1200.m3u8
-#EXTINF:-1,棋逢对手
+#EXTINF:-1 tvg-id="" tvg-name="棋逢对手" tvg-logo="" group-title="央视纪录片",棋逢对手
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/3d515f3011c64797ae15bf36c639cb49/1200.m3u8
-#EXTINF:-1,棕熊把守的水上要塞(上)
+#EXTINF:-1 tvg-id="" tvg-name="棕熊把守的水上要塞(上)" tvg-logo="" group-title="央视纪录片",棕熊把守的水上要塞(上)
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/50590d053a2245428391323902e07d0e/1200.m3u8
-#EXTINF:-1,棕熊把守的水上要塞(下)
+#EXTINF:-1 tvg-id="" tvg-name="棕熊把守的水上要塞(下)" tvg-logo="" group-title="央视纪录片",棕熊把守的水上要塞(下)
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/bb2341e42865439eaed4502fcc736ea5/1200.m3u8
-#EXTINF:-1,棕熊捕鱼季(上)
+#EXTINF:-1 tvg-id="" tvg-name="棕熊捕鱼季(上)" tvg-logo="" group-title="央视纪录片",棕熊捕鱼季(上)
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/1ef91cb6079d46ccb9a62f046739d5c8/1200.m3u8
-#EXTINF:-1,棕熊的捕鱼生活(上)
+#EXTINF:-1 tvg-id="" tvg-name="棕熊的捕鱼生活(上)" tvg-logo="" group-title="央视纪录片",棕熊的捕鱼生活(上)
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/388d46918ea34570a3fed5f5ceb393ee/1200.m3u8
-#EXTINF:-1,棕熊的捕鱼生活(下)
+#EXTINF:-1 tvg-id="" tvg-name="棕熊的捕鱼生活(下)" tvg-logo="" group-title="央视纪录片",棕熊的捕鱼生活(下)
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/09def25492254217aba438e7403741e2/1200.m3u8
-#EXTINF:-1,森林是我家1
+#EXTINF:-1 tvg-id="" tvg-name="森林是我家1" tvg-logo="" group-title="央视纪录片",森林是我家1
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/c105c056c3f744baa49ce0b8b39c1f3b/1200.m3u8
-#EXTINF:-1,森林是我家2
+#EXTINF:-1 tvg-id="" tvg-name="森林是我家2" tvg-logo="" group-title="央视纪录片",森林是我家2
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/63bb582977074c57a127eaca9d954154/1200.m3u8
-#EXTINF:-1,森林是我家3
+#EXTINF:-1 tvg-id="" tvg-name="森林是我家3" tvg-logo="" group-title="央视纪录片",森林是我家3
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/14b683f0668f404a9bb8ea74d14c5c8e/1200.m3u8
-#EXTINF:-1,植物王国漫游记
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/508b9a0c8be74d89a431b24114c91faa/1200.m3u8
-#EXTINF:-1,植物王国漫游记
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/fa3ad43978014ff4b64b4bff8914116c/1200.m3u8
-#EXTINF:-1,母爱之路
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="央视纪录片",植物王国漫游记
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/508b9a0c8be74d89a431b24114c91faa/1200.m3u8#https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/fa3ad43978014ff4b64b4bff8914116c/1200.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="母爱之路" tvg-logo="" group-title="央视纪录片",母爱之路
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/115d481467e04333be047fcebf482b3e/1200.m3u8
-#EXTINF:-1,母爱的呵护
+#EXTINF:-1 tvg-id="" tvg-name="母爱的呵护" tvg-logo="" group-title="央视纪录片",母爱的呵护
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/a6ec4d0475e1453e8ede023e346c2350/1200.m3u8
-#EXTINF:-1,水牛与狮子的争战
+#EXTINF:-1 tvg-id="" tvg-name="水牛与狮子的争战" tvg-logo="" group-title="央视纪录片",水牛与狮子的争战
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/d1e0dc98b1374b43b157bf82eebc6d09/1200.m3u8
-#EXTINF:-1,水牛向前冲(上)
+#EXTINF:-1 tvg-id="" tvg-name="水牛向前冲(上)" tvg-logo="" group-title="央视纪录片",水牛向前冲(上)
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/2f05eb49b3a049c88a848a1104dc856f/1200.m3u8
-#EXTINF:-1,水牛向前冲(下)
+#EXTINF:-1 tvg-id="" tvg-name="水牛向前冲(下)" tvg-logo="" group-title="央视纪录片",水牛向前冲(下)
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/bda4b441c07e40cb8a418381d0506c80/1200.m3u8
-#EXTINF:-1,水獭奇缘
+#EXTINF:-1 tvg-id="" tvg-name="水獭奇缘" tvg-logo="" group-title="央视纪录片",水獭奇缘
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/da2d147b25404552b118111dd52d7a25/1200.m3u8
-#EXTINF:-1,水豚爱湿地
+#EXTINF:-1 tvg-id="" tvg-name="水豚爱湿地" tvg-logo="" group-title="央视纪录片",水豚爱湿地
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/c7488fc3bed341ad827c054d3ec7e62d/1200.m3u8
-#EXTINF:-1,沙滩上的盛宴
+#EXTINF:-1 tvg-id="" tvg-name="沙滩上的盛宴" tvg-logo="" group-title="央视纪录片",沙滩上的盛宴
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/31e38a0232734780842a9031072c2073/1200.m3u8
-#EXTINF:-1,河里的捕食大师(上)
+#EXTINF:-1 tvg-id="" tvg-name="河里的捕食大师(上)" tvg-logo="" group-title="央视纪录片",河里的捕食大师(上)
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/bf70f8033ec049f5be4698c3497d3868/1200.m3u8
-#EXTINF:-1,河里的捕食大师(下)
+#EXTINF:-1 tvg-id="" tvg-name="河里的捕食大师(下)" tvg-logo="" group-title="央视纪录片",河里的捕食大师(下)
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/040c050908a340238dacd1ac86694543/1200.m3u8
-#EXTINF:-1,河龙王出海
+#EXTINF:-1 tvg-id="" tvg-name="河龙王出海" tvg-logo="" group-title="央视纪录片",河龙王出海
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/f352ba97a41146279f5d250cc8c670bb/1200.m3u8
-#EXTINF:-1,海底生存战
+#EXTINF:-1 tvg-id="" tvg-name="海底生存战" tvg-logo="" group-title="央视纪录片",海底生存战
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/20225ac33ef7408e8c7040cb39d6a595/1200.m3u8
-#EXTINF:-1,海洋宫殿的守护者
+#EXTINF:-1 tvg-id="" tvg-name="海洋宫殿的守护者" tvg-logo="" group-title="央视纪录片",海洋宫殿的守护者
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/86c73156b8ad405180ed252940b2155c/1200.m3u8
-#EXTINF:-1,海洋猎手
+#EXTINF:-1 tvg-id="" tvg-name="海洋猎手" tvg-logo="" group-title="央视纪录片",海洋猎手
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/f98ebc30517647839c09fb17e0dbea04/1200.m3u8
-#EXTINF:-1,海洋里的神奇家族(上)
+#EXTINF:-1 tvg-id="" tvg-name="海洋里的神奇家族(上)" tvg-logo="" group-title="央视纪录片",海洋里的神奇家族(上)
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/ef8e561920694e4a81cd1933314610cb/1200.m3u8
-#EXTINF:-1,海洋里的神奇家族(下)
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/5775e1919dca48169eb22986804455b3/1200.m3u8
-#EXTINF:-1,海洋里的神奇家族(下)
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/a68ae907dc7e4783af8d9547a1926435/1200.m3u8
-#EXTINF:-1,海的呼唤
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="央视纪录片",海洋里的神奇家族(下)
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/5775e1919dca48169eb22986804455b3/1200.m3u8#https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/a68ae907dc7e4783af8d9547a1926435/1200.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="海的呼唤" tvg-logo="" group-title="央视纪录片",海的呼唤
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/ee6a46541b624388a01ba2fc14c34079/1200.m3u8
-#EXTINF:-1,海豚的奇妙生活(上)
+#EXTINF:-1 tvg-id="" tvg-name="海豚的奇妙生活(上)" tvg-logo="" group-title="央视纪录片",海豚的奇妙生活(上)
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/30385b1caa214c9a8c6c53ef69ce7e18/1200.m3u8
-#EXTINF:-1,海豚的奇妙生活(下)
+#EXTINF:-1 tvg-id="" tvg-name="海豚的奇妙生活(下)" tvg-logo="" group-title="央视纪录片",海豚的奇妙生活(下)
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/b61b0646586142aca08c2e8d333c385b/1200.m3u8
-#EXTINF:-1,海鬣蜥的幸福生活
+#EXTINF:-1 tvg-id="" tvg-name="海鬣蜥的幸福生活" tvg-logo="" group-title="央视纪录片",海鬣蜥的幸福生活
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/a66f6344f9cc4ed3b42b06e678124d0f/1200.m3u8
-#EXTINF:-1,海鬣蜥的故事
+#EXTINF:-1 tvg-id="" tvg-name="海鬣蜥的故事" tvg-logo="" group-title="央视纪录片",海鬣蜥的故事
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/d19635c3f57f4e538e078569ac796fd6/1200.m3u8
-#EXTINF:-1,深海潜伏的猎手
+#EXTINF:-1 tvg-id="" tvg-name="深海潜伏的猎手" tvg-logo="" group-title="央视纪录片",深海潜伏的猎手
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/f1a00ae54f3b428bac1ed388ced1ce70/1200.m3u8
-#EXTINF:-1,湿地之争豹与鳄鱼
+#EXTINF:-1 tvg-id="" tvg-name="湿地之争豹与鳄鱼" tvg-logo="" group-title="央视纪录片",湿地之争豹与鳄鱼
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/1fe1e5df7c9d4b38a0a855e092a7b6c1/1200.m3u8
-#EXTINF:-1,湿地小萌兽
+#EXTINF:-1 tvg-id="" tvg-name="湿地小萌兽" tvg-logo="" group-title="央视纪录片",湿地小萌兽
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/00892961ec6546ae8c78e96d1dd0874a/1200.m3u8
-#EXTINF:-1,湿地有萌兽
+#EXTINF:-1 tvg-id="" tvg-name="湿地有萌兽" tvg-logo="" group-title="央视纪录片",湿地有萌兽
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/e3c31d84ec7e4035a8501db9df1d140b/1200.m3u8
-#EXTINF:-1,潜水大师的岛上生活(上)
+#EXTINF:-1 tvg-id="" tvg-name="潜水大师的岛上生活(上)" tvg-logo="" group-title="央视纪录片",潜水大师的岛上生活(上)
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/cd88344f084b47c593388fdf6a8c443f/1200.m3u8
-#EXTINF:-1,潜水大师的岛上生活(下)
+#EXTINF:-1 tvg-id="" tvg-name="潜水大师的岛上生活(下)" tvg-logo="" group-title="央视纪录片",潜水大师的岛上生活(下)
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/76332b54d8074b0fada76d081570d621/1200.m3u8
-#EXTINF:-1,熊在旅途(上)
+#EXTINF:-1 tvg-id="" tvg-name="熊在旅途(上)" tvg-logo="" group-title="央视纪录片",熊在旅途(上)
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/b0b95c35bce84072b10ad0b82cf83951/1200.m3u8
-#EXTINF:-1,熊在旅途(下)
+#EXTINF:-1 tvg-id="" tvg-name="熊在旅途(下)" tvg-logo="" group-title="央视纪录片",熊在旅途(下)
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/9dc810bc8a3b426f88ac8c998f9e5332/1200.m3u8
-#EXTINF:-1,熊的王国
+#EXTINF:-1 tvg-id="" tvg-name="熊的王国" tvg-logo="" group-title="央视纪录片",熊的王国
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/ade1b31d23694fba82c9c4f07dba3267/1200.m3u8
-#EXTINF:-1,爱与狗相伴
+#EXTINF:-1 tvg-id="" tvg-name="爱与狗相伴" tvg-logo="" group-title="央视纪录片",爱与狗相伴
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/530a12d274184293802f51c38603f75a/1200.m3u8
-#EXTINF:-1,爱你我的宝宝(上)
+#EXTINF:-1 tvg-id="" tvg-name="爱你我的宝宝(上)" tvg-logo="" group-title="央视纪录片",爱你我的宝宝(上)
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/08f97ee21d884d0486c37ae6fb7c5683/1200.m3u8
-#EXTINF:-1,爱你我的宝宝(下)
+#EXTINF:-1 tvg-id="" tvg-name="爱你我的宝宝(下)" tvg-logo="" group-title="央视纪录片",爱你我的宝宝(下)
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/f16dbba3ddf84af2a0ff1521448ee4da/1200.m3u8
-#EXTINF:-1,爱吃鱼的棕熊
+#EXTINF:-1 tvg-id="" tvg-name="爱吃鱼的棕熊" tvg-logo="" group-title="央视纪录片",爱吃鱼的棕熊
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/79c7bb4495f74ca698f3111a6f7ba567/1200.m3u8
-#EXTINF:-1,爱的奉献1
+#EXTINF:-1 tvg-id="" tvg-name="爱的奉献1" tvg-logo="" group-title="央视纪录片",爱的奉献1
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/5b062ba2cd854ba993166d277af8a40d/1200.m3u8
-#EXTINF:-1,爱的奉献2
+#EXTINF:-1 tvg-id="" tvg-name="爱的奉献2" tvg-logo="" group-title="央视纪录片",爱的奉献2
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/80cf935aef484e15aa31b8fbd565be39/1200.m3u8
-#EXTINF:-1,爱的奉献3
+#EXTINF:-1 tvg-id="" tvg-name="爱的奉献3" tvg-logo="" group-title="央视纪录片",爱的奉献3
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/aee1f28cf3e94a5fa7468206d4f417ed/1200.m3u8
-#EXTINF:-1,狮口余生的小角马(上)
+#EXTINF:-1 tvg-id="" tvg-name="狮口余生的小角马(上)" tvg-logo="" group-title="央视纪录片",狮口余生的小角马(上)
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/7cfc0fe7981b4022b69c3e1cb7317b77/1200.m3u8
-#EXTINF:-1,狮子和鬣狗(上)
+#EXTINF:-1 tvg-id="" tvg-name="狮子和鬣狗(上)" tvg-logo="" group-title="央视纪录片",狮子和鬣狗(上)
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/6ca061c3b9184e7aa46cef1ead911099/1200.m3u8
-#EXTINF:-1,狮子和鬣狗(下)
+#EXTINF:-1 tvg-id="" tvg-name="狮子和鬣狗(下)" tvg-logo="" group-title="央视纪录片",狮子和鬣狗(下)
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/e5ea8f4b0cbd4d7aa779b9dfed5a9448/1200.m3u8
-#EXTINF:-1,狮子捕猎计划
+#EXTINF:-1 tvg-id="" tvg-name="狮子捕猎计划" tvg-logo="" group-title="央视纪录片",狮子捕猎计划
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/6f2b58a05add4e2a9907ba370473332a/1200.m3u8
-#EXTINF:-1,狮子的荣耀回归之路1
+#EXTINF:-1 tvg-id="" tvg-name="狮子的荣耀回归之路1" tvg-logo="" group-title="央视纪录片",狮子的荣耀回归之路1
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/bec9f485672345339c49bc345edf9fd5/1200.m3u8
-#EXTINF:-1,狮子的荣耀回归之路2
+#EXTINF:-1 tvg-id="" tvg-name="狮子的荣耀回归之路2" tvg-logo="" group-title="央视纪录片",狮子的荣耀回归之路2
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/bdb438a81a20403db85b6e9d12707f2d/1200.m3u8
-#EXTINF:-1,狮子的荣耀回归之路3
+#EXTINF:-1 tvg-id="" tvg-name="狮子的荣耀回归之路3" tvg-logo="" group-title="央视纪录片",狮子的荣耀回归之路3
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/50ef8c8037da4735a9cb9288f45878b0/1200.m3u8
-#EXTINF:-1,狮子的荣耀回归之路4
+#EXTINF:-1 tvg-id="" tvg-name="狮子的荣耀回归之路4" tvg-logo="" group-title="央视纪录片",狮子的荣耀回归之路4
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/2fea6699d56f4274b5ab5260b016fda2/1200.m3u8
-#EXTINF:-1,狮族迷踪1
+#EXTINF:-1 tvg-id="" tvg-name="狮族迷踪1" tvg-logo="" group-title="央视纪录片",狮族迷踪1
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/801151749824437aaa0afa87bfcf7abf/1200.m3u8
-#EXTINF:-1,狮族迷踪2
+#EXTINF:-1 tvg-id="" tvg-name="狮族迷踪2" tvg-logo="" group-title="央视纪录片",狮族迷踪2
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/b4ff6041c00246af815b679a7ee6c4a6/1200.m3u8
-#EXTINF:-1,狮族迷踪3
+#EXTINF:-1 tvg-id="" tvg-name="狮族迷踪3" tvg-logo="" group-title="央视纪录片",狮族迷踪3
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/5e01c3ff2a5844ab80643ce67ba29026/1200.m3u8
-#EXTINF:-1,狮群的家园生活
+#EXTINF:-1 tvg-id="" tvg-name="狮群的家园生活" tvg-logo="" group-title="央视纪录片",狮群的家园生活
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/cad939a2eb714f4b9d37c4185674d50b/1200.m3u8
-#EXTINF:-1,狮群的荣耀
+#EXTINF:-1 tvg-id="" tvg-name="狮群的荣耀" tvg-logo="" group-title="央视纪录片",狮群的荣耀
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/84b850056589475f80528cf28b9b840a/1200.m3u8
-#EXTINF:-1,狼女王的奋斗传奇
+#EXTINF:-1 tvg-id="" tvg-name="狼女王的奋斗传奇" tvg-logo="" group-title="央视纪录片",狼女王的奋斗传奇
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/f2d629470e214acf9d08dc81f4773cbf/1200.m3u8
-#EXTINF:-1,猎手求生记
+#EXTINF:-1 tvg-id="" tvg-name="猎手求生记" tvg-logo="" group-title="央视纪录片",猎手求生记
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/5bc79939a4804f199e606cc08b1bb416/1200.m3u8
-#EXTINF:-1,猎手生存攻略
+#EXTINF:-1 tvg-id="" tvg-name="猎手生存攻略" tvg-logo="" group-title="央视纪录片",猎手生存攻略
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/703310100a944d78a5e6838f80920cd6/1200.m3u8
-#EXTINF:-1,猎豹妈妈奋斗记
+#EXTINF:-1 tvg-id="" tvg-name="猎豹妈妈奋斗记" tvg-logo="" group-title="央视纪录片",猎豹妈妈奋斗记
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/6b10d45dafaa47f4a3c3444946c074c9/1200.m3u8
-#EXTINF:-1,猎豹妈妈育儿记(上)
+#EXTINF:-1 tvg-id="" tvg-name="猎豹妈妈育儿记(上)" tvg-logo="" group-title="央视纪录片",猎豹妈妈育儿记(上)
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/dba9097ef49e42acb2c6597e04551fbc/1200.m3u8
-#EXTINF:-1,猎豹妈妈育儿记(下)
+#EXTINF:-1 tvg-id="" tvg-name="猎豹妈妈育儿记(下)" tvg-logo="" group-title="央视纪录片",猎豹妈妈育儿记(下)
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/fca702ad83284ff0a3b883a735913060/1200.m3u8
-#EXTINF:-1,猎食计划1
+#EXTINF:-1 tvg-id="" tvg-name="猎食计划1" tvg-logo="" group-title="央视纪录片",猎食计划1
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/cd732e06e7934a3daef6483c6be1afca/1200.m3u8
-#EXTINF:-1,猎食计划2
+#EXTINF:-1 tvg-id="" tvg-name="猎食计划2" tvg-logo="" group-title="央视纪录片",猎食计划2
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/497afdb07e92409fb8cb5c0249dfe6d7/1200.m3u8
-#EXTINF:-1,猎食计划3
+#EXTINF:-1 tvg-id="" tvg-name="猎食计划3" tvg-logo="" group-title="央视纪录片",猎食计划3
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/947b6c076a0c4a3ca72a1274731feb66/1200.m3u8
-#EXTINF:-1,猛虎柔情
+#EXTINF:-1 tvg-id="" tvg-name="猛虎柔情" tvg-logo="" group-title="央视纪录片",猛虎柔情
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/dd3be5a89c1542d3bb4db0953a1430c6/1200.m3u8
-#EXTINF:-1,猫科动物谁为王者(上)
+#EXTINF:-1 tvg-id="" tvg-name="猫科动物谁为王者(上)" tvg-logo="" group-title="央视纪录片",猫科动物谁为王者(上)
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/17c3860b26c14110a740dfa49785a1bd/1200.m3u8
-#EXTINF:-1,猫科动物谁为王者(下)
+#EXTINF:-1 tvg-id="" tvg-name="猫科动物谁为王者(下)" tvg-logo="" group-title="央视纪录片",猫科动物谁为王者(下)
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/1cbb873dc7474315b86788e9f657534a/1200.m3u8
-#EXTINF:-1,猴子的智慧
+#EXTINF:-1 tvg-id="" tvg-name="猴子的智慧" tvg-logo="" group-title="央视纪录片",猴子的智慧
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/ef01d6b79fe74daf9bd63ff0469713d2/1200.m3u8
-#EXTINF:-1,生存极限大挑战
+#EXTINF:-1 tvg-id="" tvg-name="生存极限大挑战" tvg-logo="" group-title="央视纪录片",生存极限大挑战
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/9dc7b6dcacde4fad9467c4d2c61da3d1/1200.m3u8
-#EXTINF:-1,生存的望(上)
+#EXTINF:-1 tvg-id="" tvg-name="生存的望(上)" tvg-logo="" group-title="央视纪录片",生存的望(上)
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/fd00ce388b994d7195dbefc1beb5726b/1200.m3u8
-#EXTINF:-1,生存的望(下)
+#EXTINF:-1 tvg-id="" tvg-name="生存的望(下)" tvg-logo="" group-title="央视纪录片",生存的望(下)
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/d9765b81ca83444a9ba7b6a335b2466a/1200.m3u8
-#EXTINF:-1,疯狂的爱
+#EXTINF:-1 tvg-id="" tvg-name="疯狂的爱" tvg-logo="" group-title="央视纪录片",疯狂的爱
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/35b481b5e27a4fa2b2c03f42596b68ba/1200.m3u8
-#EXTINF:-1,白狮归来1
+#EXTINF:-1 tvg-id="" tvg-name="白狮归来1" tvg-logo="" group-title="央视纪录片",白狮归来1
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/199ab14f5ba44a208371a3eef0029a09/1200.m3u8
-#EXTINF:-1,白狮归来2
+#EXTINF:-1 tvg-id="" tvg-name="白狮归来2" tvg-logo="" group-title="央视纪录片",白狮归来2
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/e3b36e52d0bc4a0a851a1bd3fa181365/1200.m3u8
-#EXTINF:-1,白狮归来4
+#EXTINF:-1 tvg-id="" tvg-name="白狮归来4" tvg-logo="" group-title="央视纪录片",白狮归来4
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/ffda5e0584b64e0d9dc3cc43783900cf/1200.m3u8
-#EXTINF:-1,白狮的荒野故事(上)
+#EXTINF:-1 tvg-id="" tvg-name="白狮的荒野故事(上)" tvg-logo="" group-title="央视纪录片",白狮的荒野故事(上)
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/649a0df6bc394fde973b2e8ef12ef3d6/1200.m3u8
-#EXTINF:-1,白狮的荒野故事(下)
+#EXTINF:-1 tvg-id="" tvg-name="白狮的荒野故事(下)" tvg-logo="" group-title="央视纪录片",白狮的荒野故事(下)
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/1eee9eda1dec4c8da256c6b2ef70114a/1200.m3u8
-#EXTINF:-1,盛宴的旅程
+#EXTINF:-1 tvg-id="" tvg-name="盛宴的旅程" tvg-logo="" group-title="央视纪录片",盛宴的旅程
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/fbcd61c318c34e08854c3911086a7406/1200.m3u8
-#EXTINF:-1,看得见的远方1
+#EXTINF:-1 tvg-id="" tvg-name="看得见的远方1" tvg-logo="" group-title="央视纪录片",看得见的远方1
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/f532415139fb4dc3a0e9de757d535d6a/1200.m3u8
-#EXTINF:-1,看得见的远方3
+#EXTINF:-1 tvg-id="" tvg-name="看得见的远方3" tvg-logo="" group-title="央视纪录片",看得见的远方3
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/255a802e924a44f381318db92a32431e/1200.m3u8
-#EXTINF:-1,神秘的眼睛王蛇
+#EXTINF:-1 tvg-id="" tvg-name="神秘的眼睛王蛇" tvg-logo="" group-title="央视纪录片",神秘的眼睛王蛇
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/cb73d16a9e02484ab4708b0268b63bcf/1200.m3u8
-#EXTINF:-1,秘境之蛇
+#EXTINF:-1 tvg-id="" tvg-name="秘境之蛇" tvg-logo="" group-title="央视纪录片",秘境之蛇
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/c4e45ac9dd2642b6ae9fb95b470224a9/1200.m3u8
-#EXTINF:-1,秘境里的动物王国
+#EXTINF:-1 tvg-id="" tvg-name="秘境里的动物王国" tvg-logo="" group-title="央视纪录片",秘境里的动物王国
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/bb36368ba24f47ed88d4204fd3db5483/1200.m3u8
-#EXTINF:-1,秘境里的奇观
+#EXTINF:-1 tvg-id="" tvg-name="秘境里的奇观" tvg-logo="" group-title="央视纪录片",秘境里的奇观
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/38ba9675721d4259b3dd327b7e212a39/1200.m3u8
-#EXTINF:-1,穿越森林的迷宫
+#EXTINF:-1 tvg-id="" tvg-name="穿越森林的迷宫" tvg-logo="" group-title="央视纪录片",穿越森林的迷宫
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/52bf33932d1646529b95b044f187d4d3/1200.m3u8
-#EXTINF:-1,穿越狮子的领地
+#EXTINF:-1 tvg-id="" tvg-name="穿越狮子的领地" tvg-logo="" group-title="央视纪录片",穿越狮子的领地
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/ea08ccce272f4b7984eb665a97bab536/1200.m3u8
-#EXTINF:-1,童话般的雨林(上)
+#EXTINF:-1 tvg-id="" tvg-name="童话般的雨林(上)" tvg-logo="" group-title="央视纪录片",童话般的雨林(上)
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/a1672972c0b742239237bb1686ba0745/1200.m3u8
-#EXTINF:-1,童话般的雨林(下)
+#EXTINF:-1 tvg-id="" tvg-name="童话般的雨林(下)" tvg-logo="" group-title="央视纪录片",童话般的雨林(下)
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/8e99e3c9f38340a98fb79b36ab1c863f/1200.m3u8
-#EXTINF:-1,绽放的生命(五)
+#EXTINF:-1 tvg-id="" tvg-name="绽放的生命(五)" tvg-logo="" group-title="央视纪录片",绽放的生命(五)
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/d2f3f0f3b4c242b4983ee62034f85608/1200.m3u8
-#EXTINF:-1,绽放的生命1
+#EXTINF:-1 tvg-id="" tvg-name="绽放的生命1" tvg-logo="" group-title="央视纪录片",绽放的生命1
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/87145268893a47cd8fc9cda530eee111/1200.m3u8
-#EXTINF:-1,绽放的生命2
+#EXTINF:-1 tvg-id="" tvg-name="绽放的生命2" tvg-logo="" group-title="央视纪录片",绽放的生命2
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/7b6ed77c03224d298a72a8311fcf10a7/1200.m3u8
-#EXTINF:-1,绽放的生命3
+#EXTINF:-1 tvg-id="" tvg-name="绽放的生命3" tvg-logo="" group-title="央视纪录片",绽放的生命3
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/aea0ef5ea21c40dea948d723d823a5fb/1200.m3u8
-#EXTINF:-1,绽放的生命4
+#EXTINF:-1 tvg-id="" tvg-name="绽放的生命4" tvg-logo="" group-title="央视纪录片",绽放的生命4
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/fbb3d1d6ae37458e84f574881778ac7c/1200.m3u8
-#EXTINF:-1,美食的
+#EXTINF:-1 tvg-id="" tvg-name="美食的" tvg-logo="" group-title="央视纪录片",美食的
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/9debd40527e34471bdfbe1212aa198d7/1200.m3u8
-#EXTINF:-1,耀眼的白狮家族1
+#EXTINF:-1 tvg-id="" tvg-name="耀眼的白狮家族1" tvg-logo="" group-title="央视纪录片",耀眼的白狮家族1
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/07c3395ee5da4f789937372657ab980a/1200.m3u8
-#EXTINF:-1,耀眼的白狮家族2
+#EXTINF:-1 tvg-id="" tvg-name="耀眼的白狮家族2" tvg-logo="" group-title="央视纪录片",耀眼的白狮家族2
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/3989c3f3416745438c4bc20abeae51ae/1200.m3u8
-#EXTINF:-1,耀眼的白狮家族3
+#EXTINF:-1 tvg-id="" tvg-name="耀眼的白狮家族3" tvg-logo="" group-title="央视纪录片",耀眼的白狮家族3
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/e0efcf1181234f2dabef87db65bcdec0/1200.m3u8
-#EXTINF:-1,聪明的建筑师
+#EXTINF:-1 tvg-id="" tvg-name="聪明的建筑师" tvg-logo="" group-title="央视纪录片",聪明的建筑师
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/d04a550f19ac42869d7b4d3f5f9246b2/1200.m3u8
-#EXTINF:-1,自然界奥运冠军
+#EXTINF:-1 tvg-id="" tvg-name="自然界奥运冠军" tvg-logo="" group-title="央视纪录片",自然界奥运冠军
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/7b968e9b50984d598d96c6fc5af40b4c/1200.m3u8
-#EXTINF:-1,花豹柔情
+#EXTINF:-1 tvg-id="" tvg-name="花豹柔情" tvg-logo="" group-title="央视纪录片",花豹柔情
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/96712ee30d144f21a0566f3c1b2fbc56/1200.m3u8
-#EXTINF:-1,草原三巨头
+#EXTINF:-1 tvg-id="" tvg-name="草原三巨头" tvg-logo="" group-title="央视纪录片",草原三巨头
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/2bdc779138bb4235b20a5155e40fa7c8/1200.m3u8
-#EXTINF:-1,草原上的大猫王国
+#EXTINF:-1 tvg-id="" tvg-name="草原上的大猫王国" tvg-logo="" group-title="央视纪录片",草原上的大猫王国
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/e98eed67d3164ec0a2f5a9215693f7a8/1200.m3u8
-#EXTINF:-1,草原之王上战场
+#EXTINF:-1 tvg-id="" tvg-name="草原之王上战场" tvg-logo="" group-title="央视纪录片",草原之王上战场
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/bfb6917b29ea413c89e8ed8fa6e2a6ab/1200.m3u8
-#EXTINF:-1,草原狮子的戏剧舞台(上)
+#EXTINF:-1 tvg-id="" tvg-name="草原狮子的戏剧舞台(上)" tvg-logo="" group-title="央视纪录片",草原狮子的戏剧舞台(上)
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/93fde1242f50415faa6da2dd5da9105b/1200.m3u8
-#EXTINF:-1,草原狮子的戏剧舞台(下)
+#EXTINF:-1 tvg-id="" tvg-name="草原狮子的戏剧舞台(下)" tvg-logo="" group-title="央视纪录片",草原狮子的戏剧舞台(下)
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/c5b600bcb2c44c44b56e9afdb5243a07/1200.m3u8
-#EXTINF:-1,荒野里的呼唤
+#EXTINF:-1 tvg-id="" tvg-name="荒野里的呼唤" tvg-logo="" group-title="央视纪录片",荒野里的呼唤
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/de55f16b130042b19472ef89e184d719/1200.m3u8
-#EXTINF:-1,萌狗诞生记
+#EXTINF:-1 tvg-id="" tvg-name="萌狗诞生记" tvg-logo="" group-title="央视纪录片",萌狗诞生记
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/0f68b16f162c493c8d82a57135f16da0/1200.m3u8
-#EXTINF:-1,虎妈妈爱(上)
+#EXTINF:-1 tvg-id="" tvg-name="虎妈妈爱(上)" tvg-logo="" group-title="央视纪录片",虎妈妈爱(上)
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/6855ee238c9c4e9893ff342b7dbe5a2b/1200.m3u8
-#EXTINF:-1,虎妈妈爱(下)
+#EXTINF:-1 tvg-id="" tvg-name="虎妈妈爱(下)" tvg-logo="" group-title="央视纪录片",虎妈妈爱(下)
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/9b07324b869c457e80531b72e979ee1a/1200.m3u8
-#EXTINF:-1,蛇类大观园
+#EXTINF:-1 tvg-id="" tvg-name="蛇类大观园" tvg-logo="" group-title="央视纪录片",蛇类大观园
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/414f84230ced4696af656a112385b72c/1200.m3u8
-#EXTINF:-1,蜥蜴安身火山岛(上)
+#EXTINF:-1 tvg-id="" tvg-name="蜥蜴安身火山岛(上)" tvg-logo="" group-title="央视纪录片",蜥蜴安身火山岛(上)
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/0c3c388b10ad4cf78f312c6d6620f1e0/1200.m3u8
-#EXTINF:-1,蜥蜴安身火山岛(下)
+#EXTINF:-1 tvg-id="" tvg-name="蜥蜴安身火山岛(下)" tvg-logo="" group-title="央视纪录片",蜥蜴安身火山岛(下)
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/5043f9b708fe443fb9207e26da903218/1200.m3u8
-#EXTINF:-1,螃蟹岛海战(上)
+#EXTINF:-1 tvg-id="" tvg-name="螃蟹岛海战(上)" tvg-logo="" group-title="央视纪录片",螃蟹岛海战(上)
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/d0137f4e9adc44a7856c7288fe8ca3d2/1200.m3u8
-#EXTINF:-1,螃蟹岛海战(下)
+#EXTINF:-1 tvg-id="" tvg-name="螃蟹岛海战(下)" tvg-logo="" group-title="央视纪录片",螃蟹岛海战(下)
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/d784a777f3dd42b3b73be06858b71197/1200.m3u8
-#EXTINF:-1,被母狮拯救的小角马(上)
+#EXTINF:-1 tvg-id="" tvg-name="被母狮拯救的小角马(上)" tvg-logo="" group-title="央视纪录片",被母狮拯救的小角马(上)
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/ba95e1a983584925887c11306f83ccf8/1200.m3u8
-#EXTINF:-1,被母狮拯救的小角马(下)
+#EXTINF:-1 tvg-id="" tvg-name="被母狮拯救的小角马(下)" tvg-logo="" group-title="央视纪录片",被母狮拯救的小角马(下)
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/8e655ba0c751468b9d18f3020133571f/1200.m3u8
-#EXTINF:-1,角马幸运儿(上)
+#EXTINF:-1 tvg-id="" tvg-name="角马幸运儿(上)" tvg-logo="" group-title="央视纪录片",角马幸运儿(上)
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/40c883e3f4c441d08422ce49aec61644/1200.m3u8
-#EXTINF:-1,角马幸运儿(下)
+#EXTINF:-1 tvg-id="" tvg-name="角马幸运儿(下)" tvg-logo="" group-title="央视纪录片",角马幸运儿(下)
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/67b7d65e3b3e4b509e314e65937ef369/1200.m3u8
-#EXTINF:-1,豹妈当家(上)
+#EXTINF:-1 tvg-id="" tvg-name="豹妈当家(上)" tvg-logo="" group-title="央视纪录片",豹妈当家(上)
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/984cda8d35d544658fbd96b417bdea1f/1200.m3u8
-#EXTINF:-1,豹妈当家(下)
+#EXTINF:-1 tvg-id="" tvg-name="豹妈当家(下)" tvg-logo="" group-title="央视纪录片",豹妈当家(下)
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/33343249dabd4dcfaeb64da7ab7fe061/1200.m3u8
-#EXTINF:-1,走出包围圈
+#EXTINF:-1 tvg-id="" tvg-name="走出包围圈" tvg-logo="" group-title="央视纪录片",走出包围圈
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/38fc4f8e379445aeab6098b9ece0aa2a/1200.m3u8
-#EXTINF:-1,走进狗的世界
+#EXTINF:-1 tvg-id="" tvg-name="走进狗的世界" tvg-logo="" group-title="央视纪录片",走进狗的世界
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/25c049869a174f5fa5806e57a2c376bd/1200.m3u8
-#EXTINF:-1,超凡猎手
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/77d5ca903f0948ad8c5ec57e49b3cc95/1200.m3u8
-#EXTINF:-1,超凡猎手
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/8bd3d27314fd431a84d8443c2fdc8b02/1200.m3u8
-#EXTINF:-1,超级狮子家族
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="央视纪录片",超凡猎手
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/77d5ca903f0948ad8c5ec57e49b3cc95/1200.m3u8#https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/8bd3d27314fd431a84d8443c2fdc8b02/1200.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="超级狮子家族" tvg-logo="" group-title="央视纪录片",超级狮子家族
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/f689bc846e93479898d8dcbdffad9744/1200.m3u8
-#EXTINF:-1,超级狮子群的故事(上)
+#EXTINF:-1 tvg-id="" tvg-name="超级狮子群的故事(上)" tvg-logo="" group-title="央视纪录片",超级狮子群的故事(上)
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/1c0a25fcb5564e02a435ec33fbdc4888/1200.m3u8
-#EXTINF:-1,超级狮子群的故事(下)
+#EXTINF:-1 tvg-id="" tvg-name="超级狮子群的故事(下)" tvg-logo="" group-title="央视纪录片",超级狮子群的故事(下)
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/8986640e9a3f43be9ffe66f0feb41f72/1200.m3u8
-#EXTINF:-1,超级猫行动
+#EXTINF:-1 tvg-id="" tvg-name="超级猫行动" tvg-logo="" group-title="央视纪录片",超级猫行动
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/8d952bbdd6cc4e6abf9df153bc18e927/1200.m3u8
-#EXTINF:-1,足球超级猎食者(上)
+#EXTINF:-1 tvg-id="" tvg-name="足球超级猎食者(上)" tvg-logo="" group-title="央视纪录片",足球超级猎食者(上)
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/4d0dc6b22b8e48efa4a984ec990a4faf/1200.m3u8
-#EXTINF:-1,足球超级猎食者(下)
+#EXTINF:-1 tvg-id="" tvg-name="足球超级猎食者(下)" tvg-logo="" group-title="央视纪录片",足球超级猎食者(下)
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/d7aec4db75da469d915a5dd7a0fb3d70/1200.m3u8
-#EXTINF:-1,辣妈带娃记
+#EXTINF:-1 tvg-id="" tvg-name="辣妈带娃记" tvg-logo="" group-title="央视纪录片",辣妈带娃记
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/8fd303fc08454c3497673fa40ced6284/1200.m3u8
-#EXTINF:-1,进化中的北极熊
+#EXTINF:-1 tvg-id="" tvg-name="进化中的北极熊" tvg-logo="" group-title="央视纪录片",进化中的北极熊
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/caf316bd282e4bfdbbd36bac2514c428/1200.m3u8
-#EXTINF:-1,追踪兽王
+#EXTINF:-1 tvg-id="" tvg-name="追踪兽王" tvg-logo="" group-title="央视纪录片",追踪兽王
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/93dfcb01bd634370bc211fc7484854ec/1200.m3u8
-#EXTINF:-1,追逐的游戏
+#EXTINF:-1 tvg-id="" tvg-name="追逐的游戏" tvg-logo="" group-title="央视纪录片",追逐的游戏
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/34459ad5d340461daab2f453d485833d/1200.m3u8
-#EXTINF:-1,速度与生存(五)
+#EXTINF:-1 tvg-id="" tvg-name="速度与生存(五)" tvg-logo="" group-title="央视纪录片",速度与生存(五)
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/9953caf767b04ae782540c8ac53eaaa4/1200.m3u8
-#EXTINF:-1,速度与生存1
+#EXTINF:-1 tvg-id="" tvg-name="速度与生存1" tvg-logo="" group-title="央视纪录片",速度与生存1
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/1cc83ec8b9b44794b63e1a249b9fb2fb/1200.m3u8
-#EXTINF:-1,速度与生存2
+#EXTINF:-1 tvg-id="" tvg-name="速度与生存2" tvg-logo="" group-title="央视纪录片",速度与生存2
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/31abc302978f45df9c4e8aaa3972d599/1200.m3u8
-#EXTINF:-1,速度与生存3
+#EXTINF:-1 tvg-id="" tvg-name="速度与生存3" tvg-logo="" group-title="央视纪录片",速度与生存3
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/570d9ce8d39d4ede9a26ae6de4d28f54/1200.m3u8
-#EXTINF:-1,速度与生存4
+#EXTINF:-1 tvg-id="" tvg-name="速度与生存4" tvg-logo="" group-title="央视纪录片",速度与生存4
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/f37b1966271f4527a581ed9275c34f7c/1200.m3u8
-#EXTINF:-1,速度大比拼(上)
+#EXTINF:-1 tvg-id="" tvg-name="速度大比拼(上)" tvg-logo="" group-title="央视纪录片",速度大比拼(上)
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/2746acf40172425180162fc3a316416b/1200.m3u8
-#EXTINF:-1,速度大比拼(下)
+#EXTINF:-1 tvg-id="" tvg-name="速度大比拼(下)" tvg-logo="" group-title="央视纪录片",速度大比拼(下)
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/d2e5439b8a9c4b53970e5c3b0eee9abd/1200.m3u8
-#EXTINF:-1,遨游海底两万里
+#EXTINF:-1 tvg-id="" tvg-name="遨游海底两万里" tvg-logo="" group-title="央视纪录片",遨游海底两万里
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/31d0363fb3714ce4b916790aa7da22db/1200.m3u8
-#EXTINF:-1,都市里的丛林(上)
+#EXTINF:-1 tvg-id="" tvg-name="都市里的丛林(上)" tvg-logo="" group-title="央视纪录片",都市里的丛林(上)
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/2e2e0e875d624196af0488f6b07bb2e0/1200.m3u8
-#EXTINF:-1,都市里的丛林(下)
+#EXTINF:-1 tvg-id="" tvg-name="都市里的丛林(下)" tvg-logo="" group-title="央视纪录片",都市里的丛林(下)
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/9f79dac568844de8813e682b280efb4f/1200.m3u8
-#EXTINF:-1,都市里的野生家园(上)
+#EXTINF:-1 tvg-id="" tvg-name="都市里的野生家园(上)" tvg-logo="" group-title="央视纪录片",都市里的野生家园(上)
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/03770b0594d44f289ce91022fe37a7bf/1200.m3u8
-#EXTINF:-1,都市里的野生家园(下)
+#EXTINF:-1 tvg-id="" tvg-name="都市里的野生家园(下)" tvg-logo="" group-title="央视纪录片",都市里的野生家园(下)
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/06ca0e5a61624f11987ba99dc9a8ed64/1200.m3u8
-#EXTINF:-1,野性生存秘籍1
+#EXTINF:-1 tvg-id="" tvg-name="野性生存秘籍1" tvg-logo="" group-title="央视纪录片",野性生存秘籍1
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/7c8a682e6c5749b19d375b0c562f4c87/1200.m3u8
-#EXTINF:-1,野性生存秘籍2
+#EXTINF:-1 tvg-id="" tvg-name="野性生存秘籍2" tvg-logo="" group-title="央视纪录片",野性生存秘籍2
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/b95862f403d5404f87114f6a651119e6/1200.m3u8
-#EXTINF:-1,野性的召唤1
+#EXTINF:-1 tvg-id="" tvg-name="野性的召唤1" tvg-logo="" group-title="央视纪录片",野性的召唤1
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/ce41c579b0c84ada982b79073028d116/1200.m3u8
-#EXTINF:-1,野性的召唤2
+#EXTINF:-1 tvg-id="" tvg-name="野性的召唤2" tvg-logo="" group-title="央视纪录片",野性的召唤2
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/24514b1197ea46b9a443121f5e19f535/1200.m3u8
-#EXTINF:-1,野性的召唤3
+#EXTINF:-1 tvg-id="" tvg-name="野性的召唤3" tvg-logo="" group-title="央视纪录片",野性的召唤3
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/9a6b5b4568574867933091059ff57680/1200.m3u8
-#EXTINF:-1,野性的魅力1
+#EXTINF:-1 tvg-id="" tvg-name="野性的魅力1" tvg-logo="" group-title="央视纪录片",野性的魅力1
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/2f83cd6f217c48e8abb8064f430bc93a/1200.m3u8
-#EXTINF:-1,野性的魅力2
+#EXTINF:-1 tvg-id="" tvg-name="野性的魅力2" tvg-logo="" group-title="央视纪录片",野性的魅力2
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/091f7f7dfce34c0d83bcd93c0b58dc07/1200.m3u8
-#EXTINF:-1,野性美洲(五)
+#EXTINF:-1 tvg-id="" tvg-name="野性美洲(五)" tvg-logo="" group-title="央视纪录片",野性美洲(五)
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/58a370a91cbf49858c18e6d72007d12e/1200.m3u8
-#EXTINF:-1,野性美洲1
+#EXTINF:-1 tvg-id="" tvg-name="野性美洲1" tvg-logo="" group-title="央视纪录片",野性美洲1
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/d1a92d87e2c74de7a799141e5e89eb3b/1200.m3u8
-#EXTINF:-1,野性美洲2
+#EXTINF:-1 tvg-id="" tvg-name="野性美洲2" tvg-logo="" group-title="央视纪录片",野性美洲2
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/2e902191f2524bc198a656db71791080/1200.m3u8
-#EXTINF:-1,野性美洲3
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/1156d95bcf554d0e9df1688e8a6fd55d/1200.m3u8
-#EXTINF:-1,野性美洲3
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/4cb2ce54e7e047a99c772d3874f4c916/1200.m3u8
-#EXTINF:-1,野性美洲4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="央视纪录片",野性美洲3
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/1156d95bcf554d0e9df1688e8a6fd55d/1200.m3u8#https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/4cb2ce54e7e047a99c772d3874f4c916/1200.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="野性美洲4" tvg-logo="" group-title="央视纪录片",野性美洲4
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/5dcd2b749aae4e7e973271f124e83fb1/1200.m3u8
-#EXTINF:-1,野狗家族传世之爱
+#EXTINF:-1 tvg-id="" tvg-name="野狗家族传世之爱" tvg-logo="" group-title="央视纪录片",野狗家族传世之爱
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/dc4007615a124e29827b16bec3885db5/1200.m3u8
-#EXTINF:-1,野生世界竞技场(上)
+#EXTINF:-1 tvg-id="" tvg-name="野生世界竞技场(上)" tvg-logo="" group-title="央视纪录片",野生世界竞技场(上)
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/11ac06bbb4f0426fbc4c7b3bfd864b3f/1200.m3u8
-#EXTINF:-1,野生世界竞技场(下)
+#EXTINF:-1 tvg-id="" tvg-name="野生世界竞技场(下)" tvg-logo="" group-title="央视纪录片",野生世界竞技场(下)
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/bf683b66c36343599bcad10516c58274/1200.m3u8
-#EXTINF:-1,野生白狮(上)
+#EXTINF:-1 tvg-id="" tvg-name="野生白狮(上)" tvg-logo="" group-title="央视纪录片",野生白狮(上)
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/a9a5e806d97d41f5827532f1cb3f9afa/1200.m3u8
-#EXTINF:-1,野生白狮(下)
+#EXTINF:-1 tvg-id="" tvg-name="野生白狮(下)" tvg-logo="" group-title="央视纪录片",野生白狮(下)
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/1e405a3890d3497d80df5351ad30f169/1200.m3u8
-#EXTINF:-1,野生白狮(中)
+#EXTINF:-1 tvg-id="" tvg-name="野生白狮(中)" tvg-logo="" group-title="央视纪录片",野生白狮(中)
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/aa5594a7d44b42768d0b4f2fa3e3651d/1200.m3u8
-#EXTINF:-1,金豺夫妇的故事
+#EXTINF:-1 tvg-id="" tvg-name="金豺夫妇的故事" tvg-logo="" group-title="央视纪录片",金豺夫妇的故事
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/5b71afacb8eb442d9d4a5844d3ceca15/1200.m3u8
-#EXTINF:-1,镜头里的真相1
+#EXTINF:-1 tvg-id="" tvg-name="镜头里的真相1" tvg-logo="" group-title="央视纪录片",镜头里的真相1
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/df70034b3a4243bd888d18b8b877787d/1200.m3u8
-#EXTINF:-1,险境求生
+#EXTINF:-1 tvg-id="" tvg-name="险境求生" tvg-logo="" group-title="央视纪录片",险境求生
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/3f41478fa1f24606bc1bad4725df7b59/1200.m3u8
-#EXTINF:-1,险境求生的小河马(上)
+#EXTINF:-1 tvg-id="" tvg-name="险境求生的小河马(上)" tvg-logo="" group-title="央视纪录片",险境求生的小河马(上)
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/4b24374adc24487db8c9d5ac5d037079/1200.m3u8
-#EXTINF:-1,险境求生的小河马(下)
+#EXTINF:-1 tvg-id="" tvg-name="险境求生的小河马(下)" tvg-logo="" group-title="央视纪录片",险境求生的小河马(下)
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/5c22e195021d49b8bc5868147fdc3139/1200.m3u8
-#EXTINF:-1,隐秘王国里的奇迹1
+#EXTINF:-1 tvg-id="" tvg-name="隐秘王国里的奇迹1" tvg-logo="" group-title="央视纪录片",隐秘王国里的奇迹1
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/e2094de08292490db17c29ec299b4bc2/1200.m3u8
-#EXTINF:-1,隐秘王国里的奇迹2
+#EXTINF:-1 tvg-id="" tvg-name="隐秘王国里的奇迹2" tvg-logo="" group-title="央视纪录片",隐秘王国里的奇迹2
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/1cee8d6ac393418e887420a6e1d54b6e/1200.m3u8
-#EXTINF:-1,隐秘王国里的奇迹3
+#EXTINF:-1 tvg-id="" tvg-name="隐秘王国里的奇迹3" tvg-logo="" group-title="央视纪录片",隐秘王国里的奇迹3
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/2fe654a3cadf4838bb34ea18441378e8/1200.m3u8
-#EXTINF:-1,隐秘王国里的奇迹4
+#EXTINF:-1 tvg-id="" tvg-name="隐秘王国里的奇迹4" tvg-logo="" group-title="央视纪录片",隐秘王国里的奇迹4
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/953467196a854ed786f7e3521579f1f6/1200.m3u8
-#EXTINF:-1,隐秘的海鬣蜥王国
+#EXTINF:-1 tvg-id="" tvg-name="隐秘的海鬣蜥王国" tvg-logo="" group-title="央视纪录片",隐秘的海鬣蜥王国
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/b7af80d20f06401989879c44eaf865e8/1200.m3u8
-#EXTINF:-1,雄风再起
+#EXTINF:-1 tvg-id="" tvg-name="雄风再起" tvg-logo="" group-title="央视纪录片",雄风再起
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/b9176a8a35c94c37ade29708eed40190/1200.m3u8
-#EXTINF:-1,雨季狮踪
+#EXTINF:-1 tvg-id="" tvg-name="雨季狮踪" tvg-logo="" group-title="央视纪录片",雨季狮踪
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/c1af227765174580bb3ad5c641f4dfd1/1200.m3u8
-#EXTINF:-1,雨林守护的秘密(上)
+#EXTINF:-1 tvg-id="" tvg-name="雨林守护的秘密(上)" tvg-logo="" group-title="央视纪录片",雨林守护的秘密(上)
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/18aecd7b1b064f3692f80ce6906895d5/1200.m3u8
-#EXTINF:-1,雨林守护的秘密(下)
+#EXTINF:-1 tvg-id="" tvg-name="雨林守护的秘密(下)" tvg-logo="" group-title="央视纪录片",雨林守护的秘密(下)
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/084be96dbd124ac499afc25eb1e4d63d/1200.m3u8
-#EXTINF:-1,雪鸮的生存之舞
+#EXTINF:-1 tvg-id="" tvg-name="雪鸮的生存之舞" tvg-logo="" group-title="央视纪录片",雪鸮的生存之舞
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/722362cb57a74028804e0413141a1866/1200.m3u8
-#EXTINF:-1,雪鸮的风中芭蕾
+#EXTINF:-1 tvg-id="" tvg-name="雪鸮的风中芭蕾" tvg-logo="" group-title="央视纪录片",雪鸮的风中芭蕾
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/4ee145f174a8464fb624c4ae62992b1c/1200.m3u8
-#EXTINF:-1,非凡虎女王(上)
+#EXTINF:-1 tvg-id="" tvg-name="非凡虎女王(上)" tvg-logo="" group-title="央视纪录片",非凡虎女王(上)
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/2e657776c024445b83a0554d71773c0b/1200.m3u8
-#EXTINF:-1,非凡虎女王(下)
+#EXTINF:-1 tvg-id="" tvg-name="非凡虎女王(下)" tvg-logo="" group-title="央视纪录片",非凡虎女王(下)
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/2c7ecbc0033049efa1946472214eeae3/1200.m3u8
-#EXTINF:-1,非同一般的友谊
+#EXTINF:-1 tvg-id="" tvg-name="非同一般的友谊" tvg-logo="" group-title="央视纪录片",非同一般的友谊
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/fc5b68979baa47e6ab90db7e78b43364/1200.m3u8
-#EXTINF:-1,非洲水牛战狮群(上)
+#EXTINF:-1 tvg-id="" tvg-name="非洲水牛战狮群(上)" tvg-logo="" group-title="央视纪录片",非洲水牛战狮群(上)
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/945ab75be37f46c984dade1efb742b00/1200.m3u8
-#EXTINF:-1,非洲水牛战狮群(下)
+#EXTINF:-1 tvg-id="" tvg-name="非洲水牛战狮群(下)" tvg-logo="" group-title="央视纪录片",非洲水牛战狮群(下)
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/76d3b3c55eaf44b198ceb0f456f41416/1200.m3u8
-#EXTINF:-1,非洲野放计划2
+#EXTINF:-1 tvg-id="" tvg-name="非洲野放计划2" tvg-logo="" group-title="央视纪录片",非洲野放计划2
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/21ff76c2151743f983d8f67d3cc7231d/1200.m3u8
-#EXTINF:-1,非洲野放计划3
+#EXTINF:-1 tvg-id="" tvg-name="非洲野放计划3" tvg-logo="" group-title="央视纪录片",非洲野放计划3
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/234631821d1343b086ed272be364d861/1200.m3u8
-#EXTINF:-1,非洲野放计划4
+#EXTINF:-1 tvg-id="" tvg-name="非洲野放计划4" tvg-logo="" group-title="央视纪录片",非洲野放计划4
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/28f6148101924fadb0f1cab6017801fe/1200.m3u8
-#EXTINF:-1,非洲野狗家族
+#EXTINF:-1 tvg-id="" tvg-name="非洲野狗家族" tvg-logo="" group-title="央视纪录片",非洲野狗家族
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/2e64ec647a314b74b27ebc7f6bb985f2/1200.m3u8
-#EXTINF:-1,领养一只宠物狗
+#EXTINF:-1 tvg-id="" tvg-name="领养一只宠物狗" tvg-logo="" group-title="央视纪录片",领养一只宠物狗
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/ec7ccf71d6544387afbfc956f4c29ceb/1200.m3u8
-#EXTINF:-1,高个子幸运儿
+#EXTINF:-1 tvg-id="" tvg-name="高个子幸运儿" tvg-logo="" group-title="央视纪录片",高个子幸运儿
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/0ea3dbe589a34258b6109229223de234/1200.m3u8
-#EXTINF:-1,鬣蜥生存攻略
+#EXTINF:-1 tvg-id="" tvg-name="鬣蜥生存攻略" tvg-logo="" group-title="央视纪录片",鬣蜥生存攻略
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/ae22dffaf28f496584fc581ab72fab9c/1200.m3u8
-#EXTINF:-1,鳄鱼出海
+#EXTINF:-1 tvg-id="" tvg-name="鳄鱼出海" tvg-logo="" group-title="央视纪录片",鳄鱼出海
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/7bdf23a599b44a7c8308684cbb789da0/1200.m3u8
-#EXTINF:-1,鳄鱼王漂流记
+#EXTINF:-1 tvg-id="" tvg-name="鳄鱼王漂流记" tvg-logo="" group-title="央视纪录片",鳄鱼王漂流记
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/8da4a365db75455cb0c15bd7681b57fc/1200.m3u8
-#EXTINF:-1,黑猩猩的丛林法则
+#EXTINF:-1 tvg-id="" tvg-name="黑猩猩的丛林法则" tvg-logo="" group-title="央视纪录片",黑猩猩的丛林法则
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/05ff5278105445e1a9d5651372faf47e/1200.m3u8
-#EXTINF:-1,龙宫里的奇异动物
+#EXTINF:-1 tvg-id="" tvg-name="龙宫里的奇异动物" tvg-logo="" group-title="央视纪录片",龙宫里的奇异动物
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/3528163c6b7d4a48b09b24027351ccf7/1200.m3u8
-#EXTINF:-1,直播中国
+#EXTINF:-1 tvg-id="" tvg-name="直播中国" tvg-logo="" group-title="🇨🇳直播中国",直播中国
 https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1,直播中国精编直播
+#EXTINF:-1 tvg-id="" tvg-name="直播中国精编直播" tvg-logo="" group-title="🇨🇳直播中国",直播中国精编直播
 https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8
-#EXTINF:-1,湖南张家界水绕四门
+#EXTINF:-1 tvg-id="" tvg-name="湖南张家界水绕四门" tvg-logo="" group-title="🇨🇳直播中国",湖南张家界水绕四门
 https://gcalic.v.myalicdn.com/gc/zjjsrsm_1/index.m3u8
-#EXTINF:-1,湖南张家界将军列队
+#EXTINF:-1 tvg-id="" tvg-name="湖南张家界将军列队" tvg-logo="" group-title="🇨🇳直播中国",湖南张家界将军列队
 https://gcalic.v.myalicdn.com/gc/zjjjjdl_1/index.m3u8
-#EXTINF:-1,湖南张家界阿凡达悬浮山
+#EXTINF:-1 tvg-id="" tvg-name="湖南张家界阿凡达悬浮山" tvg-logo="" group-title="🇨🇳直播中国",湖南张家界阿凡达悬浮山
 https://gcalic.v.myalicdn.com/gc/zjjafdxfs_1/index.m3u8
-#EXTINF:-1,湖南张家界迷魂台
+#EXTINF:-1 tvg-id="" tvg-name="湖南张家界迷魂台" tvg-logo="" group-title="🇨🇳直播中国",湖南张家界迷魂台
 https://gcalic.v.myalicdn.com/gc/zjjmht_1/index.m3u8
-#EXTINF:-1,湖南张家界宝峰湖
+#EXTINF:-1 tvg-id="" tvg-name="湖南张家界宝峰湖" tvg-logo="" group-title="🇨🇳直播中国",湖南张家界宝峰湖
 https://gcalic.v.myalicdn.com/gc/zjjbfh_1/index.m3u8
-#EXTINF:-1,湖南张家界御笔峰
+#EXTINF:-1 tvg-id="" tvg-name="湖南张家界御笔峰" tvg-logo="" group-title="🇨🇳直播中国",湖南张家界御笔峰
 https://gcalic.v.myalicdn.com/gc/zjjybf_1/index.m3u8
-#EXTINF:-1,四川峨眉山云海日出
+#EXTINF:-1 tvg-id="" tvg-name="四川峨眉山云海日出" tvg-logo="" group-title="🇨🇳直播中国",四川峨眉山云海日出
 https://gcalic.v.myalicdn.com/gc/emsarm_1/index.m3u8
-#EXTINF:-1,四川峨眉山远眺贡嘎雪山
+#EXTINF:-1 tvg-id="" tvg-name="四川峨眉山远眺贡嘎雪山" tvg-logo="" group-title="🇨🇳直播中国",四川峨眉山远眺贡嘎雪山
 https://gcalic.v.myalicdn.com/gc/emsyh_1/index.m3u8
-#EXTINF:-1,四川峨眉山普贤菩萨铜像
+#EXTINF:-1 tvg-id="" tvg-name="四川峨眉山普贤菩萨铜像" tvg-logo="" group-title="🇨🇳直播中国",四川峨眉山普贤菩萨铜像
 https://gcalic.v.myalicdn.com/gc/emspxps_1/index.m3u8
-#EXTINF:-1,四川峨眉山远眺万佛顶
+#EXTINF:-1 tvg-id="" tvg-name="四川峨眉山远眺万佛顶" tvg-logo="" group-title="🇨🇳直播中国",四川峨眉山远眺万佛顶
 https://gcalic.v.myalicdn.com/gc/emswfs_1/index.m3u8
-#EXTINF:-1,浙江杭州云栖小镇
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🇨🇳直播中国",浙江杭州云栖小镇
 https://gcalic.v.myalicdn.com/gc/wygjt2_1/index.m3u8
-#EXTINF:-1,浙江杭州云栖小镇
-https://gcalic.v.myalicdn.com/gc/wygjt2_1/index.m3u8
-#EXTINF:-1,重庆石柱华溪村
+#EXTINF:-1 tvg-id="" tvg-name="重庆石柱华溪村" tvg-logo="" group-title="🇨🇳直播中国",重庆石柱华溪村
 https://gcalic.v.myalicdn.com/gc/jsh02_1/index.m3u8
-#EXTINF:-1,安徽金寨大湾村
+#EXTINF:-1 tvg-id="" tvg-name="安徽金寨大湾村" tvg-logo="" group-title="🇨🇳直播中国",安徽金寨大湾村
 https://gcalic.v.myalicdn.com/gc/szgk01_1/index.m3u8
-#EXTINF:-1,山西苛岚宋家沟新村
+#EXTINF:-1 tvg-id="" tvg-name="山西苛岚宋家沟新村" tvg-logo="" group-title="🇨🇳直播中国",山西苛岚宋家沟新村
 https://gcalic.v.myalicdn.com/gc/wysdhpcy_1/index.m3u8
-#EXTINF:-1,河北张北德胜村
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🇨🇳直播中国",河北张北德胜村
 https://gcalic.v.myalicdn.com/gc/pygc01_1/index.m3u8
-#EXTINF:-1,河北张北德胜村
-https://gcalic.v.myalicdn.com/gc/pygc01_1/index.m3u8
-#EXTINF:-1,新疆天山(海西平台)
+#EXTINF:-1 tvg-id="" tvg-name="新疆天山(海西平台)" tvg-logo="" group-title="🇨🇳直播中国",新疆天山(海西平台)
 https://gcalic.v.myalicdn.com/gc/xjtchxpt_1/index.m3u8
-#EXTINF:-1,新疆天山(定海神针)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🇨🇳直播中国",新疆天山(定海神针)
 https://gcalic.v.myalicdn.com/gc/xjtcdhsz_1/index.m3u8
-#EXTINF:-1,新疆天山(定海神针)
-https://gcalic.v.myalicdn.com/gc/xjtcdhsz_1/index.m3u8
-#EXTINF:-1,新疆天山(马牙山)
+#EXTINF:-1 tvg-id="" tvg-name="新疆天山(马牙山)" tvg-logo="" group-title="🇨🇳直播中国",新疆天山(马牙山)
 https://gcalic.v.myalicdn.com/gc/xjtcmys_1/index.m3u8
-#EXTINF:-1,新疆天山(灯杆山)
+#EXTINF:-1 tvg-id="" tvg-name="新疆天山(灯杆山)" tvg-logo="" group-title="🇨🇳直播中国",新疆天山(灯杆山)
 https://gcalic.v.myalicdn.com/gc/xjtcdgs_1/index.m3u8
-#EXTINF:-1,湖南张家界天门山西线玻璃栈道
+#EXTINF:-1 tvg-id="" tvg-name="湖南张家界天门山西线玻璃栈道" tvg-logo="" group-title="🇨🇳直播中国",湖南张家界天门山西线玻璃栈道
 https://gcalic.v.myalicdn.com/gc/tms05_1/index.m3u8
-#EXTINF:-1,湖南张家界天门山天门洞
+#EXTINF:-1 tvg-id="" tvg-name="湖南张家界天门山天门洞" tvg-logo="" group-title="🇨🇳直播中国",湖南张家界天门山天门洞
 https://gcalic.v.myalicdn.com/gc/tmstmd01_1/index.m3u8
-#EXTINF:-1,湖南张家界天门山天空步道
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🇨🇳直播中国",湖南张家界天门山天空步道
 https://gcalic.v.myalicdn.com/gc/tms02_1/index.m3u8
-#EXTINF:-1,湖南张家界天门山天空步道
-https://gcalic.v.myalicdn.com/gc/tms02_1/index.m3u8
-#EXTINF:-1,湖南张家界天门山云梦仙顶
+#EXTINF:-1 tvg-id="" tvg-name="湖南张家界天门山云梦仙顶" tvg-logo="" group-title="🇨🇳直播中国",湖南张家界天门山云梦仙顶
 https://gcalic.v.myalicdn.com/gc/tms04_1/index.m3u8
-#EXTINF:-1,厦门鼓浪屿
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🇨🇳直播中国",厦门鼓浪屿
 https://gcalic.v.myalicdn.com/gc/gly01_1/index.m3u8
-#EXTINF:-1,厦门鼓浪屿
-https://gcalic.v.myalicdn.com/gc/gly01_1/index.m3u8
-#EXTINF:-1,广西玉林大容山莲花山顶
+#EXTINF:-1 tvg-id="" tvg-name="广西玉林大容山莲花山顶" tvg-logo="" group-title="🇨🇳直播中国",广西玉林大容山莲花山顶
 https://gcalic.v.myalicdn.com/gc/drs01_1/index.m3u8
-#EXTINF:-1,八里沟风景区桃花湾瀑布
+#EXTINF:-1 tvg-id="" tvg-name="八里沟风景区桃花湾瀑布" tvg-logo="" group-title="🇨🇳直播中国",八里沟风景区桃花湾瀑布
 https://gcalic.v.myalicdn.com/gc/blg05_1/index.m3u8
-#EXTINF:-1,八里沟风景区天界山玻璃栈道
+#EXTINF:-1 tvg-id="" tvg-name="八里沟风景区天界山玻璃栈道" tvg-logo="" group-title="🇨🇳直播中国",八里沟风景区天界山玻璃栈道
 https://gcalic.v.myalicdn.com/gc/blg03_1/index.m3u8
-#EXTINF:-1,汶川映秀新城
+#EXTINF:-1 tvg-id="" tvg-name="汶川映秀新城" tvg-logo="" group-title="🇨🇳直播中国",汶川映秀新城
 https://gcalic.v.myalicdn.com/gc/wcyxxc01_1/index.m3u8
-#EXTINF:-1,十八洞村
+#EXTINF:-1 tvg-id="" tvg-name="十八洞村" tvg-logo="" group-title="🇨🇳直播中国",十八洞村
 https://gcalic.v.myalicdn.com/gc/sbd01_1/index.m3u8
-#EXTINF:-1,趵突泉
+#EXTINF:-1 tvg-id="" tvg-name="趵突泉" tvg-logo="" group-title="🇨🇳直播中国",趵突泉
 https://gcalic.v.myalicdn.com/gc/btq01_1/index.m3u8
-#EXTINF:-1,安徽池州九华山风景区拜经台
+#EXTINF:-1 tvg-id="" tvg-name="安徽池州九华山风景区拜经台" tvg-logo="" group-title="🇨🇳直播中国",安徽池州九华山风景区拜经台
 https://gcalic.v.myalicdn.com/gc/jhs02_1/index.m3u8
-#EXTINF:-1,安徽池州九华山风景区九华山
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🇨🇳直播中国",安徽池州九华山风景区九华山
 https://gcalic.v.myalicdn.com/gc/jhs05_1/index.m3u8
-#EXTINF:-1,安徽池州九华山风景区九华山
-https://gcalic.v.myalicdn.com/gc/jhs05_1/index.m3u8
-#EXTINF:-1,安徽池州九华山风景区花台
+#EXTINF:-1 tvg-id="" tvg-name="安徽池州九华山风景区花台" tvg-logo="" group-title="🇨🇳直播中国",安徽池州九华山风景区花台
 https://gcalic.v.myalicdn.com/gc/jhs01_1/index.m3u8
-#EXTINF:-1,江苏徐州云龙湖风景区云龙山观景台西
+#EXTINF:-1 tvg-id="" tvg-name="江苏徐州云龙湖风景区云龙山观景台西" tvg-logo="" group-title="🇨🇳直播中国",江苏徐州云龙湖风景区云龙山观景台西
 https://gcalic.v.myalicdn.com/gc/ylh04_1/index.m3u8
-#EXTINF:-1,江苏徐州云龙湖风景区云龙山观景台南
+#EXTINF:-1 tvg-id="" tvg-name="江苏徐州云龙湖风景区云龙山观景台南" tvg-logo="" group-title="🇨🇳直播中国",江苏徐州云龙湖风景区云龙山观景台南
 https://gcalic.v.myalicdn.com/gc/ylh03_1/index.m3u8
-#EXTINF:-1,浙江杭州千岛湖
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🇨🇳直播中国",浙江杭州千岛湖
 https://gcalic.v.myalicdn.com/gc/caqdh_1/index.m3u8
-#EXTINF:-1,浙江杭州千岛湖
-https://gcalic.v.myalicdn.com/gc/caqdh_1/index.m3u8
-#EXTINF:-1,南京玄武湖公园
+#EXTINF:-1 tvg-id="" tvg-name="南京玄武湖公园" tvg-logo="" group-title="🇨🇳直播中国",南京玄武湖公园
 https://gcalic.v.myalicdn.com/gc/xwh01_1/index.m3u8
-#EXTINF:-1,云南丽江玉龙雪山
+#EXTINF:-1 tvg-id="" tvg-name="云南丽江玉龙雪山" tvg-logo="" group-title="🇨🇳直播中国",云南丽江玉龙雪山
 https://gcalic.v.myalicdn.com/gc/ylxs11_1/index.m3u8
-#EXTINF:-1,云南丽江玉液湖
+#EXTINF:-1 tvg-id="" tvg-name="云南丽江玉液湖" tvg-logo="" group-title="🇨🇳直播中国",云南丽江玉液湖
 https://gcalic.v.myalicdn.com/gc/hkylxs02_1/index.m3u8
-#EXTINF:-1,云南丽江蓝月谷
+#EXTINF:-1 tvg-id="" tvg-name="云南丽江蓝月谷" tvg-logo="" group-title="🇨🇳直播中国",云南丽江蓝月谷
 https://gcalic.v.myalicdn.com/gc/ylxs12_1/index.m3u8
-#EXTINF:-1,云南白沙远眺玉龙雪山
+#EXTINF:-1 tvg-id="" tvg-name="云南白沙远眺玉龙雪山" tvg-logo="" group-title="🇨🇳直播中国",云南白沙远眺玉龙雪山
 https://gcalic.v.myalicdn.com/gc/hkylxs03_1/index.m3u8
-#EXTINF:-1,云南丽江一滴水过丽江
+#EXTINF:-1 tvg-id="" tvg-name="云南丽江一滴水过丽江" tvg-logo="" group-title="🇨🇳直播中国",云南丽江一滴水过丽江
 https://gcalic.v.myalicdn.com/gc/hkylxs04_1/index.m3u8
-#EXTINF:-1,云南丽江玉龙雪山草甸
+#EXTINF:-1 tvg-id="" tvg-name="云南丽江玉龙雪山草甸" tvg-logo="" group-title="🇨🇳直播中国",云南丽江玉龙雪山草甸
 https://gcalic.v.myalicdn.com/gc/hkylxs06_1/index.m3u8
-#EXTINF:-1,云南丽江白水台
+#EXTINF:-1 tvg-id="" tvg-name="云南丽江白水台" tvg-logo="" group-title="🇨🇳直播中国",云南丽江白水台
 https://gcalic.v.myalicdn.com/gc/hkylxs07_1/index.m3u8
-#EXTINF:-1,云南丽江蓝月谷中游湖面
+#EXTINF:-1 tvg-id="" tvg-name="云南丽江蓝月谷中游湖面" tvg-logo="" group-title="🇨🇳直播中国",云南丽江蓝月谷中游湖面
 https://gcalic.v.myalicdn.com/gc/hkylxs08_1/index.m3u8
-#EXTINF:-1,云南丽江高尔夫
+#EXTINF:-1 tvg-id="" tvg-name="云南丽江高尔夫" tvg-logo="" group-title="🇨🇳直播中国",云南丽江高尔夫
 https://gcalic.v.myalicdn.com/gc/hkylxs09_1/index.m3u8
-#EXTINF:-1,云南丽江冰川
+#EXTINF:-1 tvg-id="" tvg-name="云南丽江冰川" tvg-logo="" group-title="🇨🇳直播中国",云南丽江冰川
 https://gcalic.v.myalicdn.com/gc/hkylxs05_1/index.m3u8
-#EXTINF:-1,云南丽江印象实景
+#EXTINF:-1 tvg-id="" tvg-name="云南丽江印象实景" tvg-logo="" group-title="🇨🇳直播中国",云南丽江印象实景
 https://gcalic.v.myalicdn.com/gc/hkylxs01_1/index.m3u8
-#EXTINF:-1,江苏南京牛首山
+#EXTINF:-1 tvg-id="" tvg-name="江苏南京牛首山" tvg-logo="" group-title="🇨🇳直播中国",江苏南京牛首山
 https://gcalic.v.myalicdn.com/gc/nss01_1/index.m3u8
-#EXTINF:-1,福建漳州六鳌翡翠湾
+#EXTINF:-1 tvg-id="" tvg-name="福建漳州六鳌翡翠湾" tvg-logo="" group-title="🇨🇳直播中国",福建漳州六鳌翡翠湾
 https://gcalic.v.myalicdn.com/gc/fcw01_1/index.m3u8
-#EXTINF:-1,福建漳州醉美沙滩翡翠湾
+#EXTINF:-1 tvg-id="" tvg-name="福建漳州醉美沙滩翡翠湾" tvg-logo="" group-title="🇨🇳直播中国",福建漳州醉美沙滩翡翠湾
 https://gcalic.v.myalicdn.com/gc/fcw03_1/index.m3u8
-#EXTINF:-1,天津之眼
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🇨🇳直播中国",天津之眼
 https://gcalic.v.myalicdn.com/gc/tjhh01_1/index.m3u8
-#EXTINF:-1,天津之眼
-https://gcalic.v.myalicdn.com/gc/tjhh01_1/index.m3u8
-#EXTINF:-1,四川西昌邛海景区
+#EXTINF:-1 tvg-id="" tvg-name="四川西昌邛海景区" tvg-logo="" group-title="🇨🇳直播中国",四川西昌邛海景区
 https://gcalic.v.myalicdn.com/gc/xcqh01_1/index.m3u8
-#EXTINF:-1,普陀山
+#EXTINF:-1 tvg-id="" tvg-name="普陀山" tvg-logo="" group-title="🇨🇳直播中国",普陀山
 https://gcalic.v.myalicdn.com/gc/pts01_1/index.m3u8
-#EXTINF:-1,浙江舟山东极岛
+#EXTINF:-1 tvg-id="" tvg-name="浙江舟山东极岛" tvg-logo="" group-title="🇨🇳直播中国",浙江舟山东极岛
 https://gcalic.v.myalicdn.com/gc/djd01_1/index.m3u8
-#EXTINF:-1,河南郑东新区千玺广场
+#EXTINF:-1 tvg-id="" tvg-name="河南郑东新区千玺广场" tvg-logo="" group-title="🇨🇳直播中国",河南郑东新区千玺广场
 https://gcalic.v.myalicdn.com/gc/zdxq01_1/index.m3u8
-#EXTINF:-1,四川四姑娘山幺妹峰
+#EXTINF:-1 tvg-id="" tvg-name="四川四姑娘山幺妹峰" tvg-logo="" group-title="🇨🇳直播中国",四川四姑娘山幺妹峰
 https://gcalic.v.myalicdn.com/gc/sgns01_1/index.m3u8
-#EXTINF:-1,四川四姑娘山隆珠措
+#EXTINF:-1 tvg-id="" tvg-name="四川四姑娘山隆珠措" tvg-logo="" group-title="🇨🇳直播中国",四川四姑娘山隆珠措
 https://gcalic.v.myalicdn.com/gc/sgns02_1/index.m3u8
-#EXTINF:-1,宁夏沙坡头长河落日
+#EXTINF:-1 tvg-id="" tvg-name="宁夏沙坡头长河落日" tvg-logo="" group-title="🇨🇳直播中国",宁夏沙坡头长河落日
 https://gcalic.v.myalicdn.com/gc/nxsptdmgychlr_1/index.m3u8
-#EXTINF:-1,宁夏沙坡头大漠孤烟
+#EXTINF:-1 tvg-id="" tvg-name="宁夏沙坡头大漠孤烟" tvg-logo="" group-title="🇨🇳直播中国",宁夏沙坡头大漠孤烟
 https://gcalic.v.myalicdn.com/gc/nxsptdmgy_1/index.m3u8
-#EXTINF:-1,丽江古城大研花巷观景
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🇨🇳直播中国",丽江古城大研花巷观景
 https://gcalic.v.myalicdn.com/gc/ljgcdyhxgjt_1/index.m3u8
-#EXTINF:-1,丽江古城大研花巷观景
-https://gcalic.v.myalicdn.com/gc/ljgcdyhxgjt_1/index.m3u8
-#EXTINF:-1,丽江古城大水车
+#EXTINF:-1 tvg-id="" tvg-name="丽江古城大水车" tvg-logo="" group-title="🇨🇳直播中国",丽江古城大水车
 https://gcalic.v.myalicdn.com/gc/ljgcdsc_1/index.m3u8
-#EXTINF:-1,丽江古城万古楼遥望玉龙雪山
+#EXTINF:-1 tvg-id="" tvg-name="丽江古城万古楼遥望玉龙雪山" tvg-logo="" group-title="🇨🇳直播中国",丽江古城万古楼遥望玉龙雪山
 https://gcalic.v.myalicdn.com/gc/ljgcwglytylxs_1/index.m3u8
-#EXTINF:-1,狮子山鸟瞰丽江古城
+#EXTINF:-1 tvg-id="" tvg-name="狮子山鸟瞰丽江古城" tvg-logo="" group-title="🇨🇳直播中国",狮子山鸟瞰丽江古城
 https://gcalic.v.myalicdn.com/gc/ljgcszsnkgc_1/index.m3u8
-#EXTINF:-1,云台山小寨沟
+#EXTINF:-1 tvg-id="" tvg-name="云台山小寨沟" tvg-logo="" group-title="🇨🇳直播中国",云台山小寨沟
 https://gcalic.v.myalicdn.com/gc/ytsxzg_1/index.m3u8
-#EXTINF:-1,云台山百家岩
+#EXTINF:-1 tvg-id="" tvg-name="云台山百家岩" tvg-logo="" group-title="🇨🇳直播中国",云台山百家岩
 https://gcalic.v.myalicdn.com/gc/ytsbjy_1/index.m3u8
-#EXTINF:-1,云台山红石峡
+#EXTINF:-1 tvg-id="" tvg-name="云台山红石峡" tvg-logo="" group-title="🇨🇳直播中国",云台山红石峡
 https://gcalic.v.myalicdn.com/gc/ytshsx_1/index.m3u8
-#EXTINF:-1,云台山茱萸峰
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🇨🇳直播中国",云台山茱萸峰
 https://gcalic.v.myalicdn.com/gc/ytszyf_1/index.m3u8
-#EXTINF:-1,云台山茱萸峰
-https://gcalic.v.myalicdn.com/gc/ytszyf_1/index.m3u8
-#EXTINF:-1,雪乡梦幻家园
+#EXTINF:-1 tvg-id="" tvg-name="雪乡梦幻家园" tvg-logo="" group-title="🇨🇳直播中国",雪乡梦幻家园
 https://gcalic.v.myalicdn.com/gc/mdjxxmhjyxj_1/index.m3u8
-#EXTINF:-1,雪乡梦幻家园观景台
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🇨🇳直播中国",雪乡梦幻家园观景台
 https://gcalic.v.myalicdn.com/gc/mdjxxmhjygjt_1/index.m3u8
-#EXTINF:-1,雪乡梦幻家园观景台
-https://gcalic.v.myalicdn.com/gc/mdjxxmhjygjt_1/index.m3u8
-#EXTINF:-1,雪乡大石碑
+#EXTINF:-1 tvg-id="" tvg-name="雪乡大石碑" tvg-logo="" group-title="🇨🇳直播中国",雪乡大石碑
 https://gcalic.v.myalicdn.com/gc/mdjxxdsb_1/index.m3u8
-#EXTINF:-1,乌镇蓝印花布
+#EXTINF:-1 tvg-id="" tvg-name="乌镇蓝印花布" tvg-logo="" group-title="🇨🇳直播中国",乌镇蓝印花布
 https://gcalic.v.myalicdn.com/gc/zjwzlyhb_1/index.m3u8
-#EXTINF:-1,乌镇西市河
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🇨🇳直播中国",乌镇西市河
 https://gcalic.v.myalicdn.com/gc/zjwzbblh_1/index.m3u8
-#EXTINF:-1,乌镇西市河
-https://gcalic.v.myalicdn.com/gc/zjwzbblh_1/index.m3u8
-#EXTINF:-1,乌镇龙形田
+#EXTINF:-1 tvg-id="" tvg-name="乌镇龙形田" tvg-logo="" group-title="🇨🇳直播中国",乌镇龙形田
 https://gcalic.v.myalicdn.com/gc/zjwzlxt_1/index.m3u8
-#EXTINF:-1,乌镇全景
+#EXTINF:-1 tvg-id="" tvg-name="乌镇全景" tvg-logo="" group-title="🇨🇳直播中国",乌镇全景
 https://gcalic.v.myalicdn.com/gc/zjwzblt_1/index.m3u8
-#EXTINF:-1,凤凰古城南华山
+#EXTINF:-1 tvg-id="" tvg-name="凤凰古城南华山" tvg-logo="" group-title="🇨🇳直播中国",凤凰古城南华山
 https://gcalic.v.myalicdn.com/gc/fhgcdnhs_1/index.m3u8
-#EXTINF:-1,凤凰古城东关门
+#EXTINF:-1 tvg-id="" tvg-name="凤凰古城东关门" tvg-logo="" group-title="🇨🇳直播中国",凤凰古城东关门
 https://gcalic.v.myalicdn.com/gc/fhgcdgm_1/index.m3u8
-#EXTINF:-1,黄花城水长城01
+#EXTINF:-1 tvg-id="" tvg-name="黄花城水长城01" tvg-logo="" group-title="🇨🇳直播中国",黄花城水长城01
 https://gcalic.v.myalicdn.com/gc/wgw01_1/index.m3u8
-#EXTINF:-1,黄花城水长城02
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🇨🇳直播中国",黄花城水长城02
 https://gcalic.v.myalicdn.com/gc/wgw02_1/index.m3u8
-#EXTINF:-1,黄花城水长城02
-https://gcalic.v.myalicdn.com/gc/wgw02_1/index.m3u8
-#EXTINF:-1,黄花城水长城03
+#EXTINF:-1 tvg-id="" tvg-name="黄花城水长城03" tvg-logo="" group-title="🇨🇳直播中国",黄花城水长城03
 https://gcalic.v.myalicdn.com/gc/wgw03_1/index.m3u8
-#EXTINF:-1,黄花城水长城04
+#EXTINF:-1 tvg-id="" tvg-name="黄花城水长城04" tvg-logo="" group-title="🇨🇳直播中国",黄花城水长城04
 https://gcalic.v.myalicdn.com/gc/wgw04_1/index.m3u8
-#EXTINF:-1,鸣沙山
+#EXTINF:-1 tvg-id="" tvg-name="鸣沙山" tvg-logo="" group-title="🇨🇳直播中国",鸣沙山
 https://gcalic.v.myalicdn.com/gc/dhyyqst_1/index.m3u8
-#EXTINF:-1,鸣沙山山门
+#EXTINF:-1 tvg-id="" tvg-name="鸣沙山山门" tvg-logo="" group-title="🇨🇳直播中国",鸣沙山山门
 https://gcalic.v.myalicdn.com/gc/dhyyqyyq_1/index.m3u8
-#EXTINF:-1,月牙泉
+#EXTINF:-1 tvg-id="" tvg-name="月牙泉" tvg-logo="" group-title="🇨🇳直播中国",月牙泉
 https://gcalic.v.myalicdn.com/gc/dhyyqsm_1/index.m3u8
-#EXTINF:-1,五彩池
+#EXTINF:-1 tvg-id="" tvg-name="五彩池" tvg-logo="" group-title="🇨🇳直播中国",五彩池
 https://gcalic.v.myalicdn.com/gc/hlwcc_1/index.m3u8
-#EXTINF:-1,黄龙
+#EXTINF:-1 tvg-id="" tvg-name="黄龙" tvg-logo="" group-title="🇨🇳直播中国",黄龙
 https://gcalic.v.myalicdn.com/gc/hlzycc_1/index.m3u8
-#EXTINF:-1,望乡台
+#EXTINF:-1 tvg-id="" tvg-name="望乡台" tvg-logo="" group-title="🇨🇳直播中国",望乡台
 https://gcalic.v.myalicdn.com/gc/hlwxt_1/index.m3u8
-#EXTINF:-1,洗身洞
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🇨🇳直播中国",洗身洞
 https://gcalic.v.myalicdn.com/gc/hlxsd_1/index.m3u8
-#EXTINF:-1,洗身洞
-https://gcalic.v.myalicdn.com/gc/hlxsd_1/index.m3u8
-#EXTINF:-1,泰山主峰
+#EXTINF:-1 tvg-id="" tvg-name="泰山主峰" tvg-logo="" group-title="🇨🇳直播中国",泰山主峰
 https://gcalic.v.myalicdn.com/gc/taishan01_1/index.m3u8
-#EXTINF:-1,泰山大观峰
+#EXTINF:-1 tvg-id="" tvg-name="泰山大观峰" tvg-logo="" group-title="🇨🇳直播中国",泰山大观峰
 https://gcalic.v.myalicdn.com/gc/taishan03_1/index.m3u8
-#EXTINF:-1,泰山拱北石
+#EXTINF:-1 tvg-id="" tvg-name="泰山拱北石" tvg-logo="" group-title="🇨🇳直播中国",泰山拱北石
 https://gcalic.v.myalicdn.com/gc/taishan04_1/index.m3u8
-#EXTINF:-1,泰山玉皇顶
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🇨🇳直播中国",泰山玉皇顶
 https://gcalic.v.myalicdn.com/gc/taishan06_1/index.m3u8
-#EXTINF:-1,泰山玉皇顶
-https://gcalic.v.myalicdn.com/gc/taishan06_1/index.m3u8
-#EXTINF:-1,泰山十八盘
+#EXTINF:-1 tvg-id="" tvg-name="泰山十八盘" tvg-logo="" group-title="🇨🇳直播中国",泰山十八盘
 https://gcalic.v.myalicdn.com/gc/taishan05_1/index.m3u8
-#EXTINF:-1,泰山天街
+#EXTINF:-1 tvg-id="" tvg-name="泰山天街" tvg-logo="" group-title="🇨🇳直播中国",泰山天街
 https://gcalic.v.myalicdn.com/gc/taishan07_1/index.m3u8
-#EXTINF:-1,泰山经石峪
+#EXTINF:-1 tvg-id="" tvg-name="泰山经石峪" tvg-logo="" group-title="🇨🇳直播中国",泰山经石峪
 https://gcalic.v.myalicdn.com/gc/hkts04_1/index.m3u8
-#EXTINF:-1,泰山望人松
+#EXTINF:-1 tvg-id="" tvg-name="泰山望人松" tvg-logo="" group-title="🇨🇳直播中国",泰山望人松
 https://gcalic.v.myalicdn.com/gc/taishan02_1/index.m3u8
-#EXTINF:-1,泰山龙潭水库
+#EXTINF:-1 tvg-id="" tvg-name="泰山龙潭水库" tvg-logo="" group-title="🇨🇳直播中国",泰山龙潭水库
 https://gcalic.v.myalicdn.com/gc/hkts06_1/index.m3u8
-#EXTINF:-1,泰山南天门
+#EXTINF:-1 tvg-id="" tvg-name="泰山南天门" tvg-logo="" group-title="🇨🇳直播中国",泰山南天门
 https://gcalic.v.myalicdn.com/gc/hkts07_1/index.m3u8
-#EXTINF:-1,泰山白云亭悬崖
+#EXTINF:-1 tvg-id="" tvg-name="泰山白云亭悬崖" tvg-logo="" group-title="🇨🇳直播中国",泰山白云亭悬崖
 https://gcalic.v.myalicdn.com/gc/hkts02_1/index.m3u8
-#EXTINF:-1,泰山扇子崖
+#EXTINF:-1 tvg-id="" tvg-name="泰山扇子崖" tvg-logo="" group-title="🇨🇳直播中国",泰山扇子崖
 https://gcalic.v.myalicdn.com/gc/hkts08_1/index.m3u8
-#EXTINF:-1,泰山太平岭
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🇨🇳直播中国",泰山太平岭
 https://gcalic.v.myalicdn.com/gc/hkts09_1/index.m3u8
-#EXTINF:-1,泰山太平岭
-https://gcalic.v.myalicdn.com/gc/hkts09_1/index.m3u8
-#EXTINF:-1,泰山碧霞祠
+#EXTINF:-1 tvg-id="" tvg-name="泰山碧霞祠" tvg-logo="" group-title="🇨🇳直播中国",泰山碧霞祠
 https://gcalic.v.myalicdn.com/gc/hkts03_1/index.m3u8
-#EXTINF:-1,泰山玉皇顶东
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🇨🇳直播中国",泰山玉皇顶东
 https://gcalic.v.myalicdn.com/gc/hkts10_1/index.m3u8
-#EXTINF:-1,泰山玉皇顶东
-https://gcalic.v.myalicdn.com/gc/hkts10_1/index.m3u8
-#EXTINF:-1,泰山玉皇顶西
+#EXTINF:-1 tvg-id="" tvg-name="泰山玉皇顶西" tvg-logo="" group-title="🇨🇳直播中国",泰山玉皇顶西
 https://gcalic.v.myalicdn.com/gc/hkts11_1/index.m3u8
-#EXTINF:-1,黄山卧云峰
+#EXTINF:-1 tvg-id="" tvg-name="黄山卧云峰" tvg-logo="" group-title="🇨🇳直播中国",黄山卧云峰
 https://gcalic.v.myalicdn.com/gc/hswlf_1/index.m3u8
-#EXTINF:-1,黄山始信新道
+#EXTINF:-1 tvg-id="" tvg-name="黄山始信新道" tvg-logo="" group-title="🇨🇳直播中国",黄山始信新道
 https://gcalic.v.myalicdn.com/gc/hsyg_1/index.m3u8
-#EXTINF:-1,黄山梦笔生花
+#EXTINF:-1 tvg-id="" tvg-name="黄山梦笔生花" tvg-logo="" group-title="🇨🇳直播中国",黄山梦笔生花
 https://gcalic.v.myalicdn.com/gc/hsmbsh_1/index.m3u8
-#EXTINF:-1,黄山排云亭
+#EXTINF:-1 tvg-id="" tvg-name="黄山排云亭" tvg-logo="" group-title="🇨🇳直播中国",黄山排云亭
 https://gcalic.v.myalicdn.com/gc/hspyt_1/index.m3u8
-#EXTINF:-1,黄山平天矼
+#EXTINF:-1 tvg-id="" tvg-name="黄山平天矼" tvg-logo="" group-title="🇨🇳直播中国",黄山平天矼
 https://gcalic.v.myalicdn.com/gc/hsptgz_1/index.m3u8
-#EXTINF:-1,黄山飞来石
+#EXTINF:-1 tvg-id="" tvg-name="黄山飞来石" tvg-logo="" group-title="🇨🇳直播中国",黄山飞来石
 https://gcalic.v.myalicdn.com/gc/hsptgy_1/index.m3u8
-#EXTINF:-1,黄山光明顶
+#EXTINF:-1 tvg-id="" tvg-name="黄山光明顶" tvg-logo="" group-title="🇨🇳直播中国",黄山光明顶
 https://gcalic.v.myalicdn.com/gc/hsgmd_1/index.m3u8
-#EXTINF:-1,黄山
+#EXTINF:-1 tvg-id="" tvg-name="黄山" tvg-logo="" group-title="🇨🇳直播中国",黄山
 https://gcalic.v.myalicdn.com/gc/ahhs01_1/index.m3u8
-#EXTINF:-1,福建宁德太姥山景区
+#EXTINF:-1 tvg-id="" tvg-name="福建宁德太姥山景区" tvg-logo="" group-title="🇨🇳直播中国",福建宁德太姥山景区
 https://gcalic.v.myalicdn.com/gc/tms01_1/index.m3u8
-#EXTINF:-1,陕西洋县国宝朱鹮01
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🇨🇳直播中国",陕西洋县国宝朱鹮01
 https://gcalic.v.myalicdn.com/gc/zhhd01_1/index.m3u8
-#EXTINF:-1,陕西洋县国宝朱鹮01
-https://gcalic.v.myalicdn.com/gc/zhhd01_1/index.m3u8
-#EXTINF:-1,陕西洋县国宝朱鹮02
+#EXTINF:-1 tvg-id="" tvg-name="陕西洋县国宝朱鹮02" tvg-logo="" group-title="🇨🇳直播中国",陕西洋县国宝朱鹮02
 https://gcalic.v.myalicdn.com/gc/zh02_1/index.m3u8
-#EXTINF:-1,陕西洋县国宝朱鹮03
+#EXTINF:-1 tvg-id="" tvg-name="陕西洋县国宝朱鹮03" tvg-logo="" group-title="🇨🇳直播中国",陕西洋县国宝朱鹮03
 https://gcalic.v.myalicdn.com/gc/zh03_1/index.m3u8
-#EXTINF:-1,陕西洋县国宝朱鹮04
+#EXTINF:-1 tvg-id="" tvg-name="陕西洋县国宝朱鹮04" tvg-logo="" group-title="🇨🇳直播中国",陕西洋县国宝朱鹮04
 https://gcalic.v.myalicdn.com/gc/zh04_1/index.m3u8
-#EXTINF:-1,安徽黟县西递半山亭
+#EXTINF:-1 tvg-id="" tvg-name="安徽黟县西递半山亭" tvg-logo="" group-title="🇨🇳直播中国",安徽黟县西递半山亭
 https://gcalic.v.myalicdn.com/gc/yxxdbst_1/index.m3u8
-#EXTINF:-1,安徽黟县西递牌坊
+#EXTINF:-1 tvg-id="" tvg-name="安徽黟县西递牌坊" tvg-logo="" group-title="🇨🇳直播中国",安徽黟县西递牌坊
 https://gcalic.v.myalicdn.com/gc/yxxdpf_1/index.m3u8
-#EXTINF:-1,安徽黟县宏村月沼
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🇨🇳直播中国",安徽黟县宏村月沼
 https://gcalic.v.myalicdn.com/gc/yxhcyz_1/index.m3u8
-#EXTINF:-1,安徽黟县宏村月沼
-https://gcalic.v.myalicdn.com/gc/yxhcyz_1/index.m3u8
-#EXTINF:-1,安徽黟县芦村远眺
+#EXTINF:-1 tvg-id="" tvg-name="安徽黟县芦村远眺" tvg-logo="" group-title="🇨🇳直播中国",安徽黟县芦村远眺
 https://gcalic.v.myalicdn.com/gc/yxlcyt_1/index.m3u8
-#EXTINF:-1,深圳世界之窗文化主题公园
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🇨🇳直播中国",深圳世界之窗文化主题公园
 https://gcalic.v.myalicdn.com/gc/sjzc01_1/index.m3u8
-#EXTINF:-1,深圳世界之窗文化主题公园
-https://gcalic.v.myalicdn.com/gc/sjzc01_1/index.m3u8
-#EXTINF:-1,八达岭长城南七楼
+#EXTINF:-1 tvg-id="" tvg-name="八达岭长城南七楼" tvg-logo="" group-title="🇨🇳直播中国",八达岭长城南七楼
 https://gcalic.v.myalicdn.com/gc/bgws7_1/index.m3u8
-#EXTINF:-1,八达岭长城北十楼
+#EXTINF:-1 tvg-id="" tvg-name="八达岭长城北十楼" tvg-logo="" group-title="🇨🇳直播中国",八达岭长城北十楼
 https://gcalic.v.myalicdn.com/gc/bgwn10_1/index.m3u8
-#EXTINF:-1,中央电视塔东
+#EXTINF:-1 tvg-id="" tvg-name="中央电视塔东" tvg-logo="" group-title="🇨🇳直播中国",中央电视塔东
 https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
-#EXTINF:-1,中央电视塔南
+#EXTINF:-1 tvg-id="" tvg-name="中央电视塔南" tvg-logo="" group-title="🇨🇳直播中国",中央电视塔南
 https://gcalic.v.myalicdn.com/gc/ztn_1/index.m3u8
-#EXTINF:-1,中央电视塔北
+#EXTINF:-1 tvg-id="" tvg-name="中央电视塔北" tvg-logo="" group-title="🇨🇳直播中国",中央电视塔北
 https://gcalic.v.myalicdn.com/gc/ztb_1/index.m3u8
-#EXTINF:-1,恒山悬空寺全景
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🇨🇳直播中国",恒山悬空寺全景
 https://gcalic.v.myalicdn.com/gc/hsxksqj_1/index.m3u8
-#EXTINF:-1,恒山悬空寺全景
-https://gcalic.v.myalicdn.com/gc/hsxksqj_1/index.m3u8
-#EXTINF:-1,恒宗
+#EXTINF:-1 tvg-id="" tvg-name="恒宗" tvg-logo="" group-title="🇨🇳直播中国",恒宗
 https://gcalic.v.myalicdn.com/gc/hsxkssqdzrqj_1/index.m3u8
-#EXTINF:-1,黄果树银链坠潭瀑布
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🇨🇳直播中国",黄果树银链坠潭瀑布
 https://gcalic.v.myalicdn.com/gc/hgsylztpb_1/index.m3u8
-#EXTINF:-1,黄果树银链坠潭瀑布
-https://gcalic.v.myalicdn.com/gc/hgsylztpb_1/index.m3u8
-#EXTINF:-1,黄果树六角亭瀑布
+#EXTINF:-1 tvg-id="" tvg-name="黄果树六角亭瀑布" tvg-logo="" group-title="🇨🇳直播中国",黄果树六角亭瀑布
 https://gcalic.v.myalicdn.com/gc/hgsspzxdpb_1/index.m3u8
-#EXTINF:-1,天涯鸟瞰
+#EXTINF:-1 tvg-id="" tvg-name="天涯鸟瞰" tvg-logo="" group-title="🇨🇳直播中国",天涯鸟瞰
 https://gcalic.v.myalicdn.com/gc/tyhjtynl_1/index.m3u8
-#EXTINF:-1,天涯石
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🇨🇳直播中国",天涯石
 https://gcalic.v.myalicdn.com/gc/tyhjtys_1/index.m3u8
-#EXTINF:-1,天涯石
-https://gcalic.v.myalicdn.com/gc/tyhjtys_1/index.m3u8
-#EXTINF:-1,南天一柱
+#EXTINF:-1 tvg-id="" tvg-name="南天一柱" tvg-logo="" group-title="🇨🇳直播中国",南天一柱
 https://gcalic.v.myalicdn.com/gc/tyhjntyz_1/index.m3u8
-#EXTINF:-1,日月石
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🇨🇳直播中国",日月石
 https://gcalic.v.myalicdn.com/gc/tyhjrys_1/index.m3u8
-#EXTINF:-1,日月石
-https://gcalic.v.myalicdn.com/gc/tyhjrys_1/index.m3u8
-#EXTINF:-1,桂林象山公园
+#EXTINF:-1 tvg-id="" tvg-name="桂林象山公园" tvg-logo="" group-title="🇨🇳直播中国",桂林象山公园
 https://gcalic.v.myalicdn.com/gc/glxs01_1/index.m3u8
-#EXTINF:-1,六盘山红军长征景区
+#EXTINF:-1 tvg-id="" tvg-name="六盘山红军长征景区" tvg-logo="" group-title="🇨🇳直播中国",六盘山红军长征景区
 https://gcalic.v.myalicdn.com/gc/lpsgmjng01_1/index.m3u8
-#EXTINF:-1,华山
+#EXTINF:-1 tvg-id="" tvg-name="华山" tvg-logo="" group-title="🇨🇳直播中国",华山
 https://gcalic.v.myalicdn.com/gc/hkhs01_1/index.m3u8
-#EXTINF:-1,贵州省兴义市万峰林
+#EXTINF:-1 tvg-id="" tvg-name="贵州省兴义市万峰林" tvg-logo="" group-title="🇨🇳直播中国",贵州省兴义市万峰林
 https://gcalic.v.myalicdn.com/gc/xywfl_1/index.m3u8
-#EXTINF:-1,贵州省兴义市马岭河峡谷
+#EXTINF:-1 tvg-id="" tvg-name="贵州省兴义市马岭河峡谷" tvg-logo="" group-title="🇨🇳直播中国",贵州省兴义市马岭河峡谷
 https://gcalic.v.myalicdn.com/gc/xymlh_1/index.m3u8
-#EXTINF:-1,贵州省贞丰市双乳峰景区
+#EXTINF:-1 tvg-id="" tvg-name="贵州省贞丰市双乳峰景区" tvg-logo="" group-title="🇨🇳直播中国",贵州省贞丰市双乳峰景区
 https://gcalic.v.myalicdn.com/gc/xysrf_1/index.m3u8
-#EXTINF:-1,云南大理崇圣寺三塔中景
+#EXTINF:-1 tvg-id="" tvg-name="云南大理崇圣寺三塔中景" tvg-logo="" group-title="🇨🇳直播中国",云南大理崇圣寺三塔中景
 https://gcalic.v.myalicdn.com/gc/dlst03_1/index.m3u8
-#EXTINF:-1,云南大理崇圣寺三塔湖面
+#EXTINF:-1 tvg-id="" tvg-name="云南大理崇圣寺三塔湖面" tvg-logo="" group-title="🇨🇳直播中国",云南大理崇圣寺三塔湖面
 https://gcalic.v.myalicdn.com/gc/dlst02_1/index.m3u8
-#EXTINF:-1,云南大理崇圣寺三塔远景
+#EXTINF:-1 tvg-id="" tvg-name="云南大理崇圣寺三塔远景" tvg-logo="" group-title="🇨🇳直播中国",云南大理崇圣寺三塔远景
 https://gcalic.v.myalicdn.com/gc/dlst01_1/index.m3u8
-#EXTINF:-1,广西桂林漓江景区
+#EXTINF:-1 tvg-id="" tvg-name="广西桂林漓江景区" tvg-logo="" group-title="🇨🇳直播中国",广西桂林漓江景区
 https://gcalic.v.myalicdn.com/gc/gllj01_1/index.m3u8
-#EXTINF:-1,青岛崂山双福
+#EXTINF:-1 tvg-id="" tvg-name="青岛崂山双福" tvg-logo="" group-title="🇨🇳直播中国",青岛崂山双福
 https://gcalic.v.myalicdn.com/gc/qdls03_1/index.m3u8
-#EXTINF:-1,青岛崂山太清
+#EXTINF:-1 tvg-id="" tvg-name="青岛崂山太清" tvg-logo="" group-title="🇨🇳直播中国",青岛崂山太清
 https://gcalic.v.myalicdn.com/gc/qdls04_1/index.m3u8
-#EXTINF:-1,青岛崂山灵旗峰
+#EXTINF:-1 tvg-id="" tvg-name="青岛崂山灵旗峰" tvg-logo="" group-title="🇨🇳直播中国",青岛崂山灵旗峰
 https://gcalic.v.myalicdn.com/gc/qdls01_1/index.m3u8
-#EXTINF:-1,青岛崂山八水河
+#EXTINF:-1 tvg-id="" tvg-name="青岛崂山八水河" tvg-logo="" group-title="🇨🇳直播中国",青岛崂山八水河
 https://gcalic.v.myalicdn.com/gc/qdls02_1/index.m3u8
-#EXTINF:-1,三亚南山文化旅游区海上观音
+#EXTINF:-1 tvg-id="" tvg-name="三亚南山文化旅游区海上观音" tvg-logo="" group-title="🇨🇳直播中国",三亚南山文化旅游区海上观音
 https://gcalic.v.myalicdn.com/gc/syns01_1/index.m3u8
-#EXTINF:-1,仙都风景区
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🇨🇳直播中国",仙都风景区
 https://gcalic.v.myalicdn.com/gc/xdfjq01_1/index.m3u8
-#EXTINF:-1,仙都风景区
-https://gcalic.v.myalicdn.com/gc/xdfjq01_1/index.m3u8
-#EXTINF:-1,宁夏黄河大峡谷
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🇨🇳直播中国",宁夏黄河大峡谷
 https://gcalic.v.myalicdn.com/gc/hhdxg01_1/index.m3u8
-#EXTINF:-1,宁夏黄河大峡谷
-https://gcalic.v.myalicdn.com/gc/hhdxg01_1/index.m3u8
-#EXTINF:-1,张掖七彩丹霞
+#EXTINF:-1 tvg-id="" tvg-name="张掖七彩丹霞" tvg-logo="" group-title="🇨🇳直播中国",张掖七彩丹霞
 https://gcalic.v.myalicdn.com/gc/zyqcdx01_1/index.m3u8
-#EXTINF:-1,嵩山少林寺广场
+#EXTINF:-1 tvg-id="" tvg-name="嵩山少林寺广场" tvg-logo="" group-title="🇨🇳直播中国",嵩山少林寺广场
 https://gcalic.v.myalicdn.com/gc/zsslsgc_1/index.m3u8
-#EXTINF:-1,婺源01
+#EXTINF:-1 tvg-id="" tvg-name="婺源01" tvg-logo="" group-title="🇨🇳直播中国",婺源01
 https://gcalic.v.myalicdn.com/gc/wygjt1_1/index.m3u8
-#EXTINF:-1,神农架金丝猴01
+#EXTINF:-1 tvg-id="" tvg-name="神农架金丝猴01" tvg-logo="" group-title="🇨🇳直播中国",神农架金丝猴01
 https://gcalic.v.myalicdn.com/gc/jshhd01_1/index.m3u8
-#EXTINF:-1,都江堰鱼嘴
+#EXTINF:-1 tvg-id="" tvg-name="都江堰鱼嘴" tvg-logo="" group-title="🇨🇳直播中国",都江堰鱼嘴
 https://gcalic.v.myalicdn.com/gc/djyqyl1_1/index.m3u8
-#EXTINF:-1,丹霞山丹梯铁锁
+#EXTINF:-1 tvg-id="" tvg-name="丹霞山丹梯铁锁" tvg-logo="" group-title="🇨🇳直播中国",丹霞山丹梯铁锁
 https://gcalic.v.myalicdn.com/gc/dxsdtts_1/index.m3u8
-#EXTINF:-1,丹霞山韶音亭
+#EXTINF:-1 tvg-id="" tvg-name="丹霞山韶音亭" tvg-logo="" group-title="🇨🇳直播中国",丹霞山韶音亭
 https://gcalic.v.myalicdn.com/gc/dxssyt_1/index.m3u8
-#EXTINF:-1,云南红河哈尼梯田多依树景点
+#EXTINF:-1 tvg-id="" tvg-name="云南红河哈尼梯田多依树景点" tvg-logo="" group-title="🇨🇳直播中国",云南红河哈尼梯田多依树景点
 https://gcalic.v.myalicdn.com/gc/hnttdysjd_1/index.m3u8
-#EXTINF:-1,云南红河哈尼梯田普高老寨
+#EXTINF:-1 tvg-id="" tvg-name="云南红河哈尼梯田普高老寨" tvg-logo="" group-title="🇨🇳直播中国",云南红河哈尼梯田普高老寨
 https://gcalic.v.myalicdn.com/gc/hnttpgsz_1/index.m3u8
-#EXTINF:-1,云南红河哈尼梯田老虎嘴
+#EXTINF:-1 tvg-id="" tvg-name="云南红河哈尼梯田老虎嘴" tvg-logo="" group-title="🇨🇳直播中国",云南红河哈尼梯田老虎嘴
 https://gcalic.v.myalicdn.com/gc/hnttlhzjd_1/index.m3u8
-#EXTINF:-1,江西龙虎山中间水泡
+#EXTINF:-1 tvg-id="" tvg-name="江西龙虎山中间水泡" tvg-logo="" group-title="🇨🇳直播中国",江西龙虎山中间水泡
 https://gcalic.v.myalicdn.com/gc/lhszjsp_1/index.m3u8
-#EXTINF:-1,江西龙虎山山涧栈道
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🇨🇳直播中国",江西龙虎山山涧栈道
 https://gcalic.v.myalicdn.com/gc/lhssjzd_1/index.m3u8
-#EXTINF:-1,江西龙虎山山涧栈道
-https://gcalic.v.myalicdn.com/gc/lhssjzd_1/index.m3u8
-#EXTINF:-1,乐山大佛全景
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🇨🇳直播中国",乐山大佛全景
 https://gcalic.v.myalicdn.com/gc/lsdfgfl_1/index.m3u8
-#EXTINF:-1,乐山大佛全景
-https://gcalic.v.myalicdn.com/gc/lsdfgfl_1/index.m3u8
-#EXTINF:-1,福建武夷山玉女峰
+#EXTINF:-1 tvg-id="" tvg-name="福建武夷山玉女峰" tvg-logo="" group-title="🇨🇳直播中国",福建武夷山玉女峰
 https://gcalic.v.myalicdn.com/gc/wysynf_1/index.m3u8
