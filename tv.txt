@@ -790,6 +790,8 @@ CHANNELV,http://182.138.120.5:8888/udp/239.93.1.7:2194
 龙宫里的奇异动物,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/3528163c6b7d4a48b09b24027351ccf7/1200.m3u8
 
 🇨🇳直播中国,#genre#
+承德避暑山庄,https://gcalic.v.myalicdn.com/gc/lpsgmjng01_1/index.m3u8
+塞罕坝北漫甸二道沟,https://gcalic.v.myalicdn.com/gc/bgwn10_1/index.m3u8
 直播中国,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 直播中国精编直播,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8
 湖南张家界水绕四门,https://gcalic.v.myalicdn.com/gc/zjjsrsm_1/index.m3u8
@@ -935,7 +937,6 @@ CHANNELV,http://182.138.120.5:8888/udp/239.93.1.7:2194
 深圳世界之窗文化主题公园,https://gcalic.v.myalicdn.com/gc/sjzc01_1/index.m3u8
 深圳世界之窗文化主题公园,https://gcalic.v.myalicdn.com/gc/sjzc01_1/index.m3u8
 八达岭长城南七楼,https://gcalic.v.myalicdn.com/gc/bgws7_1/index.m3u8
-塞罕坝北漫甸二道沟,https://gcalic.v.myalicdn.com/gc/bgwn10_1/index.m3u8
 中央电视塔东,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
 中央电视塔南,https://gcalic.v.myalicdn.com/gc/ztn_1/index.m3u8
 中央电视塔北,https://gcalic.v.myalicdn.com/gc/ztb_1/index.m3u8
@@ -952,7 +953,6 @@ CHANNELV,http://182.138.120.5:8888/udp/239.93.1.7:2194
 日月石,https://gcalic.v.myalicdn.com/gc/tyhjrys_1/index.m3u8
 日月石,https://gcalic.v.myalicdn.com/gc/tyhjrys_1/index.m3u8
 桂林象山公园,https://gcalic.v.myalicdn.com/gc/glxs01_1/index.m3u8
-承德避暑山庄,https://gcalic.v.myalicdn.com/gc/lpsgmjng01_1/index.m3u8
 华山,https://gcalic.v.myalicdn.com/gc/hkhs01_1/index.m3u8
 贵州省兴义市万峰林,https://gcalic.v.myalicdn.com/gc/xywfl_1/index.m3u8
 贵州省兴义市马岭河峡谷,https://gcalic.v.myalicdn.com/gc/xymlh_1/index.m3u8
