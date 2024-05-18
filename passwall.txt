@@ -1,4 +1,6 @@
 hy2://0.123456@amd2.720208.xyz:443?sni=amd2.720208.xyz#amd2-hy2
+vless://3fdf9d48-578a-42dc-9fdd-0dfcefa3d0c5@43.156.97.73:20872?security=tls&sni=443.720208.xyz&allowInsecure=1&fp=random&type=ws&path=/&host=443.720208.xyz&encryption=none#%F0%9F%87%B8%F0%9F%87%AC%20Singapore-SIN-AS132203-Tencent%20cloud%20computing
+vless://3fdf9d48-578a-42dc-9fdd-0dfcefa3d0c5@141.147.186.227:443?security=tls&sni=443.720208.xyz&allowInsecure=1&fp=random&type=ws&path=/&host=443.720208.xyz&encryption=none#%F0%9F%87%AF%F0%9F%87%B5%20JP-Tokyo-NRT%2011
 trojan://BF434MGTN9@arm2g.720208.xyz:23650?security=&type=ws&path=/?ed%3D2048#arm2g-trojan
 vmess://eyJhZGQiOiJhcm0yZy43MjAyMDgueHl6IiwiYWlkIjoiMCIsImhvc3QiOiIiLCJpZCI6IjNmZGY5ZDQ4LTU3OGEtNDJkYy05ZmRkLTBkZmNlZmEzZDBjNSIsIm5ldCI6IndzIiwicGF0aCI6Ii8/ZWQ9MjA0OCIsInBvcnQiOiI1ODE4NiIsInBzIjoiYXJtMmctdm1lc3MiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 vmess://eyJhZGQiOiJhbWQxLjcyMDIwOC54eXoiLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiM2ZkZjlkNDgtNTc4YS00MmRjLTlmZGQtMGRmY2VmYTNkMGM1IiwibmV0Ijoid3MiLCJwYXRoIjoiLz9lZD0yMDQ4IiwicG9ydCI6IjgwODAiLCJwcyI6ImFtZDEtdm1lc3MiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
