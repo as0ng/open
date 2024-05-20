@@ -8,3 +8,4 @@ vless://3fdf9d48-578a-42dc-9fdd-0dfcefa3d0c5@8.217.90.154:443?security=tls&sni=4
 vless://3fdf9d48-578a-42dc-9fdd-0dfcefa3d0c5@130.162.140.215:443?security=tls&sni=443.720208.xyz&allowInsecure=1&fp=random&type=ws&path=/&host=443.720208.xyz&encryption=none#%F0%9F%87%AF%F0%9F%87%B5%20KR-Tokyo-NRT%209
 vless://3fdf9d48-578a-42dc-9fdd-0dfcefa3d0c5@64.110.88.46:443?security=tls&sni=443.720208.xyz&allowInsecure=1&fp=random&type=ws&path=/&host=443.720208.xyz&encryption=none#%F0%9F%87%B0%F0%9F%87%B7%20KR-Seoul-ICN%205
 vless://3fdf9d48-578a-42dc-9fdd-0dfcefa3d0c5@168.138.215.251:443?security=tls&sni=443.720208.xyz&allowInsecure=1&fp=random&type=ws&path=/&host=443.720208.xyz&encryption=none#%F0%9F%87%AF%F0%9F%87%B5%20JP-Tokyo-NRT%2014
+vless://3fdf9d48-578a-42dc-9fdd-0dfcefa3d0c5@cfip.xxxxxxxx.tk:443?security=tls&sni=8880.720208.xyz&fp=randomized&type=ws&path=/?ed%3D2048&host=8880.720208.xyz&encryption=none#8880.720208.xyz
