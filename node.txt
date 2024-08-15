@@ -3,6 +3,8 @@ vless://3fdf9d48-578a-42dc-9fdd-0dfcefa3d0c5@146.56.46.84:443?security=tls&sni=4
 vless://3fdf9d48-578a-42dc-9fdd-0dfcefa3d0c5@8.210.92.27:443?security=tls&sni=443.720208.xyz&fp=random&type=ws&path=/&host=443.720208.xyz&encryption=none#%F0%9F%87%AD%F0%9F%87%B0%20HK-Hong%20Kong-HKG%207
 vless://3fdf9d48-578a-42dc-9fdd-0dfcefa3d0c5@183.178.22.246:36669?security=tls&sni=443.720208.xyz&fp=random&type=ws&path=/&host=443.720208.xyz&encryption=none#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong-HKG-AS9269-Hong%20Kong%20Broadband%20Network
 vless://3fdf9d48-578a-42dc-9fdd-0dfcefa3d0c5@193.122.101.195:443?security=tls&sni=443.720208.xyz&fp=random&type=ws&path=/&host=443.720208.xyz&encryption=none#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong-HKG-AS31898-Oracle%20Cloud
+vless://3fdf9d48-578a-42dc-9fdd-0dfcefa3d0c5@russia.com:443?security=tls&sni=443.720208.xyz&fp=randomized&type=ws&path=/?ed%3D2048&host=443.720208.xyz&encryption=none#443.720208.xyz
+vless://3fdf9d48-578a-42dc-9fdd-0dfcefa3d0c5@singapore.com:443?security=tls&sni=443.720208.xyz&fp=randomized&type=ws&path=/?ed%3D2048&host=443.720208.xyz&encryption=none#443.720208.xyz
 
 vmess://eyJhZGQiOiJydXNzaWEuY29tIiwiYWlkIjoiMCIsImhvc3QiOiJyYWNrbmVyZC43MjAyMDgueHl6IiwiaWQiOiIzZmRmOWQ0OC01NzhhLTQyZGMtOWZkZC0wZGZjZWZhM2QwYzUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvP2VkPTIwNDgiLCJwb3J0IjoiODA4MCIsInBzIjoicmFjay12bWVzcy1ydXNzaWEiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 vmess://eyJhZGQiOiJhY2pwLmNsb3VkZmxhcmVzdC5saW5rIiwiYWlkIjoiMCIsImhvc3QiOiJyYWNrbmVyZC43MjAyMDgueHl6IiwiaWQiOiIzZmRmOWQ0OC01NzhhLTQyZGMtOWZkZC0wZGZjZWZhM2QwYzUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvP2VkPTIwNDgiLCJwb3J0IjoiODA4MCIsInBzIjoicmFjay12bWVzcy1hY2pwIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
