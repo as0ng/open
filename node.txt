@@ -1,17 +1,6 @@
-vless://3fdf9d48-578a-42dc-9fdd-0dfcefa3d0c5@152.70.235.207:443?security=tls&sni=443.720208.xyz&fp=random&type=ws&path=/&host=443.720208.xyz&encryption=none#%F0%9F%87%B0%F0%9F%87%B7%20KR-Seoul-ICN%201
-vless://3fdf9d48-578a-42dc-9fdd-0dfcefa3d0c5@140.238.158.238:443?security=tls&sni=443.720208.xyz&fp=random&type=ws&path=/&host=443.720208.xyz&encryption=none#%F0%9F%87%A8%F0%9F%87%A6%20CA-Toronto-YYZ%205
-vless://3fdf9d48-578a-42dc-9fdd-0dfcefa3d0c5@207.127.94.174:443?security=tls&sni=443.720208.xyz&fp=random&type=ws&path=/&host=443.720208.xyz&encryption=none#SE-Oslo-OSL%2013
-vless://3fdf9d48-578a-42dc-9fdd-0dfcefa3d0c5@141.148.227.19:443?security=tls&sni=443.720208.xyz&fp=random&type=ws&path=/&host=443.720208.xyz&encryption=none#%F0%9F%87%B3%F0%9F%87%B1%20NL-Amsterdam-AMS%208
-vless://3fdf9d48-578a-42dc-9fdd-0dfcefa3d0c5@129.153.126.67:443?security=tls&sni=443.720208.xyz&fp=random&type=ws&path=/&host=443.720208.xyz&encryption=none#%F0%9F%87%BA%F0%9F%87%B8%20US-Los%20Angeles-LAX%204
-vless://3fdf9d48-578a-42dc-9fdd-0dfcefa3d0c5@152.70.61.239:443?security=tls&sni=443.720208.xyz&fp=random&type=ws&path=/&host=443.720208.xyz&encryption=none#%F0%9F%87%AB%F0%9F%87%B7%20NL-Frankfurt-FRA%2014
-vless://3fdf9d48-578a-42dc-9fdd-0dfcefa3d0c5@132.226.134.127:443?security=tls&sni=443.720208.xyz&fp=random&type=ws&path=/&host=443.720208.xyz&encryption=none#%F0%9F%87%AB%F0%9F%87%B7%20GB-Frankfurt-FRA%209
-vless://3fdf9d48-578a-42dc-9fdd-0dfcefa3d0c5@43.153.80.208:443?security=tls&sni=443.720208.xyz&fp=random&type=ws&path=/&host=443.720208.xyz&encryption=none#%F0%9F%87%BA%F0%9F%87%B8%20US-San%20Jose-SJC%202
-vless://3fdf9d48-578a-42dc-9fdd-0dfcefa3d0c5@141.147.97.218:443?security=tls&sni=443.720208.xyz&fp=random&type=ws&path=/&host=443.720208.xyz&encryption=none#%F0%9F%87%AB%F0%9F%87%B7%20GB-Frankfurt-FRA%203
-vless://3fdf9d48-578a-42dc-9fdd-0dfcefa3d0c5@150.230.146.34:443?security=tls&sni=443.720208.xyz&fp=random&type=ws&path=/&host=443.720208.xyz&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20DE-Frankfurt-FRA%206
-vless://3fdf9d48-578a-42dc-9fdd-0dfcefa3d0c5@130.61.68.90:443?security=tls&sni=443.720208.xyz&fp=random&type=ws&path=/&host=443.720208.xyz&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20DE-Frankfurt-FRA%207
-vless://3fdf9d48-578a-42dc-9fdd-0dfcefa3d0c5@141.147.111.14:443?security=tls&sni=443.720208.xyz&fp=random&type=ws&path=/&host=443.720208.xyz&encryption=none#%F0%9F%87%AB%F0%9F%87%B7%20GB-Frankfurt-FRA%2010
-vless://3fdf9d48-578a-42dc-9fdd-0dfcefa3d0c5@132.145.233.66:443?security=tls&sni=443.720208.xyz&fp=random&type=ws&path=/&host=443.720208.xyz&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20DE-Frankfurt-FRA%2011
-vless://3fdf9d48-578a-42dc-9fdd-0dfcefa3d0c5@152.70.183.177:443?security=tls&sni=443.720208.xyz&fp=random&type=ws&path=/&host=443.720208.xyz&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20DE-Frankfurt-FRA%2012
+vless://3fdf9d48-578a-42dc-9fdd-0dfcefa3d0c5@time.is:443?security=tls&sni=cf.asong.eu.org&allowInsecure=1&fp=random&type=ws&path=/?ed%3D2560&host=cf.asong.eu.org&encryption=none#%F0%9F%87%AE%F0%9F%87%B8%20time.is
+vless://3fdf9d48-578a-42dc-9fdd-0dfcefa3d0c5@malaysia.com:443?security=tls&sni=cf.asong.eu.org&allowInsecure=1&fp=random&type=ws&path=/?ed%3D2560&host=cf.asong.eu.org&encryption=none#malaysia.com
+vless://3fdf9d48-578a-42dc-9fdd-0dfcefa3d0c5@singapore.com:443?security=tls&sni=cf.asong.eu.org&allowInsecure=1&fp=random&type=ws&path=/?ed%3D2560&host=cf.asong.eu.org&encryption=none#%F0%9F%87%B8%F0%9F%87%AC%20singapore.com
 
 vmess://eyJhZGQiOiJydXNzaWEuY29tIiwiYWlkIjoiMCIsImhvc3QiOiJyYWNrbmVyZC43MjAyMDgueHl6IiwiaWQiOiIzZmRmOWQ0OC01NzhhLTQyZGMtOWZkZC0wZGZjZWZhM2QwYzUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvP2VkPTIwNDgiLCJwb3J0IjoiODA4MCIsInBzIjoicmFjay12bWVzcy1ydXNzaWEiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 vmess://eyJhZGQiOiJhY2pwLmNsb3VkZmxhcmVzdC5saW5rIiwiYWlkIjoiMCIsImhvc3QiOiJyYWNrbmVyZC43MjAyMDgueHl6IiwiaWQiOiIzZmRmOWQ0OC01NzhhLTQyZGMtOWZkZC0wZGZjZWZhM2QwYzUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvP2VkPTIwNDgiLCJwb3J0IjoiODA4MCIsInBzIjoicmFjay12bWVzcy1hY2pwIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
