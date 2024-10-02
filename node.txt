@@ -1,6 +1,12 @@
 vless://3fdf9d48-578a-42dc-9fdd-0dfcefa3d0c5@time.is:443?security=tls&sni=cf.asong.eu.org&allowInsecure=1&fp=random&type=ws&path=/?ed%3D2560&host=cf.asong.eu.org&encryption=none#%F0%9F%87%AE%F0%9F%87%B8%20time.is
 vless://3fdf9d48-578a-42dc-9fdd-0dfcefa3d0c5@malaysia.com:443?security=tls&sni=cf.asong.eu.org&allowInsecure=1&fp=random&type=ws&path=/?ed%3D2560&host=cf.asong.eu.org&encryption=none#malaysia.com
 vless://3fdf9d48-578a-42dc-9fdd-0dfcefa3d0c5@singapore.com:443?security=tls&sni=cf.asong.eu.org&allowInsecure=1&fp=random&type=ws&path=/?ed%3D2560&host=cf.asong.eu.org&encryption=none#%F0%9F%87%B8%F0%9F%87%AC%20singapore.com
+vless://3fdf9d48-578a-42dc-9fdd-0dfcefa3d0c5@www.gov.se:443?security=tls&sni=cf.asong.eu.org&allowInsecure=1&fp=random&type=ws&path=/?ed%3D2560&host=cf.asong.eu.org&encryption=none#www.gov.se
+vless://3fdf9d48-578a-42dc-9fdd-0dfcefa3d0c5@www.shopify.com:443?security=tls&sni=cf.asong.eu.org&allowInsecure=1&fp=random&type=ws&path=/?ed%3D2560&host=cf.asong.eu.org&encryption=none#www.shopify.com
+vless://3fdf9d48-578a-42dc-9fdd-0dfcefa3d0c5@www.visa.com:443?security=tls&sni=cf.asong.eu.org&allowInsecure=1&fp=random&type=ws&path=/?ed%3D2560&host=cf.asong.eu.org&encryption=none#www.visa.com
+vless://3fdf9d48-578a-42dc-9fdd-0dfcefa3d0c5@shopify.com:443?security=tls&sni=cf.asong.eu.org&allowInsecure=1&fp=random&type=ws&path=/?ed%3D2560&host=cf.asong.eu.org&encryption=none#shopify.com
+vless://3fdf9d48-578a-42dc-9fdd-0dfcefa3d0c5@www.gov.ua:443?security=tls&sni=cf.asong.eu.org&allowInsecure=1&fp=random&type=ws&path=/?ed%3D2560&host=cf.asong.eu.org&encryption=none#www.gov.ua
+vless://3fdf9d48-578a-42dc-9fdd-0dfcefa3d0c5@www.visa.com.tw:443?security=tls&sni=cf.asong.eu.org&allowInsecure=1&fp=random&type=ws&path=/?ed%3D2560&host=cf.asong.eu.org&encryption=none#%F0%9F%87%A8%F0%9F%87%B3%20www.visa.com.tw
 
 vmess://eyJhZGQiOiJydXNzaWEuY29tIiwiYWlkIjoiMCIsImhvc3QiOiJyYWNrbmVyZC43MjAyMDgueHl6IiwiaWQiOiIzZmRmOWQ0OC01NzhhLTQyZGMtOWZkZC0wZGZjZWZhM2QwYzUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvP2VkPTIwNDgiLCJwb3J0IjoiODA4MCIsInBzIjoicmFjay12bWVzcy1ydXNzaWEiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 vmess://eyJhZGQiOiJhY2pwLmNsb3VkZmxhcmVzdC5saW5rIiwiYWlkIjoiMCIsImhvc3QiOiJyYWNrbmVyZC43MjAyMDgueHl6IiwiaWQiOiIzZmRmOWQ0OC01NzhhLTQyZGMtOWZkZC0wZGZjZWZhM2QwYzUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvP2VkPTIwNDgiLCJwb3J0IjoiODA4MCIsInBzIjoicmFjay12bWVzcy1hY2pwIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
