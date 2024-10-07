@@ -1,3 +1,5 @@
+https://cf.asong.eu.org/3fdf9d48-578a-42dc-9fdd-0dfcefa3d0c5
+vless://3fdf9d48-578a-42dc-9fdd-0dfcefa3d0c5@amd2.720208.xyz:59167?type=tcp&security=reality&flow=&sni=www.sega.com&pbk=d9cGLVBrDFS02L2OvkqyqwFZ1Ux3AHs28ehl4Rwiyl0&sid=adef9bdb&fp=chrome#amd2-vless
 vless://3fdf9d48-578a-42dc-9fdd-0dfcefa3d0c5@time.is:443?security=tls&sni=cf.asong.eu.org&allowInsecure=1&fp=random&type=ws&path=/?ed%3D2560&host=cf.asong.eu.org&encryption=none#%F0%9F%87%AE%F0%9F%87%B8%20time.is
 vless://3fdf9d48-578a-42dc-9fdd-0dfcefa3d0c5@malaysia.com:443?security=tls&sni=cf.asong.eu.org&allowInsecure=1&fp=random&type=ws&path=/?ed%3D2560&host=cf.asong.eu.org&encryption=none#malaysia.com
 vless://3fdf9d48-578a-42dc-9fdd-0dfcefa3d0c5@singapore.com:443?security=tls&sni=cf.asong.eu.org&allowInsecure=1&fp=random&type=ws&path=/?ed%3D2560&host=cf.asong.eu.org&encryption=none#%F0%9F%87%B8%F0%9F%87%AC%20singapore.com
