@@ -1,5 +1,5 @@
 https://cf.asong.eu.org/3fdf9d48-578a-42dc-9fdd-0dfcefa3d0c5
-vless://3fdf9d48-578a-42dc-9fdd-0dfcefa3d0c5@amd2.720208.xyz:59167?
+vless://3fdf9d48-578a-42dc-9fdd-0dfcefa3d0c5@amd2.720208.xyz:59167?type=tcp&security=reality&flow=&sni=www.sega.com&pbk=d9cGLVBrDFS02L2OvkqyqwFZ1Ux3AHs28ehl4Rwiyl0&sid=adef9bdb&fp=chrome#amd2-vless
 
 vless://3fdf9d48-578a-42dc-9fdd-0dfcefa3d0c5@58.176.95.46:443?security=tls&sni=cf.asong.eu.org&allowInsecure=1&type=ws&path=/?proxyip%3Doracle.gitgoogle.com&host=cf.asong.eu.org&encryption=none#%F0%9F%87%AD%F0%9F%87%B0%20HK%F0%9F%90%B2%E2%84%A2%EF%B8%8F%E3%80%90%E8%AF%B7%E5%8B%BF%E6%B5%8B%E9%80%9F%E3%80%91%208
 vless://3fdf9d48-578a-42dc-9fdd-0dfcefa3d0c5@59.3.3.161:443?security=tls&sni=cf.asong.eu.org&allowInsecure=1&type=ws&path=/?proxyip%3Doracle.gitgoogle.com&host=cf.asong.eu.org&encryption=none#%F0%9F%87%B0%F0%9F%87%B7%20KR%F0%9F%90%B2%E2%84%A2%EF%B8%8F%E3%80%90%E8%AF%B7%E5%8B%BF%E6%B5%8B%E9%80%9F%E3%80%91%202
