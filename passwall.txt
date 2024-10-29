@@ -10,3 +10,8 @@ vless://3fdf9d48-578a-42dc-9fdd-0dfcefa3d0c5@cf.asong.eu.org:443?security=tls&sn
 trojan://N3cqtpnNfX@racknerd.720208.xyz:42415?security=&type=tcp#rack-trojan
 vless://3fdf9d48-578a-42dc-9fdd-0dfcefa3d0c5@racknerd.720208.xyz:23456?security=&type=ws&path=/&encryption=none#rack-vless
 vmess://eyJhZGQiOiJyYWNrbmVyZC43MjAyMDgueHl6IiwiYWlkIjoiMCIsImhvc3QiOiIiLCJpZCI6IjNmZGY5ZDQ4LTU3OGEtNDJkYy05ZmRkLTBkZmNlZmEzZDBjNSIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiODA4MCIsInBzIjoicmFjay12bWVzcyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
+
+hy2://0.123456@193.122.110.196:12345?insecure=1&sni=www.bing.com#amd1-hy2
+hy2://0.123456@193.122.97.28:443?sni=amd2.720208.xyz#amd2-hy2
+hy2://3fdf9d48-578a-42dc-9fdd-0dfcefa3d0c5@146.56.149.215:12345?insecure=1&sni=www.bing.com#arm2g-hy2
+hy2://0.123456@23.94.211.92:12345?insecure=1&sni=www.bing.com#rack-hy2
