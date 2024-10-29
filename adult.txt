@@ -33,6 +33,7 @@ massage,http://cdn.adultiptv.net/massage.m3u8
 俄罗斯 720,http://cdn.adultiptv.net/russian.m3u8
 少女 720,http://cdn.adultiptv.net/teen.m3u8
 三人 720,http://cdn.adultiptv.net/threesome.m3u8
+Woman,https://live.redtraffic.net/woman.m3u8
 
 Live-redtraffic,#genre#
 ama,http://live.redtraffic.xyz/ama.m3u8
