@@ -1,7 +1,18 @@
-type=tcp&security=reality&flow=&sni=www.sega.com&pbk=d9cGLVBrDFS02L2OvkqyqwFZ1Ux3AHs28ehl4Rwiyl0&sid=adef9bdb&fp=chrome#amd2-vless
+
 
 trojan://bpb-trojan@ip.sb:443?security=tls&sni=2pp2-documentation.pages.dev&allowInsecure=1&type=ws&path=/tr?ed%3D2560&host=2pp2-documentation.pages.dev#2pp2-documentation.pages.dev
 trojan://bpb-trojan@ip.sb:443?security=tls&sni=123.drming.buzz&allowInsecure=1&type=ws&path=/tr?ed%3D2560&host=123.drming.buzz#123.drming.buzz
 trojan://bpb-trojan@visa.cn:443?security=tls&sni=15-eu5.pages.dev&allowInsecure=1&type=ws&path=/tr?ed%3D2560&host=15-eu5.pages.dev#15-eu5.pages.dev
 trojan://bpb-trojan@visa.cn:443?security=tls&sni=20241004.xn--0nsq2oyr5as5h.us.kg&allowInsecure=1&type=ws&path=/tr?ed%3D2560&host=20241004.xn--0nsq2oyr5as5h.us.kg#20241004.xn--0nsq2oyr5as5h.us.kg
 trojan://bpb-trojan@visa.cn:443?security=tls&sni=539346345.xyz&allowInsecure=1&type=ws&path=/tr?ed%3D2560&host=539346345.xyz#539346345.xyz
+trojan://bpb-trojan@visa.cn:443?security=tls&sni=hekai9158.us.kg&allowInsecure=1&type=ws&host=hekai9158.us.kg&path=%2Ftr%3Fed%3D2560#hekai9158.us.kg
+trojan://bpb-trojan@visa.cn:443?security=tls&sni=bpb27.intermilan0.us.kg&allowInsecure=1&type=ws&host=bpb27.intermilan0.us.kg&path=%2Ftr%3Fed%3D2560#bpb27.intermilan0.us.kg
+trojan://bpb-trojan@visa.cn:443?security=tls&sni=qiben.us.kg&allowInsecure=1&type=ws&host=qiben.us.kg&path=%2Ftr%3Fed%3D2560#qiben.us.kg
+trojan://bpb-trojan@visa.cn:443?security=tls&sni=yy134326.xn--v4qx4h71mhws.us.kg&allowInsecure=1&type=ws&host=yy134326.xn--v4qx4h71mhws.us.kg&path=%2Ftr%3Fed%3D2560#yy134326.xn--v4qx4h71mhws.us.kg
+trojan://bpb-trojan@visa.cn:443?security=tls&sni=email.decator.ru&allowInsecure=1&type=ws&host=email.decator.ru&path=%2Ftr%3Fed%3D2560#email.decator.ru
+trojan://bpb-trojan@visa.cn:443?security=tls&sni=testzhelijun1145.us.kg&allowInsecure=1&type=ws&host=testzhelijun1145.us.kg&path=%2Ftr%3Fed%3D2560#testzhelijun1145.us.kg
+trojan://bpb-trojan@visa.cn:443?security=tls&sni=tantan.tutuka.dns.army&allowInsecure=1&type=ws&host=tantan.tutuka.dns.army&path=%2Ftr%3Fed%3D2560#tantan.tutuka.dns.army
+trojan://bpb-trojan@visa.cn:443?security=tls&sni=xn--j81a081a.us.kg&allowInsecure=1&type=ws&host=xn--j81a081a.us.kg&path=%2Ftr%3Fed%3D2560#xn--j81a081a.us.kg
+trojan://bpb-trojan@visa.cn:443?security=tls&sni=easytalk.us.kg&allowInsecure=1&type=ws&host=easytalk.us.kg&path=%2Ftr%3Fed%3D2560#easytalk.us.kg
+trojan://bpb-trojan@visa.cn:443?security=tls&sni=singbox.zysbang.us.kg&allowInsecure=1&type=ws&host=singbox.zysbang.us.kg&path=%2Ftr%3Fed%3D2560#singbox.zysbang.us.kg
+trojan://bpb-trojan@visa.cn:443?security=tls&sni=singbox.cloudwind.us.kg&allowInsecure=1&type=ws&host=singbox.cloudwind.us.kg&path=%2Ftr%3Fed%3D2560#singbox.cloudwind.us.kg
