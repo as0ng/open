@@ -1,5 +1,4 @@
 vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@test123.zlqhdns.top:24318?security=reality&sni=www.nvidia.com&allowInsecure=1&fp=chrome&pbk=qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY&type=tcp&flow=xtls-rprx-vision&encryption=none#%E9%A6%99%E6%B8%AF74%20%7C%20%E2%AC%87%EF%B8%8F%2019.8MB/s
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@43.207.157.253:443#%E6%97%A5%E6%9C%AC49%20%7C%20%E2%AC%87%EF%B8%8F%2029.7MB/s
 vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@test123.zlqhdns.top:24318?security=reality&sni=www.nvidia.com&allowInsecure=1&fp=chrome&pbk=qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY&type=tcp&flow=xtls-rprx-vision&encryption=none#%E9%A6%99%E6%B8%AF3%20%7C%20%E2%AC%87%EF%B8%8F%2054.3MB/s
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@13.229.73.58:443#%E6%96%B0%E5%8A%A0%E5%9D%A14%20%7C%20%E2%AC%87%EF%B8%8F%2029.0MB/s
 vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@bsuqian01.dynu.net:40387?security=reality&sni=www.nvidia.com&allowInsecure=1&fp=chrome&pbk=qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY&type=tcp&flow=xtls-rprx-vision&encryption=none#%E9%A6%99%E6%B8%AF13%20%7C%20%E2%AC%87%EF%B8%8F%206.0MB/s
