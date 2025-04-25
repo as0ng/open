@@ -55,3 +55,4 @@ vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@zhee01.dynu.net:24050?security=real
 vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@zhee01.dynu.net:15700?security=reality&sni=www.nvidia.com&allowInsecure=1&fp=chrome&pbk=qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY&type=tcp&flow=xtls-rprx-vision&encryption=none#%E5%8F%B0%E6%B9%BE4%20%7C%20%E2%AC%87%EF%B8%8F%2016.6MB/s%7C16%25%7CNetflix
 trojan://86112bf5-95b1-4df2-b128-cecd1b5577ba@250407.jichang.my:52803?security=tls&sni=seoul3.678789.xyz&allowInsecure=1&type=tcp#%E9%9F%A9%E5%9B%BD9%20%7C%20%E2%AC%87%EF%B8%8F%207.4MB/s%7C63%25%7CNetflix%7CYoutube%7COpenai%7CGemini
 hy2://b72ba5d5-2d5e-45b7-93b5-236d343baa7c@64.181.204.186:47262?insecure=1&sni=www.bing.com#%E7%BE%8E%E5%9B%BD3%20%7C%20%E2%AC%87%EF%B8%8F%2012.2MB/s%7C25%25%7CNetflix%7COpenai%7CGemini
+hy2://80afa6e1-726b-432a-937b-c6eb7d01896b@23.94.211.92:31119?insecure=1&sni=www.bing.com#hy2-rack
