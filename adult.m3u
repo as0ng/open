@@ -1,15 +1,24 @@
-#EXTINF:-1 tvg-name="Desire" tvg-logo="https://live.fanmingming.com/tv/Desire.png" group-title="CDN-ADULT",Desire
+#EXTINF:-1,Leo TV
+http://88.212.7.11/live/test_leo_hd_hevc/playlist.m3u8
+#EXTINF:-1,Reality Kings TV
+http://88.212.7.11/live/test_realitykings_sd_hevc/playlist.m3u8
+#EXTINF:-1,Leo TV HD
+http://88.212.7.11/live/test_leo_hd_hevc/playlist.m3u8
+#EXTINF:-1,Digital Desire
 http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8
-#EXTINF:-1 tvg-name="Brazzers" tvg-logo="https://live.fanmingming.com/tv/Brazzers.png" group-title="CDN-ADULT",Brazzers
+#EXTINF:-1,Brazzers TV Europe
 http://88.212.7.11/live/test_brazzers_hd_hevc/playlist.m3u8
-#EXTINF:-1 tvg-name="Dorcel" tvg-logo="https://live.fanmingming.com/tv/Dorcel.png" group-title="CDN-ADULT",Dorcel
+#EXTINF:-1,Dorcel TV HD
 http://88.212.7.11/live/test_dorcel_hd_hevc/playlist.m3u8
-#EXTINF:-1 tvg-name="Eroxxx" tvg-logo="https://live.fanmingming.com/tv/Eroxxx.png" group-title="CDN-ADULT",Eroxxx
+#EXTINF:-1,Eroxxx HD
 http://88.212.7.11/live/test_eroxxx_hd_hevc/playlist.m3u8
-#EXTINF:-1 tvg-name="Extasy" tvg-logo="https://live.fanmingming.com/tv/Extasy.png" group-title="CDN-ADULT",Extasy
-http://88.212.7.11/live/test_extasy_hd_hevc/playlist.m3u8
-#EXTINF:-1 tvg-name="Erox HD" tvg-logo="https://live.fanmingming.com/tv/Erox HD.png" group-title="CDN-ADULT",Erox HD
+#EXTINF:-1,Erox
 http://88.212.7.11/live/test_erox_hd_hevc/playlist.m3u8
+#EXTINF:-1,Extasy TV
+http://88.212.7.11/live/test_extasy_hd_hevc/playlist.m3u8
+#EXTINF:-1,Babes TV
+http://88.212.7.11/live/test_basbes_hd_hevc/playlist.m3u8
+#EXTINF:-1,Porn Classic
 #EXTINF:-1 tvg-name="肛交 720" tvg-logo="https://live.fanmingming.com/tv/肛交 720.png" group-title="CDN-ADULT",肛交 720
 http://cdn.adultiptv.net/anal.m3u8
 #EXTINF:-1 tvg-name="Asian" tvg-logo="https://live.fanmingming.com/tv/Asian.png" group-title="CDN-ADULT",Asian
